@@ -30,7 +30,8 @@ already run bike buses, and the domain is meant to be a shared asset.
 - ✅ Flyer / ride page written
 - ✅ Google Form live and collecting sign-ups
 - ✅ Site pushed to `andrewpgordon/brooklinebikebus.org`, deploying via Actions
-- ✅ Domain bought at **Namecheap** (Sep 2026); DNS → GitHub Pages in progress
+- ✅ Domain bought at **Namecheap** (Sep 2026); live at https://brooklinebikebus.org
+  with HTTPS enforced (www and github.io redirect to it)
 - ✅ Tina (SRTS) emailed by Andrew; principal + PTO emailed by Nicole (Sep 2026)
 - ✅ Nathan messaged about the landing page (Sep 2026) — waiting on his reply
 - ⬜ Release language not yet seen by a lawyer ← **blocker**. Andrew has asked
