@@ -10,6 +10,9 @@ careful draft, not legal advice, and nobody qualified has read it. Two specific
 questions: (1) can a parent release claims on behalf of their own minor child in
 Massachusetts? (2) does the PTO want this under its insurance, or firmly
 outside it? Draft email ready: `outreach/email-lawyer-release.md`. · *Andrew*
+*Sep 10:* Andrew asked Tina and other bike buses what release they use. Good
+for comparing wording, but it doesn't answer question (1) — only a lawyer can.
+Still open.
 
 **Ride the route in person, 7:30 on a school day.**
 Time it. Note every place a car turns across the group. Then ride it again with
@@ -30,10 +33,9 @@ Must be a parent who lives above Mason Terrace. Every other open role can be
 filled by any willing adult; this one can't. Without it the 7:00 leg doesn't run.
 · *Andrew + Nicole*
 
-**Tell Nathan about the landing page — overdue.** The domain is bought and the
-site is going live with his school and his name on it, and he hasn't been asked.
-Send before anyone shares the link. Note ready: `outreach/note-nathan.md`.
-· *Andrew*
+~~**Tell Nathan about the landing page.**~~ Messaged by Andrew, Sep 10. If he
+asks for changes to the Lincoln card, make them before the link is shared
+widely. · *Andrew*
 
 ## Everything else
 

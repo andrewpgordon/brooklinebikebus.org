@@ -1,8 +1,8 @@
 # Note to Nathan Freitas (Lincoln bike bus)
 
-**Status: not yet sent.** Overdue: decision D10 said to ask him *before*
-buying the domain, and the domain is now bought. His school and his name are
-on the landing page. Send this before anyone shares the link.
+**Status: sent by Andrew, Sep 10, 2026.** This is the draft it was based on.
+(Decision D10 said to ask him before buying the domain; in the end the domain
+came first and this went out the same day.)
 
 Works as a text or an email.
 

@@ -32,11 +32,12 @@ already run bike buses, and the domain is meant to be a shared asset.
 - ✅ Site pushed to `andrewpgordon/brooklinebikebus.org`, deploying via Actions
 - ✅ Domain bought at **Namecheap** (Sep 2026); DNS → GitHub Pages in progress
 - ✅ Tina (SRTS) emailed by Andrew; principal + PTO emailed by Nicole (Sep 2026)
-- ⬜ Release language not yet seen by a lawyer ← **blocker** (draft: `docs/outreach/email-lawyer-release.md`)
+- ✅ Nathan messaged about the landing page (Sep 2026) — waiting on his reply
+- ⬜ Release language not yet seen by a lawyer ← **blocker**. Andrew has asked
+  Tina and other bike buses what they use — useful, but not a legal review.
+  Draft for a lawyer: `docs/outreach/email-lawyer-release.md`
 - ⬜ Route not yet ridden in person at 7:30 on a school day ← **blocker**
 - ⬜ Four volunteer roles unfilled
-- ⬜ Nathan not yet told his school is on the landing page — **overdue** now the
-  domain is bought (note: `docs/outreach/note-nathan.md`)
 
 See `docs/open-questions.md` for the full list, and `docs/timeline.md` for the
 week-by-week plan.

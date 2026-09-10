@@ -8,7 +8,7 @@ Four weeks. ▲ = do this first.
 - ✅ **Email the principal and PTO co-chairs** — sent by Nicole. Newsletter
   slot on Sep 21, bike rack answer, PTO insurance question.
 - ▲ **Send the release to a lawyer.** Draft: `outreach/email-lawyer-release.md`.
-- ▲ **Send Nathan the note** (`outreach/note-nathan.md`) — domain is bought.
+- ✅ **Send Nathan the note** — sent by Andrew.
 - Confirm the bell time with the office.
 - Call Nathan — what broke in his year one, and tell him about the landing page.
 - Split the list: one of you takes school + town, the other takes recruiting +

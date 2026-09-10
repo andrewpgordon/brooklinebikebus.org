@@ -14,8 +14,8 @@
   in `outreach/email-tina-srts.md`. Waiting on her answer.
 - **Nathan Freitas** — organizer of the Lincoln School bike bus, the model for
   this one. nathanfreitas@gmail.com · 718-569-7272
-  His public ride doc and his name are on our landing page. **He has not been
-  told** — note ready in `outreach/note-nathan.md`.
+  His public ride doc and his name are on our landing page. **Andrew messaged
+  him Sep 10** (based on `outreach/note-nathan.md`). Waiting on his reply.
 
 ## Contacted
 - Driscoll principal + PTO co-chairs — **emailed by Nicole (Sep 2026)**:
