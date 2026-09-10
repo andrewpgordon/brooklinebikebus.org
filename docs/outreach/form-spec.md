@@ -36,10 +36,8 @@ All five required flags verified present.
 - ⬜ **Anything we should know?** — "Allergies, a bike that needs looking at, a
   kid who'd rather hold someone's hand at the crossing — anything at all."
 
-⬜ **Q5's fourth option is live but still says `Option 4`** — rename it to
-`7:38 — Washington Square`. (A parent pointed out you can join the ride there
-and the form didn't offer it.) Until it's renamed, families see a choice called
-"Option 4".
+✅ **Q5 has a fourth option, `7:38 — Washington Square`** — a parent pointed
+out you can join the ride there and the form didn't offer it.
 
 Families who signed up before Sep 10 never saw the WhatsApp sentence. Before
 adding their numbers to the group, ask them first.

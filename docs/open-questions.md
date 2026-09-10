@@ -55,8 +55,7 @@ site for now. His answer matters again if the town-wide page comes back.
 - **What's in the free SRTS gear package, and what's the lead time?**
 - **Three more volunteers** beyond the hill walker: two corkers and a crossing
   lead.
-- **Form: rename Q5's "Option 4" to "7:38 — Washington Square"** — the option
-  exists on the live form but still has the placeholder name. · *Andrew, now*
+- ~~Form: add "7:38 — Washington Square" to Q5~~ — done Sep 10.
 - **Form: add the last help text** ("Anything we should know?"). Email, Mobile
   (the WhatsApp consent line) and Kids are done. See `outreach/form-spec.md`.
 - ~~Buy brooklinebikebus.org~~ — done, Namecheap, Sep 2026 (ahead of the Nathan
