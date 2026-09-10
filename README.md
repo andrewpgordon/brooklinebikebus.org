@@ -131,8 +131,8 @@ ways. The reliable method: in your editor, search the whole `public/` folder
 for `Oct` and look at every hit.
 
 - `public/driscoll/index.html` — the crimson band near the top (the date *and*
-  the rain date), the `description` and `og:description` tags in the `<head>`
-  (written `Wednesday October 7`, no comma), and two answers in the FAQ.
+  the rain date), the `description` and `og:description` tags in the `<head>`,
+  and two answers in the FAQ.
 - `public/index.html` — the homepage is only a redirect, but it carries its
   own copy of the `description` and `og:description` tags, because WhatsApp
   reads those from the homepage when someone pastes the bare domain.

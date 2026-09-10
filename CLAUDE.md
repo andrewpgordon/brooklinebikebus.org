@@ -140,3 +140,11 @@ Plain, warm, specific, no exclamation marks, no jargon, no "join us for an
 exciting morning of…". Where something is unsafe, say so plainly and say what
 to do instead. Where a family might feel judged — a wobbly rider, a kid who
 needs to walk — say explicitly that it's fine.
+
+**It must not read as AI-written** (Andrew, Sep 10). On the site and in
+anything sent under Andrew's name: no em dashes (use a period, comma or
+parentheses); no rhythmic threes like "one route, one time, at the pace of the
+slowest rider"; no paired slogans like "nobody rides alone, nobody gets
+dropped"; no one-word punchlines ("Never.") or neat closing one-liners
+("Nobody is keeping score."). Write the way a parent texts other parents:
+ordinary sentences, contractions, concrete facts.
