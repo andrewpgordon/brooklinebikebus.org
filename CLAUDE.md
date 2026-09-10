@@ -112,7 +112,8 @@ framework, a bundler, or npm without a concrete reason and Andrew's agreement.
 - **Every page needs its own `og:image`, `og:title`, `og:description`.** Most
   families meet this site as a WhatsApp link preview.
 - **Never call these rides school-sponsored.** They are not. Do not use school
-  logos or branding. The disclaimer wording in `docs/release-language.md` is
+  logos or branding. (The dragon badge on the Driscoll page is our own
+  AI-generated art reading "Driscoll Bike Bus" — see D14. Never "Driscoll School".) The disclaimer wording in `docs/release-language.md` is
   canonical — if you change it in one place, change it everywhere.
 
 ## Maps

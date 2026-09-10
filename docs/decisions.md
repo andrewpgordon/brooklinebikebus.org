@@ -84,3 +84,14 @@ Side effect: Lincoln and Nathan's name are no longer on the live site.
 It's a static-page redirect (meta refresh plus one line of script) because
 GitHub Pages can't do server redirects. WhatsApp doesn't follow it, so the
 homepage keeps its own copy of the Driscoll page's `og:` tags.
+
+### D14 — A dragon badge, but it says "Driscoll Bike Bus", not "Driscoll School"
+Sep 10. Andrew made a badge in Gemini — a red cartoon dragon (Driscoll's mascot
+is a dragon) in a helmet, on a bike. The first version's top arc read
+"DRISCOLL SCHOOL", which in a round seal looks like an official school emblem
+and cuts against the release's "not a school program". Regenerated to read
+"DRISCOLL BIKE BUS · BROOKLINE, MA"; that version is on the Driscoll page.
+
+It's our own AI-generated art, not the school's mascot artwork. Keep it that
+way: don't swap in the school's real dragon, and don't put "Driscoll School"
+back on it. Original in `docs/art/driscoll-badge-original.jpeg`.

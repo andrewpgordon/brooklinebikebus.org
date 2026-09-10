@@ -49,6 +49,9 @@ BY CHECKING THE BOX BELOW, I confirm that:
   newsletter blurb.
 - Never use a school's logo, crest, or branding. Driscoll's *colours* are fine —
   colours aren't trademarks in this context — but the mark is not.
+- The dragon badge on the Driscoll page is our own AI-generated art and reads
+  "Driscoll Bike Bus", on purpose. A version reading "Driscoll School" was
+  rejected because it looked like a school seal (decision D14).
 - The site footer carries a condensed version of points 1 and 3. Keep it there.
 - If another school reuses this, they get it reviewed themselves. Don't let it
   spread unreviewed on the strength of "Driscoll uses it".

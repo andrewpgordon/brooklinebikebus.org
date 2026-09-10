@@ -70,6 +70,19 @@ h1{margin:8px 0 0; font-weight:800; font-size:clamp(40px,9vw,92px); letter-spaci
 h1 .hz{display:inline-block; background:var(--gold); color:var(--gold-ink); padding:0 .08em; border-radius:3px}
 .what{margin:20px 0 0; font-size:clamp(18px,2.5vw,23px); line-height:1.42; color:var(--text-2); max-width:38ch; border-left:4px solid var(--gold); padding-left:16px}
 
+/* Masthead with a badge (Driscoll page). The badge sits beside the tagline so
+   the h1 keeps the full width; on phones it moves to the top. */
+.masthead{display:grid; grid-template-columns:1fr auto; column-gap:24px; align-items:center;
+  grid-template-areas:"kicker kicker" "title title" "what badge"}
+.masthead .kicker{grid-area:kicker}
+.masthead h1{grid-area:title}
+.masthead .what{grid-area:what}
+.badge{grid-area:badge; width:clamp(130px,20vw,190px); height:auto; margin-top:20px}
+@media (max-width:600px){
+  .masthead{grid-template-columns:1fr; grid-template-areas:"badge" "kicker" "title" "what"}
+  .badge{width:120px; margin:0 0 14px}
+}
+
 /* --- Date band + schedule ------------------------------------------------ */
 .band{margin-top:28px; background:var(--crimson); color:#FFF6F0; border-radius:5px 5px 0 0; padding:15px 22px; display:flex; flex-wrap:wrap; gap:12px; align-items:baseline; justify-content:space-between}
 .band .big{font-family:Archivo,sans-serif; font-weight:800; font-size:clamp(23px,4.2vw,36px); letter-spacing:-.025em; text-transform:uppercase}

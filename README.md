@@ -11,6 +11,7 @@ public/                    ← THE WEBSITE. Only this folder is published.
   assets/
     site.css               every colour, every component, shared by all pages
     favicon.svg
+    driscoll-badge.webp    the dragon badge at the top of the Driscoll page
     og-default.png         social preview for the town-wide homepage (parked)
     og-driscoll.png        social preview for the Driscoll page
   CNAME                    the domain, for the record (GitHub ignores it — see below)
@@ -21,6 +22,7 @@ public/                    ← THE WEBSITE. Only this folder is published.
 docs/                      project notes — NOT published to the web
   links.local.md           gitignored; URLs that expose sign-up data
   archive/landing-townwide.html   the old town-wide homepage, parked
+  art/                     full-size originals of images used on the site
 CLAUDE.md                  project brief for Claude — NOT published
 README.md                  this file — NOT published
 .gitignore                 keeps links.local.md out of the repo
