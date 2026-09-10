@@ -1,0 +1,9 @@
+# Private links — the form editor and responses sheet. They expose sign-up
+# data (children's names, contact details). Never commit these.
+*.local.md
+
+# Mac clutter
+.DS_Store
+
+# Local Claude Code preview settings
+.claude/

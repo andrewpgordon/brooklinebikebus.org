@@ -1,0 +1,173 @@
+/* ==========================================================================
+   Brookline Bike Bus — shared stylesheet
+   Every page links this file. Change a colour here, it changes everywhere.
+   ========================================================================== */
+
+/* --- Colours -------------------------------------------------------------
+   Driscoll's colours are crimson #BB262A and gold #FFB101.
+   If another school joins with different colours, add a body class
+   (e.g. <body class="school-lincoln">) and override --crimson / --gold there.
+   ------------------------------------------------------------------------- */
+:root{
+  --bg:#F5F2EE; --surface:#FFFDFA; --sunk:#EDE7DF;
+  --text:#1E1516; --text-2:#4C3E3E; --muted:#7C6E6C;
+  --line:#DED5CB; --line-2:#C7BCB0;
+  --crimson:#BB262A; --gold:#FFB101; --gold-ink:#3A2400;
+  --mapbg:#EAE4DB; --parkfill:#D6DFC7; --schoolfill:#FFE3A8;
+  --roadline:#FDFBF7; --artline:#DBCEBC; --walkline:#5C4B48; --rideline:#BB262A;
+  --maplabel:#6F5E5B; --mapart:#7C6E6C;
+}
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]){
+    --bg:#171112; --surface:#211819; --sunk:#0E0A0A;
+    --text:#F3EBE7; --text-2:#CFBEBA; --muted:#9B8A86;
+    --line:#3A2C2C; --line-2:#4D3B3A;
+    --crimson:#F0686C; --gold:#FFB101; --gold-ink:#2A1B00;
+    --mapbg:#120E0E; --parkfill:#1F2A1C; --schoolfill:#463514;
+    --roadline:#332827; --artline:#4A3937; --walkline:#A99490; --rideline:#F0686C;
+    --maplabel:#9B8A86; --mapart:#8B7975;
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#171112; --surface:#211819; --sunk:#0E0A0A;
+  --text:#F3EBE7; --text-2:#CFBEBA; --muted:#9B8A86;
+  --line:#3A2C2C; --line-2:#4D3B3A;
+  --crimson:#F0686C; --gold:#FFB101; --gold-ink:#2A1B00;
+  --mapbg:#120E0E; --parkfill:#1F2A1C; --schoolfill:#463514;
+  --roadline:#332827; --artline:#4A3937; --walkline:#A99490; --rideline:#F0686C;
+  --maplabel:#9B8A86; --mapart:#8B7975;
+}
+
+/* --- Base ---------------------------------------------------------------- */
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0; background:var(--bg); color:var(--text);
+  font-family:"Source Serif 4",Georgia,serif; font-size:16.5px; line-height:1.5;
+  -webkit-font-smoothing:antialiased;
+}
+img{max-width:100%}
+.sheet{max-width:880px; margin:0 auto; padding:26px 22px 70px}
+.sheet--wide{max-width:960px}
+h1,h2,h3,.ui{font-family:Archivo,"Helvetica Neue",Arial,sans-serif}
+a{color:var(--crimson)}
+a:focus-visible{outline:2px solid var(--crimson); outline-offset:3px}
+
+/* --- Site nav ------------------------------------------------------------ */
+.sitenav{
+  display:flex; flex-wrap:wrap; gap:14px; align-items:baseline; justify-content:space-between;
+  padding-bottom:14px; margin-bottom:22px; border-bottom:1px solid var(--line);
+  font-family:Archivo,sans-serif; font-size:13px;
+}
+.sitenav .brand{font-weight:800; letter-spacing:-.01em; color:var(--crimson); text-decoration:none; font-size:15px}
+.sitenav .links{display:flex; gap:18px}
+.sitenav .links a{color:var(--muted); text-decoration:none; font-weight:600}
+.sitenav .links a:hover{color:var(--text)}
+
+/* --- Masthead ------------------------------------------------------------ */
+.kicker{font-family:Archivo,sans-serif; font-weight:700; font-size:12px; letter-spacing:.22em; text-transform:uppercase; color:var(--crimson)}
+h1{margin:8px 0 0; font-weight:800; font-size:clamp(40px,9vw,92px); letter-spacing:-.045em; line-height:.88; text-transform:uppercase; text-wrap:balance; color:var(--crimson)}
+h1 .hz{display:inline-block; background:var(--gold); color:var(--gold-ink); padding:0 .08em; border-radius:3px}
+.what{margin:20px 0 0; font-size:clamp(18px,2.5vw,23px); line-height:1.42; color:var(--text-2); max-width:38ch; border-left:4px solid var(--gold); padding-left:16px}
+
+/* --- Date band + schedule ------------------------------------------------ */
+.band{margin-top:28px; background:var(--crimson); color:#FFF6F0; border-radius:5px 5px 0 0; padding:15px 22px; display:flex; flex-wrap:wrap; gap:12px; align-items:baseline; justify-content:space-between}
+.band .big{font-family:Archivo,sans-serif; font-weight:800; font-size:clamp(23px,4.2vw,36px); letter-spacing:-.025em; text-transform:uppercase}
+.band .sub{font-family:"IBM Plex Mono",monospace; font-size:12.5px; letter-spacing:.08em; opacity:.85}
+
+.sched{border:3px solid var(--crimson); border-top:none; border-radius:0 0 5px 5px; overflow:hidden}
+.leg{background:var(--surface)}
+.leg + .leg{border-top:3px solid var(--crimson)}
+.leg-head{display:flex; flex-wrap:wrap; gap:10px; align-items:baseline; justify-content:space-between; padding:12px 22px; background:var(--sunk); border-bottom:1px solid var(--line)}
+.leg-head h2{margin:0; font-size:15px; font-weight:800; letter-spacing:.03em; text-transform:uppercase; color:var(--crimson)}
+.leg-head .note{font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--muted)}
+.leg-head .opt{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--gold-ink); background:var(--gold); padding:2px 8px; border-radius:100px}
+.stops{list-style:none; margin:0; padding:6px 0}
+.stops li{display:grid; grid-template-columns:78px 1fr; gap:14px; align-items:baseline; padding:9px 22px}
+.stops li + li{border-top:1px solid var(--line)}
+.stops .t{font-family:Archivo,sans-serif; font-weight:800; font-size:19px; letter-spacing:-.01em; color:var(--crimson)}
+.stops .p{font-family:Archivo,sans-serif; font-weight:700; font-size:16px}
+.stops .p em{display:block; font-style:normal; font-family:"Source Serif 4",serif; font-weight:400; font-size:14.5px; color:var(--muted); margin-top:2px; line-height:1.35}
+
+/* --- Map ----------------------------------------------------------------- */
+.map{margin-top:26px; border:1px solid var(--line); border-radius:4px; overflow:hidden}
+.map svg{display:block; width:100%; height:auto}
+.maplegend{display:flex; flex-wrap:wrap; gap:20px; padding:11px 18px; background:var(--surface); border-top:1px solid var(--line); font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--muted); align-items:center}
+.maplegend b{font-family:Archivo,sans-serif; font-weight:700; color:var(--text); font-size:12.5px}
+.swatch{display:inline-block; width:26px; height:0; border-top:5px solid var(--rideline); vertical-align:middle; margin-right:7px; border-radius:3px}
+.swatch.walk{border-top:5px dotted var(--walkline)}
+
+/* --- Sections ------------------------------------------------------------ */
+section{margin-top:34px}
+h3{margin:0 0 12px; font-family:Archivo,sans-serif; font-size:12px; font-weight:700; letter-spacing:.15em; text-transform:uppercase; color:var(--crimson)}
+
+.grid2{display:grid; grid-template-columns:repeat(auto-fit,minmax(250px,1fr)); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:4px; overflow:hidden}
+.grid2 > div{background:var(--surface); padding:18px 20px}
+.grid2 ul{margin:0; padding:0; list-style:none}
+.grid2 li{margin:9px 0; font-size:15.5px; line-height:1.4; padding-left:17px; position:relative}
+.grid2 li::before{content:""; position:absolute; left:0; top:.55em; width:7px; height:7px; border-radius:50%; background:var(--gold)}
+.grid2 li b{font-family:Archivo,sans-serif; font-weight:700}
+
+.faq{display:grid; gap:1px; background:var(--line); border:1px solid var(--line); border-radius:4px; overflow:hidden}
+.faq div{background:var(--surface); padding:15px 20px}
+.faq dt{font-family:Archivo,sans-serif; font-weight:700; font-size:15.5px; margin-bottom:4px}
+.faq dd{margin:0; font-size:15.5px; color:var(--text-2); line-height:1.45}
+
+.vols{display:grid; grid-template-columns:repeat(auto-fit,minmax(215px,1fr)); gap:1px; background:var(--line); border:1px solid var(--line); border-radius:4px; overflow:hidden}
+.vols div{background:var(--surface); padding:15px 18px}
+.vols b{display:block; font-family:Archivo,sans-serif; font-size:15px; margin-bottom:3px}
+.vols .need{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.06em; text-transform:uppercase; display:block; margin-bottom:7px}
+.vols .open{color:var(--crimson); font-weight:600}
+.vols .filled{color:var(--muted)}
+.vols span.t{font-size:14.5px; color:var(--text-2); line-height:1.45}
+
+/* --- Cards (used on the landing page) ------------------------------------ */
+.routes{display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; margin-top:20px}
+.route-card{background:var(--surface); border:1px solid var(--line); border-radius:5px; padding:20px 22px; display:flex; flex-direction:column; gap:8px}
+.route-card.live{border-left:5px solid var(--crimson)}
+.route-card h4{margin:0; font-family:Archivo,sans-serif; font-size:20px; font-weight:800; letter-spacing:-.02em}
+.route-card .status{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted)}
+.route-card.live .status{color:var(--crimson); font-weight:600}
+.route-card p{margin:0; font-size:15.5px; color:var(--text-2); line-height:1.45}
+.route-card a{font-family:Archivo,sans-serif; font-weight:700; margin-top:auto; padding-top:6px; text-decoration:none}
+.route-card a:hover{text-decoration:underline}
+
+/* --- Legal --------------------------------------------------------------- */
+.legal{background:var(--sunk); border:1px solid var(--line); border-left:5px solid var(--crimson); border-radius:0 4px 4px 0; padding:20px 24px}
+.legal p{margin:0 0 11px; font-size:15.5px; line-height:1.5; max-width:74ch; color:var(--text-2)}
+.legal p:last-child{margin-bottom:0}
+.legal b{font-family:Archivo,sans-serif; font-weight:700; color:var(--text)}
+.legal .fine{margin-top:15px; padding-top:13px; border-top:1px solid var(--line-2); font-size:14px; color:var(--muted)}
+
+/* --- Call to action ------------------------------------------------------ */
+.cta{margin-top:26px; background:var(--gold); color:var(--gold-ink); border-radius:5px; padding:24px 26px}
+.cta h2{margin:0 0 8px; font-family:Archivo,sans-serif; font-weight:800; font-size:clamp(21px,3.2vw,29px); letter-spacing:-.025em}
+.cta p{margin:0; max-width:58ch; font-size:16.5px; line-height:1.45}
+.cta a{color:inherit; text-decoration-thickness:1.5px; text-underline-offset:3px}
+/* .cta a.btn must beat `.cta a` above — keep it after, and keep both selectors */
+.cta a.btn{
+  display:inline-block; background:var(--gold-ink); color:var(--gold);
+  font-family:Archivo,sans-serif; font-weight:800; font-size:17px; letter-spacing:-.01em;
+  padding:13px 24px; border-radius:4px; text-decoration:none;
+}
+.cta a.btn:hover{opacity:.88}
+/* A .cta straight after a .band (the landing page's "next ride") joins onto it */
+.band + .cta{margin-top:0; border-radius:0 0 5px 5px}
+.who{display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:18px; margin-top:20px}
+.who div{border-top:2px solid rgba(58,36,0,.38); padding-top:12px}
+.who .nm{font-family:Archivo,sans-serif; font-weight:800; font-size:18px; letter-spacing:-.01em}
+.who .ct{font-family:"IBM Plex Mono",monospace; font-size:13.5px; line-height:1.7; margin-top:5px; word-break:break-word}
+
+/* --- Footer -------------------------------------------------------------- */
+.sitefoot{margin-top:40px; padding-top:20px; border-top:1px solid var(--line); font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--muted); line-height:1.65; letter-spacing:.02em}
+.sitefoot a{color:var(--muted)}
+
+/* --- Print --------------------------------------------------------------- */
+@media print{
+  body{background:#fff; color:#000}
+  .sheet{padding:0}
+  .sitenav,.sitefoot{display:none}
+  .sched,.map,.grid2,.faq,.vols,.cta,.legal,section{break-inside:avoid}
+  .cta{background:#fff; color:#000; border:2px solid #000}
+  .cta a.btn{background:#fff; color:#000; border:2px solid #000}
+}

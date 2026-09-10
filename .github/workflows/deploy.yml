@@ -1,0 +1,41 @@
+# Publishes the public/ folder to GitHub Pages on every push to main.
+#
+# Only public/ is uploaded. CLAUDE.md, README.md and docs/ never reach the web.
+# There is no build step: the files go up exactly as they are.
+#
+# To republish by hand: Actions tab -> Deploy site -> Run workflow.
+
+name: Deploy site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/configure-pages@v6
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: public
+          # Files starting with a dot (public/.nojekyll) are skipped. That's
+          # fine: Jekyll never runs on this kind of deploy. If you ever need a
+          # dot-folder published, such as public/.well-known/, set this to true.
+          include-hidden-files: false
+      - id: deployment
+        uses: actions/deploy-pages@v5
