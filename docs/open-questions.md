@@ -52,10 +52,9 @@ Send before anyone shares the link. Note ready: `outreach/note-nathan.md`.
 - **What's in the free SRTS gear package, and what's the lead time?**
 - **Three more volunteers** beyond the hill walker: two corkers and a crossing
   lead.
-- **Add "7:38 — Washington Square" to the form's "Where will we see you?"**
-  question. A parent pointed out you can join there and the form doesn't say so.
-- **Add back the four help texts Gemini dropped** from the form — especially the
-  mobile field's "we'll add it to the WhatsApp group unless you tell us not to",
-  which is the only place consent is stated.
+- **Form: rename Q5's "Option 4" to "7:38 — Washington Square"** — the option
+  exists on the live form but still has the placeholder name. · *Andrew, now*
+- **Form: add the last help text** ("Anything we should know?"). Email, Mobile
+  (the WhatsApp consent line) and Kids are done. See `outreach/form-spec.md`.
 - ~~Buy brooklinebikebus.org~~ — done, Namecheap, Sep 2026 (ahead of the Nathan
   conversation, which is why that one is now marked overdue).

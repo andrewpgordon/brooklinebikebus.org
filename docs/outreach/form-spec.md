@@ -24,20 +24,25 @@ long forms lose people.
 Release text sits in the description above Q7. Verified present and intact.
 All five required flags verified present.
 
-## Outstanding fixes
+## Fixes — status as of Sep 10, 2026
 
-**Add a fourth option to Q5:** `7:38 — Washington Square`. A parent pointed out
-you can join the ride there and the form doesn't offer it.
+**Help text put back** (question → ⋮ → Description), checked on the live form:
 
-**Add back the help text Gemini dropped** (question → ⋮ → Description):
-
-- **Email** — "Optional, but it's how we send the reminder and the 6:15am
+- ✅ **Email** — "Optional, but it's how we send the reminder and the 6:15am
   weather call. Please leave at least one of email or mobile."
-- **Mobile** — "Optional. We'll add it to the Bike Bus WhatsApp group unless you
-  tell us not to." ← *the only place WhatsApp consent is stated; don't skip it*
-- **Kids coming** — "For example: Maya Gordon — 2nd"
-- **Anything we should know?** — "Allergies, a bike that needs looking at, a kid
-  who'd rather hold someone's hand at the crossing — anything at all."
+- ✅ **Mobile** — "Optional. We'll add it to the Bike Bus WhatsApp group unless
+  you tell us not to." ← *the only place WhatsApp consent is stated*
+- ✅ **Kids coming** — "For example: Maya Gordon — 2nd"
+- ⬜ **Anything we should know?** — "Allergies, a bike that needs looking at, a
+  kid who'd rather hold someone's hand at the crossing — anything at all."
+
+⬜ **Q5's fourth option is live but still says `Option 4`** — rename it to
+`7:38 — Washington Square`. (A parent pointed out you can join the ride there
+and the form didn't offer it.) Until it's renamed, families see a choice called
+"Option 4".
+
+Families who signed up before Sep 10 never saw the WhatsApp sentence. Before
+adding their numbers to the group, ask them first.
 
 ## Settings to verify
 
