@@ -6,12 +6,12 @@ text file you can update this site.
 
 ```
 public/                    ← THE WEBSITE. Only this folder is published.
-  index.html               landing page — what a bike bus is, list of routes
+  index.html               homepage — for now, just sends people to /driscoll/
   driscoll/index.html      the Driscoll ride page
   assets/
     site.css               every colour, every component, shared by all pages
     favicon.svg
-    og-default.png         social preview for the landing page
+    og-default.png         social preview for the town-wide homepage (parked)
     og-driscoll.png        social preview for the Driscoll page
   CNAME                    the domain, for the record (GitHub ignores it — see below)
   .nojekyll                harmless leftover (see below)
@@ -20,6 +20,7 @@ public/                    ← THE WEBSITE. Only this folder is published.
 
 docs/                      project notes — NOT published to the web
   links.local.md           gitignored; URLs that expose sign-up data
+  archive/landing-townwide.html   the old town-wide homepage, parked
 CLAUDE.md                  project brief for Claude — NOT published
 README.md                  this file — NOT published
 .gitignore                 keeps links.local.md out of the repo
@@ -130,18 +131,27 @@ for `Oct` and look at every hit.
 - `public/driscoll/index.html` — the crimson band near the top (the date *and*
   the rain date), the `description` and `og:description` tags in the `<head>`
   (written `Wednesday October 7`, no comma), and two answers in the FAQ.
-- `public/index.html` — the crimson "next ride" band near the top, the
-  Driscoll route card (`Wed Oct 7`), and the `description` and
-  `og:description` tags in the `<head>`.
+- `public/index.html` — the homepage is only a redirect, but it carries its
+  own copy of the `description` and `og:description` tags, because WhatsApp
+  reads those from the homepage when someone pastes the bare domain.
 - `public/assets/og-driscoll.png` — the picture that shows up when the link is
   pasted into WhatsApp has the date **drawn into the image**. Search won't
   find it. Ask Claude to redraw it with the new date.
 
 While you're there, check the times in `<ul class="stops">` still match.
 
-If there's no next ride yet, delete the band and the gold block under it on
-`public/index.html` (from `<div class="band">` down to the closing `</div>` of
-`<div class="cta">`) rather than leaving an old date up.
+### The homepage
+
+Right now `brooklinebikebus.org` sends everyone straight to `/driscoll/`.
+That's deliberate while Driscoll is the only ride this site runs.
+
+The earlier town-wide homepage — what a bike bus is, cards for Driscoll,
+Lincoln and other schools, how to start one — is parked in
+`docs/archive/landing-townwide.html`. To bring it back, copy it over
+`public/index.html`, check its dates, add its URL back to
+`public/sitemap.xml`, and put the "All routes" and "Start one" links back in
+the nav on `public/driscoll/index.html`. Before it goes back up, check with
+Nathan Freitas: it names him and links Lincoln's ride doc.
 
 ### Updating the sign-up form link
 
@@ -156,6 +166,9 @@ gold call-to-action block.
 colour, so change it as well as the words.
 
 ### Adding a school
+
+First bring back the town-wide homepage (see "The homepage" above) — with two
+schools, the domain can't just redirect to one of them.
 
 1. `cp -r public/driscoll public/lincoln` (or whichever).
 2. Edit `public/lincoln/index.html`: the `<title>`, the meta description, the

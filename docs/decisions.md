@@ -72,3 +72,15 @@ a separate date field (Forms timestamps automatically), and the WhatsApp
 question (folded into the mobile field's help text). Kept the typed-name
 signature — redundant with the name field, but it's the thing that makes people
 actually read the box.
+
+### D13 — For now, the homepage redirects to the Driscoll page
+Sep 10, Andrew's call: "landing page should be simpler." Driscoll is the only
+ride this site actually runs, and nearly every visitor is a Driscoll family, so
+the bare domain goes straight to `/driscoll/`. D10 still stands — the domain
+stays town-wide in intent — and the town-wide homepage is parked in
+`docs/archive/landing-townwide.html` for when a second school joins.
+Side effect: Lincoln and Nathan's name are no longer on the live site.
+
+It's a static-page redirect (meta refresh plus one line of script) because
+GitHub Pages can't do server redirects. WhatsApp doesn't follow it, so the
+homepage keeps its own copy of the Driscoll page's `og:` tags.

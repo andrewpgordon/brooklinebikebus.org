@@ -12,8 +12,10 @@ at the pace of the slowest rider.
 **The first ride is a pilot: Wednesday, October 7, 2026** (National Walk & Roll to
 School Day). Rain date Thursday October 8. If turnout is good it goes monthly.
 
-The site is deliberately town-wide, not Driscoll-only — Lincoln and Pierce
-already run bike buses, and the domain is meant to be a shared asset.
+The domain is meant to be town-wide, not Driscoll-only — Lincoln and Pierce
+already run bike buses. **For now, though, the homepage simply redirects to
+`/driscoll/`** (Andrew's call, Sep 10 — see D13 in `docs/decisions.md`). The
+town-wide homepage is parked in `docs/archive/landing-townwide.html`.
 
 ## Who
 
@@ -67,7 +69,7 @@ Two hard rules, both load-bearing:
 
 ```
 public/                  ← the only thing published to the web
-  index.html             landing page
+  index.html             redirect to /driscoll/ (keeps its own og: tags for WhatsApp)
   driscoll/index.html    the Driscoll ride page
   assets/                site.css (all colours + components), favicon, OG images
   CNAME .nojekyll robots.txt sitemap.xml

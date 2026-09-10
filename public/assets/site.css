@@ -151,7 +151,8 @@ h3{margin:0 0 12px; font-family:Archivo,sans-serif; font-size:12px; font-weight:
   padding:13px 24px; border-radius:4px; text-decoration:none;
 }
 .cta a.btn:hover{opacity:.88}
-/* A .cta straight after a .band (the landing page's "next ride") joins onto it */
+/* A .cta straight after a .band joins onto it (used by the parked town-wide
+   homepage in docs/archive/ — harmless if nothing uses it) */
 .band + .cta{margin-top:0; border-radius:0 0 5px 5px}
 .who{display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:18px; margin-top:20px}
 .who div{border-top:2px solid rgba(58,36,0,.38); padding-top:12px}

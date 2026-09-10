@@ -33,9 +33,10 @@ Must be a parent who lives above Mason Terrace. Every other open role can be
 filled by any willing adult; this one can't. Without it the 7:00 leg doesn't run.
 · *Andrew + Nicole*
 
-~~**Tell Nathan about the landing page.**~~ Messaged by Andrew, Sep 10. If he
-asks for changes to the Lincoln card, make them before the link is shared
-widely. · *Andrew*
+~~**Tell Nathan about the landing page.**~~ Messaged by Andrew, Sep 10. Same
+day, the homepage was switched to a redirect (D13), so Lincoln is off the live
+site for now. His answer matters again if the town-wide page comes back.
+· *Andrew*
 
 ## Everything else
 
