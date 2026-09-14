@@ -7,7 +7,7 @@ this up cold.
 |---|---|
 | `../CLAUDE.md` | **Start here.** The whole project in one page. |
 | `route-analysis.md` | Measured elevations, grades, distances. Every way off Corey Hill, and why each was accepted or rejected. Expensive to reproduce — read before re-measuring. |
-| `decisions.md` | Decision log. Thirteen decisions with reasoning, including the ones argued both ways. |
+| `decisions.md` | Decision log. Decisions with reasoning, including the ones argued both ways. |
 | `open-questions.md` | Blockers and field checks, with owners. |
 | `timeline.md` | Week-by-week to Oct 7, plus the ride-day runsheet. |
 | `contacts.md` | People, orgs, and every project link. |

@@ -95,3 +95,11 @@ and cuts against the release's "not a school program". Regenerated to read
 It's our own AI-generated art, not the school's mascot artwork. Keep it that
 way: don't swap in the school's real dragon, and don't put "Driscoll School"
 back on it. Original in `docs/art/driscoll-badge-original.jpeg`.
+
+### D15 — The walking group crosses Beacon at Marion Street, not Summit Avenue
+Sep 14, Andrew's correction. The map and notes had the walking group crossing
+at the Summit Ave signal and going straight to Griggs Park — there's no path
+there. The real way: down Summit to Beacon, west along the Beacon sidewalk,
+across at the Marion Street lights, along Marion, and down the footpath to
+Griggs Terrace. Same meeting corner, 0.46 mi instead of 0.48. Details and
+elevations in `route-analysis.md`.

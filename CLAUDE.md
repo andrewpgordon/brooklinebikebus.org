@@ -47,10 +47,13 @@ week-by-week plan.
 
 ## The route (final — don't re-litigate without reading docs/decisions.md)
 
-**Walking group** (optional, for Corey Hill families) — 0.48 mi:
+**Walking group** (optional, for Corey Hill families) — 0.46 mi:
 `7:00` Summit Ave & Jordan Rd (218 ft) → `7:05` Summit Ave & Mason Terrace
-(137 ft) → `7:15` Griggs Park NE corner (36 ft). Bikes are **walked**, not
-ridden — that stretch of Summit is 8–12%.
+(137 ft) → down Summit to Beacon → west along the Beacon sidewalk → **cross
+Beacon at the Marion Street lights** → Marion St → footpath down to Griggs
+Terrace → `7:15` Griggs Park NE corner (36 ft). Bikes are **walked**, not
+ridden — Summit is 8–12% and the footpath about 10%. (Crossing is at Marion,
+not Summit Ave — Andrew's correction, D15.)
 
 **The ride** — 0.74 mi, max 3%:
 `7:15–7:30` gather, Griggs Park NE corner → `7:30` roll out via Griggs Terrace

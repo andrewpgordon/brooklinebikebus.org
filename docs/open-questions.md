@@ -20,7 +20,10 @@ two or three kids at kid pace — that number is the schedule, not an adult's.
 · *Andrew*
 
 **Walk the walking leg at kid pace, pushing a bike.**
-0.48 mi, 15 minutes on paper. If it takes 20, the whole morning shifts.
+0.46 mi, 15 minutes on paper. If it takes 20, the whole morning shifts. Two
+things to time on the way: the Beacon crossing at Marion Street (button lights
+on each half, tracks in the middle; one light or two?) and pushing bikes down
+the footpath from Marion St to Griggs Terrace, which is about 10% at the top.
 · *Andrew*
 
 **Work out how twenty riders cross Beacon at Washington Square.**

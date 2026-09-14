@@ -65,10 +65,34 @@ Summit Ave's northwest flank (crest → Washington St) is 5.8% average with a
 
 ## The chosen route
 
-**Walking leg — 0.48 mi.** Summit Ave → footpath → Marion St → Griggs Terrace.
+**Walking leg — 0.46 mi (748 m).** Summit Ave (Jordan → Mason → Beacon) → west
+along the north sidewalk of Beacon (~70 m) → cross Beacon at the **Marion Street
+lights** → along Marion St → cross Marion at the zebra crossing → **footpath**
+(OSM way 111768155) down to Griggs Terrace → NE corner.
 Covers the 12% block (Jordan→Mason) and the 7.8% block (Mason→Beacon) on foot.
-Crosses Beacon at the Summit Ave signal. 15 minutes at a bike-pushing pace with
-kids is comfortable but not generous — **verify on foot.**
+15 minutes at a bike-pushing pace with kids is comfortable but not generous —
+**verify on foot.**
+
+*Corrected Sep 14.* This used to say the group crosses at the Summit Ave signal,
+and the map drew a straight line from Summit & Beacon to the park. Andrew,
+who knows the ground: that isn't a path. The real way is west along Beacon,
+across at the crosswalk, down Marion to the walking path. Re-routed on OSM
+sidewalks and crossings; the map line now follows it.
+
+| Point on the corrected stretch | ft | from start |
+|---|---|---|
+| Summit & Beacon, NW corner | 72 | 420 m |
+| Beacon & Marion, north side | 79 | 491 m |
+| Marion at Beacon, south side | 74 | 542 m |
+| Marion, top of the footpath | 61 | 626 m |
+| Footpath, halfway | 40 | 690 m (**~10%** over the upper 64 m) |
+| Footpath, bottom at Griggs Terrace | 36 | 719 m |
+| Griggs Park NE corner | 36 | 748 m |
+
+Per OSM the Beacon crossing at Marion is signalled and button-operated on
+**both** halves of Beacon, with the trolley tracks between (tracks: uncontrolled
+crossing). Whether that is one light or two is a field check. The Marion St
+zebra crossing to the footpath is uncontrolled.
 
 **Riding leg — 0.74 mi, max 3%, average ~2.3%.** Griggs Park NE corner →
 Griggs Terrace around the park → Griggs Road → Washington Street → Driscoll.
@@ -104,6 +128,18 @@ Dijkstra       → path, penalising "Beacon Street" ×6 and footways ×50 for ri
 OpenTopoData   → /v1/ned10m?locations=lat,lon|lat,lon…  (USGS 3DEP 10 m)
 projection     → equirectangular, x scaled by cos(42.34°)
 ```
+
+To redraw a line on the **existing Driscoll map** without refitting, these put
+OSM lat/lon straight onto its 940×473 viewBox (fitted Sep 14 against the drawn
+ride line, median error 0.4 px):
+
+```
+x = 59733.311 × lon + 4249449.635
+y = -80926.307 × lat + 3426672.497
+```
+
+Overpass was overloaded on Sep 14 (both main servers timed out);
+`https://overpass.private.coffee/api/interpreter` answered.
 
 Gotchas that cost time the first go:
 - Overpass rate-limits; space requests a few seconds apart and check whether the
