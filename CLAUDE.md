@@ -35,6 +35,9 @@ town-wide homepage is parked in `docs/archive/landing-townwide.html`.
 - ✅ Domain bought at **Namecheap** (Sep 2026); live at https://brooklinebikebus.org
   with HTTPS enforced (www and github.io redirect to it)
 - ✅ Tina (SRTS) emailed by Andrew; principal + PTO emailed by Nicole (Sep 2026)
+- ✅ Tina replied Sep 14: light-touch permissions (basic form, if any); police
+  contact is on us; add "ride with traffic, on the right" (done). See
+  `docs/outreach/email-tina-srts.md`
 - ✅ Nathan messaged about the landing page (Sep 2026) — waiting on his reply
 - ⬜ Release language not yet seen by a lawyer ← **blocker**. Andrew has asked
   Tina and other bike buses what they use — useful, but not a legal review.

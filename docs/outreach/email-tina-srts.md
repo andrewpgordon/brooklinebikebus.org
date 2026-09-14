@@ -1,9 +1,25 @@
 # Draft reply to Tina Hein — MA Safe Routes to School
 
-**Status: sent by Andrew, September 2026.** This is the draft it was based on —
-check the sent email for exactly what went. Her route audit makes the school
-and police conversations far easier, and gear has lead time, so chase if
-there's no answer within a week.
+**Status: sent by Andrew, September 2026. Tina replied Sep 14** (summary
+below). This is the draft it was based on — check the sent email for exactly
+what went.
+
+## Tina's answers (Sep 14)
+
+- **Waiver / permission language:** MA SRTS recommends a light touch, "if at
+  all". How a child gets to and from school is the family's choice; the only
+  liability waiver a school has is for riding the school bus. If we want
+  permission to participate, she suggests a basic form like the example in the
+  pedestrian safety curriculum document she attached (can be translated).
+  *We haven't looked at that example yet — Andrew has the attachment.*
+- **Police / school coordination:** normally the school, PTO or parent
+  organizers make the request. MA SRTS is happy to connect with Brookline PD if
+  they have questions about walking school buses or bike trains. Brookline PD
+  has been supportive (invited MA SRTS to National Night Out in August).
+- **Feedback on our prep:** please state "riders ride with traffic, on the
+  right side of the road." Added to the ride rules on the Driscoll page Sep 14.
+- Not answered in this reply: route audit, shareable map, the free gear and its
+  lead time. Worth a follow-up if the gear matters for Oct 7.
 
 **To:** Tina.Hein@aecom.com
 **Cc:** nicole.mcclelland@gmail.com

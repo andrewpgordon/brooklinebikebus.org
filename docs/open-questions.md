@@ -12,7 +12,12 @@ Massachusetts? (2) does the PTO want this under its insurance, or firmly
 outside it? Draft email ready: `outreach/email-lawyer-release.md`. · *Andrew*
 *Sep 10:* Andrew asked Tina and other bike buses what release they use. Good
 for comparing wording, but it doesn't answer question (1) — only a lawyer can.
-Still open.
+*Sep 14:* MA SRTS (Tina) recommends a light touch on permissions, "if at all",
+and offered a basic permission form from their pedestrian safety curriculum as
+a model. That's a real option: swap our release for something much simpler.
+Andrew's decision. It's advice on what's normal for bike buses, not on the
+organizers' own legal exposure, so a quick lawyer look is still worthwhile
+whichever version we use. Still open.
 
 **Ride the route in person, 7:30 on a school day.**
 Time it. Note every place a car turns across the group. Then ride it again with

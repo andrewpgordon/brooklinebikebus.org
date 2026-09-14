@@ -10,7 +10,10 @@
 - **Tina Hein** — Outreach Coordinator, MA Safe Routes to School (a MassDOT
   program, run through AECOM). Tina.Hein@aecom.com · 617.371.4428
   Offers, unprompted and free: route audit, a shareable route map, and safety
-  gear for ride leaders. **Andrew emailed her (Sep 2026)**, based on the draft
+  gear for ride leaders. **She replied Sep 14** (answers in
+  `outreach/email-tina-srts.md`): light-touch permissions, police contact is
+  on us but she'll connect with Brookline PD if asked, and state "ride with
+  traffic, on the right". **Andrew emailed her (Sep 2026)**, based on the draft
   in `outreach/email-tina-srts.md`. Waiting on her answer.
 - **Nathan Freitas** — organizer of the Lincoln School bike bus, the model for
   this one. nathanfreitas@gmail.com · 718-569-7272
@@ -24,7 +27,9 @@
 
 ## Still to contact
 - Brookline Police, traffic division — notify (not ask permission); request a
-  bike officer for the first ride
+  bike officer for the first ride. MA SRTS says this is on us, but Tina will
+  connect with Brookline PD if they have questions. Draft:
+  `outreach/email-brookline-pd.md`
 - Brookline Transportation Division — crossing guards and traffic engineering;
   the relationship that outlasts any single ride
 - A lawyer — release language review. Draft in `outreach/email-lawyer-release.md`

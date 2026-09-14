@@ -12,7 +12,8 @@ this up cold.
 | `timeline.md` | Week-by-week to Oct 7, plus the ride-day runsheet. |
 | `contacts.md` | People, orgs, and every project link. |
 | `release-language.md` | Canonical legal text. Single source of truth — appears on the site and in the form. |
-| `outreach/email-tina-srts.md` | Email to MA Safe Routes. Sent by Andrew, Sep 2026. |
+| `outreach/email-tina-srts.md` | Email to MA Safe Routes, sent by Andrew; Tina's Sep 14 answers at the top. |
+| `outreach/email-brookline-pd.md` | Draft heads-up email to Brookline Police about Oct 7. Not yet sent. |
 | `outreach/email-lawyer-release.md` | Draft email asking a lawyer to review the release. Not yet sent. |
 | `outreach/note-nathan.md` | Short note telling Nathan his school is on the landing page. Sent Sep 10. |
 | `outreach/form-spec.md` | Sign-up form spec, current state, and outstanding fixes. |

@@ -20,6 +20,8 @@ Four weeks. ▲ = do this first.
 - Walk the walking leg, pushing a bike.
 - Stand at Washington Square through two or three light cycles.
 - Courtesy call to Brookline Police traffic division and Transportation Division.
+  MA SRTS confirmed this is on us (Tina will connect with PD if they ask).
+  Draft email: `outreach/email-brookline-pd.md`.
 - ✅ Push the site and get the domain resolving — live Sep 10, HTTPS on.
 
 ## Week of Sep 21 — announce

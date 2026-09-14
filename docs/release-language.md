@@ -43,6 +43,15 @@ BY CHECKING THE BOX BELOW, I confirm that:
 • I understand this release does not, and cannot, cover gross negligence or willful misconduct.
 ```
 
+## MA Safe Routes to School's view (Sep 14)
+
+Tina Hein: MA SRTS recommends a light touch on permissions, "if at all". How a
+child gets to school is the family's choice, and the only liability waiver a
+school has is for the school bus. If we want permission, she suggests a basic
+form like the example in their pedestrian safety curriculum (Andrew has the
+attachment). Undecided whether to simplify this release to match. See
+`open-questions.md`.
+
 ## Standing rules
 
 - Never describe any ride as school-sponsored, anywhere, including casually in a
