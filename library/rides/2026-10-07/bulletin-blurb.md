@@ -25,8 +25,9 @@ of Summit Avenue. We never ride on Beacon Street. Everyone gets off and walks
 across it.
 
 Every child rides with their own parent or guardian, and everyone wears a
-helmet, adults too. New riders, balance bikes and scooters are all welcome. If
-it rains, we'll try again on Thursday, October 8.
+helmet, adults too. It's fine if your kid is still learning, and balance bikes
+and scooters can come too. If it rains, we'll go on Thursday, October 8
+instead.
 
 Please sign up at brooklinebikebus.org (one form per family). We're also
 looking for a few adult volunteers, especially someone who lives on Corey Hill
@@ -41,11 +42,12 @@ Andrew Gordon (andrewpgordon@gmail.com) or Nicole McClelland
 
 ## Short version (about 60 words)
 
-**Driscoll Bike Bus, Wednesday, October 7.** Kids and parents biking to school
-together. Meet at Griggs Park (northeast corner) between 7:15 and 7:30, and
-we'll be at school by 7:45. Every child rides with their own parent or
-guardian, and helmets are required. Sign up at brooklinebikebus.org. Organized
-by Driscoll parents, not a school program.
+**Driscoll Bike Bus on Wednesday, October 7.** Driscoll parents are running a
+bike bus to school. Meet at the northeast corner of Griggs Park between 7:15
+and 7:30 and we'll ride over together, getting to school by 7:45. Every child
+rides with their own parent or guardian, and everyone needs a helmet. Sign up
+at brooklinebikebus.org. This is organized by parents and isn't a school
+program.
 
 ---
 

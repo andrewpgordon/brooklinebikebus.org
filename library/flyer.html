@@ -6,6 +6,7 @@
 <!--
   Letter-size flyer with tear-off tabs. See library/README.md.
   For a new ride, change everything marked RIDE DETAILS below, then re-make the PDF.
+  The map is assets/flyer-map.svg, made from the website map by make-flyer-map.py.
   Colours are copied from public/assets/site.css (crimson #BB262A, gold #FFB101).
 -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@500;600&family=Source+Serif+4:wght@400;600&display=swap">
@@ -13,53 +14,46 @@
   @page { size: Letter; margin: 0.4in; }
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; }
-  body { font-family: "Source Serif 4", Georgia, serif; color: #1E1516; font-size: 10.5pt; line-height: 1.35;
-         -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  body { font-family: "Source Serif 4", Georgia, serif; color: #1E1516; font-size: 10.5pt; line-height: 1.35; }
   .page { position: relative; width: 7.7in; height: 10.2in; }
-  .ui { font-family: Archivo, "Helvetica Neue", Arial, sans-serif; }
 
-  /* header */
-  .head { display: flex; align-items: center; gap: 0.25in; height: 1.8in; }
-  .head img { width: 1.75in; height: 1.75in; flex: none; }
+  .head { display: flex; align-items: center; gap: 0.25in; min-height: 1.75in; }
+  .head img { width: 1.7in; height: 1.7in; flex: none; }
   .kicker { font-family: Archivo, sans-serif; font-weight: 700; font-size: 8.5pt; letter-spacing: 0.2em; text-transform: uppercase; color: #BB262A; }
-  h1 { font-family: Archivo, sans-serif; font-weight: 800; font-size: 46pt; line-height: 0.9; letter-spacing: -0.035em; text-transform: uppercase; color: #BB262A; margin: 4pt 0 0; }
+  h1 { font-family: Archivo, sans-serif; font-weight: 800; font-size: 44pt; line-height: 0.9; letter-spacing: -0.035em; text-transform: uppercase; color: #BB262A; margin: 4pt 0 0; white-space: nowrap; }
   h1 span { background: #FFB101; color: #3A2400; padding: 0 3pt; }
-  .sub { margin: 7pt 0 0; font-size: 11.5pt; line-height: 1.3; color: #4C3E3E; }
+  .sub { margin: 8pt 0 0; font-size: 13pt; color: #4C3E3E; }
 
-  /* date band */
-  .band { margin-top: 0.14in; background: #BB262A; color: #FFFFFF; border-radius: 4pt; padding: 7pt 12pt; display: flex; align-items: baseline; justify-content: space-between; }
-  .band .big { font-family: Archivo, sans-serif; font-weight: 800; font-size: 25pt; white-space: nowrap; letter-spacing: -0.02em; text-transform: uppercase; }
-  .band .small { font-family: "IBM Plex Mono", monospace; font-size: 9pt; letter-spacing: 0.05em; }
+  .band { margin-top: 0.16in; background: #BB262A; color: #FFFFFF; border-radius: 4pt; padding: 7pt 12pt; display: flex; align-items: baseline; justify-content: space-between; }
+  .band .big { font-family: Archivo, sans-serif; font-weight: 800; font-size: 26pt; white-space: nowrap; letter-spacing: -0.02em; text-transform: uppercase; }
+  .band .small { font-family: "IBM Plex Mono", monospace; font-size: 9.5pt; letter-spacing: 0.05em; }
 
-  /* schedule + QR */
-  .main { display: flex; gap: 0.2in; margin-top: 0.14in; }
-  .sched { flex: 1; margin: 0; padding: 0; list-style: none; }
-  .sched li { display: flex; gap: 10pt; padding: 3.5pt 0; border-bottom: 0.75pt solid #DED5CB; }
-  .sched li:last-child { border-bottom: none; }
-  .sched .t { font-family: Archivo, sans-serif; font-weight: 800; font-size: 16pt; color: #BB262A; width: 0.62in; flex: none; line-height: 1.1; }
-  .sched .p { font-family: Archivo, sans-serif; font-weight: 700; font-size: 11pt; line-height: 1.2; }
-  .sched .p em { display: block; font-style: normal; font-family: "Source Serif 4", serif; font-weight: 400; font-size: 9.5pt; color: #4C3E3E; margin-top: 1pt; }
-  .qrbox { width: 2.55in; flex: none; border: 2pt solid #1E1516; border-radius: 5pt; padding: 8pt 8pt 7pt; text-align: center; }
-  .qrbox .scan { font-family: Archivo, sans-serif; font-weight: 800; font-size: 14pt; letter-spacing: 0.02em; text-transform: uppercase; }
-  .qrbox img { width: 2.0in; height: 2.0in; display: block; margin: 4pt auto 2pt; image-rendering: pixelated; }
-  .qrbox .url { font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 10.5pt; }
-  .qrbox .note { font-size: 9pt; color: #4C3E3E; margin-top: 2pt; }
+  .times { display: flex; margin-top: 0.14in; border-bottom: 1pt solid #DED5CB; padding-bottom: 7pt; }
+  .times div { flex: 1; padding-right: 6pt; }
+  .times div + div { border-left: 1pt solid #DED5CB; padding-left: 8pt; }
+  .times b { display: block; font-family: Archivo, sans-serif; font-weight: 800; font-size: 19pt; line-height: 1.05; color: #BB262A; }
+  .times span { display: block; font-family: Archivo, sans-serif; font-weight: 700; font-size: 9.5pt; line-height: 1.2; margin-top: 2pt; }
 
-  /* good to know */
-  .know { margin-top: 0.1in; background: #F5F2EE; border-left: 4pt solid #FFB101; padding: 7pt 11pt; columns: 2; column-gap: 0.25in; }
-  .know p { margin: 0 0 4pt; font-size: 9.5pt; line-height: 1.3; break-inside: avoid; }
-  .know b { font-family: Archivo, sans-serif; font-weight: 700; }
+  .main { display: flex; gap: 0.2in; margin-top: 0.16in; align-items: flex-start; }
+  .map { flex: none; width: 5.05in; }
+  .map img { width: 5.05in; height: 2.295in; display: block; border: 0.75pt solid #DED5CB; }
+  .legend { font-family: "IBM Plex Mono", monospace; font-size: 7.5pt; color: #4C3E3E; margin-top: 3pt; line-height: 1.3; }
+  .qrbox { flex: 1; border: 2pt solid #1E1516; border-radius: 5pt; padding: 7pt 6pt 6pt; text-align: center; }
+  .qrbox .scan { font-family: Archivo, sans-serif; font-weight: 800; font-size: 14pt; text-transform: uppercase; }
+  .qrbox img { width: 1.75in; height: 1.75in; display: block; margin: 3pt auto 1pt; image-rendering: pixelated; }
+  .qrbox .url { font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 10pt; }
+  .qrbox .note { font-size: 9pt; color: #4C3E3E; }
 
-  .foot { margin-top: 0.1in; font-size: 9pt; line-height: 1.35; color: #4C3E3E; }
+  .rules { margin-top: 0.16in; background: #F5F2EE; border-left: 4pt solid #FFB101; padding: 7pt 11pt; font-family: Archivo, sans-serif; font-weight: 700; font-size: 11pt; line-height: 1.35; }
+
+  .foot { margin-top: 0.12in; font-size: 9.5pt; color: #4C3E3E; }
   .foot b { font-family: Archivo, sans-serif; color: #1E1516; }
   .foot .fine { font-family: "IBM Plex Mono", monospace; font-size: 7.5pt; color: #7C6E6C; margin-top: 3pt; }
 
-  /* tear-off tabs */
   .tabs { position: absolute; left: 0; right: 0; bottom: 0; height: 1.95in; display: flex; border-top: 1.25pt dashed #7C6E6C; }
   .tab { position: relative; flex: 1; border-left: 1pt dashed #7C6E6C; }
   .tab:first-child { border-left: none; }
-  .tab .words { position: absolute; left: 50%; top: 0.6in; width: 1.1in; height: 0.6in;
-                transform: translate(-50%, -50%) rotate(-90deg); text-align: left; }
+  .tab .words { position: absolute; left: 50%; top: 0.6in; width: 1.1in; height: 0.6in; transform: translate(-50%, -50%) rotate(-90deg); }
   .tab .words div { white-space: nowrap; font-family: Archivo, sans-serif; line-height: 1.22; }
   .tab .w1 { font-weight: 800; font-size: 9.5pt; color: #BB262A; }
   .tab .w2 { font-weight: 700; font-size: 8pt; }
@@ -75,7 +69,7 @@
     <div>
       <div class="kicker">Michael Driscoll School &middot; Brookline</div>
       <h1>The Driscoll<br><span>Bike Bus</span></h1>
-      <p class="sub">Kids and parents biking to school together. We go at the speed of the slowest kid, with adults at the front and the back.</p>
+      <p class="sub">Kids and parents biking to school together</p>
     </div>
   </div>
 
@@ -85,31 +79,29 @@
     <span class="small">RAIN DATE THU OCT 8</span>
   </div>
 
+  <!-- RIDE DETAILS: times and places -->
+  <div class="times">
+    <div><b>7:00</b><span>Walking group, top of Summit Ave</span></div>
+    <div><b>7:15</b><span>Meet at Griggs Park, NE corner</span></div>
+    <div><b>7:30</b><span>We leave</span></div>
+    <div><b>7:38</b><span>Or join at Washington Square</span></div>
+    <div><b>7:45</b><span>At school</span></div>
+  </div>
+
   <div class="main">
-    <!-- RIDE DETAILS: times and places -->
-    <ul class="sched">
-      <li><span class="t">7:00</span><span class="p">Walking group at Summit Ave &amp; Jordan Rd<em>Optional, for families on Corey Hill. We walk our bikes down with a parent leader.</em></span></li>
-      <li><span class="t">7:15</span><span class="p">Meet at Griggs Park, northeast corner<em>Come any time until 7:30. We'll check helmets, brakes and tires.</em></span></li>
-      <li><span class="t">7:30</span><span class="p">We leave<em>Along Griggs Terrace and Griggs Road to Washington Street.</em></span></li>
-      <li><span class="t">7:38</span><span class="p">Washington Square<em>You can join us here too. Everyone walks their bikes across Beacon Street.</em></span></li>
-      <li><span class="t">7:45</span><span class="p">Arrive at the Driscoll bike racks<em>That's 15 minutes before the bell.</em></span></li>
-    </ul>
+    <div class="map">
+      <img src="assets/flyer-map.svg" alt="Route map">
+      <div class="legend">The dots are the walking group and the red line is the ride. The wide gray road is Beacon Street, which we only cross on foot.</div>
+    </div>
     <div class="qrbox">
       <div class="scan">Scan to sign up</div>
       <img src="assets/qr-brooklinebikebus.png" alt="QR code for brooklinebikebus.org">
       <div class="url">brooklinebikebus.org</div>
-      <div class="note">Route map, questions and the sign-up form. One form per family.</div>
+      <div class="note">One form per family</div>
     </div>
   </div>
 
-  <div class="know">
-    <p><b>Every child rides with their own parent or guardian.</b> Please don't drop kids off.</p>
-    <p><b>Helmets are required</b> for everyone, adults too.</p>
-    <p><b>We ride with traffic,</b> on the right side of the road, and we never ride on Beacon Street.</p>
-    <p><b>Still learning to ride?</b> Ride right next to your child or walk alongside. That's completely fine.</p>
-    <p><b>If it rains,</b> we'll send a message by 6:15 AM.</p>
-    <p><b>We need a few more adult helpers.</b> You can offer on the sign-up form.</p>
-  </div>
+  <div class="rules">Every child rides with their own parent or guardian. Everyone wears a helmet, adults too. We ride with traffic, on the right side of the road.</div>
 
   <!-- RIDE DETAILS: contacts -->
   <div class="foot">
@@ -117,7 +109,7 @@
     <div class="fine">Organized by Driscoll parents. This is not a program of the Driscoll School, the Public Schools of Brookline or the Driscoll PTO.</div>
   </div>
 
-  <!-- RIDE DETAILS: the tabs repeat the date and time -->
+  <!-- RIDE DETAILS: the tabs repeat the date and time (8 copies) -->
   <div class="tabs">
     <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
     <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>

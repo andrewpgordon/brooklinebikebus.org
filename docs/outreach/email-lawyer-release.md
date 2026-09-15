@@ -20,8 +20,8 @@ know what to expect. I'm happy to pay for a proper answer.
 Nicole McClelland and I are organizing a bike bus for the Driscoll School,
 which is a group of kids and parents riding to school together. The first ride
 is Wednesday, October 7. We expect about 20 riders over three quarters of a
-mile. It's an informal thing run by parents. It isn't a school, PTO or Town
-program, no money changes hands, and we're volunteers riding with our own kids.
+mile. It's run informally by parents riding with their own kids. It isn't a
+school, PTO or Town program, and nobody is paid.
 
 Families sign up on a Google Form. The last section of the form has the release
 text below, a required checkbox and a typed-name signature, and Google records
@@ -44,7 +44,7 @@ These are the things we'd like to know:
 5. If you suggest changes, do the families who already signed need to sign
    again?
 
-If you could get back to us by about **September 25**, we'd have time to fix
+If you could get back to us by about September 25, we'd have time to fix
 the form before the final reminder goes out. The full text is below.
 
 Thanks very much,

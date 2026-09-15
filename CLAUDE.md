@@ -149,10 +149,22 @@ exciting morning of…". Where something is unsafe, say so plainly and say what
 to do instead. Where a family might feel judged — a wobbly rider, a kid who
 needs to walk — say explicitly that it's fine.
 
-**It must not read as AI-written** (Andrew, Sep 10). On the site and in
-anything sent under Andrew's name: no em dashes (use a period, comma or
-parentheses); no rhythmic threes like "one route, one time, at the pace of the
-slowest rider"; no paired slogans like "nobody rides alone, nobody gets
-dropped"; no one-word punchlines ("Never.") or neat closing one-liners
-("Nobody is keeping score."). Write the way a parent texts other parents:
-ordinary sentences, contractions, concrete facts.
+**Nothing may read as AI-written** (Andrew, Sep 10, widened Sep 15). That
+covers everything: the site, print pieces, emails and blurbs sent under
+Andrew's name, the notes in this repo, and replies in chat. Things to avoid:
+
+- em dashes (use a period, comma or parentheses)
+- rhythmic threes ("one route, one time, at the pace of the slowest rider")
+  and paired slogans ("nobody rides alone, nobody gets dropped")
+- one-word punchlines ("Never.") and tidy closers or stock reassurance ("Nobody
+  is keeping score.", "That's completely fine.")
+- "not X, just Y" and "X, not Y" contrasts used for effect
+- a bold lead-in on every bullet, and colon-then-list sentences in prose
+- filler words like "seamless", "ensure", "crucial", "robust"
+
+Write the way a parent texts other parents: ordinary sentences, contractions,
+concrete facts. Before publishing anything, reread it asking "would a tired
+parent have written this?"
+
+Older notes in `docs/` and this file were written before the rule and still
+have em dashes. Fix them in any passage you're already editing.

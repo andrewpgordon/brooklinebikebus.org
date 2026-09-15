@@ -1,16 +1,18 @@
 # Ride library
 
-Everything we make to promote a ride, kept so the next ride starts from a
-finished set instead of a blank page. None of this is on the website. Only
-`public/` is published.
+The flyer, poster and newsletter text we made for each ride, saved so the
+next ride can reuse them. None of this is on the website. Only `public/` is
+published.
 
 ```
 library/
-  flyer.html            Letter flyer with 8 tear-off tabs, each with a QR code
+  flyer.html            Letter flyer with a small route map and 8 tear-off tabs
+  make-flyer-map.py     makes assets/flyer-map.svg from the map on the website
   poster-kit.html       page 1 is how to build the poster; pages 2 to 8 are the pieces
   bulletin-blurb.md     school bulletin / newsletter text, full and short
   assets/
     qr-brooklinebikebus.png       QR code for brooklinebikebus.org
+    flyer-map.svg                 the flyer's map (don't edit by hand, re-make it)
     driscoll-badge-print.png      dragon badge, full size, no background
   make-pdfs.sh          turns the two .html files into PDFs for one ride
   rides/
@@ -78,10 +80,13 @@ and the poster decoded correctly from a 300 dpi render.
 - Say it's **organized by parents and not a school program**. Never use the
   school's logo. The dragon badge is our own (D14).
 - **Every child rides with their own parent or guardian**, and **helmets are
-  required**. A flyer is exactly where people assume it's a drop-off service.
-- **Plain writing**, the same as the site: no em dashes, no slogans. See the
-  Tone section of `CLAUDE.md`.
+  required**. Someone skimming a flyer could easily think it's a drop-off
+  service, so both have to be on it.
+- **Write like a parent, not like AI.** See the Tone section of `CLAUDE.md`
+  for the specific things to avoid.
 - **Check the route against the site** before reusing old text. The walking
-  group crosses Beacon at **Marion Street**, not Summit Ave (D15).
+  group crosses Beacon at **Marion Street**, not Summit Ave (D15). If the map
+  on the website changes, run `python3 library/make-flyer-map.py` and re-make
+  the flyer PDF.
 - These files use a small tool (WeasyPrint) to make PDFs. That's fine for
   print. The website itself still has no build step (D9).

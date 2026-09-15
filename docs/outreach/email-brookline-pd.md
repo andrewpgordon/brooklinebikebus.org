@@ -18,20 +18,19 @@ Hello,
 I'm a Driscoll School parent, and Nicole McClelland and I are organizing a
 bike bus for the morning of Wednesday, October 7 (National Walk & Roll to
 School Day). A bike bus is a group of kids and parents riding to school
-together. We're not asking for permission, just letting you know it's
-happening and asking a couple of questions. It's a pilot, and if it goes well
-we'd like to do it once a month.
+together. I wanted to let you know about it and ask a couple of questions.
+It's a trial run, and if it goes well we'd like to do it once a month.
 
 We're expecting around 15 to 25 kids, each with their own parent.
 
-- **7:00 to 7:15:** a small walking group comes down Summit Avenue from Jordan
+- 7:00 to 7:15: a small walking group comes down Summit Avenue from Jordan
   Road, walking their bikes. They cross Beacon Street at the lights at Marion
   Street at about 7:10 and take the footpath down to Griggs Park.
-- **7:15 to 7:30:** everyone gathers at the northeast corner of Griggs Park.
-- **7:30:** we ride along Griggs Terrace and Griggs Road to Washington Street.
-- **About 7:38:** everyone gets off at Washington Square and walks their bikes
+- 7:15 to 7:30: everyone gathers at the northeast corner of Griggs Park.
+- 7:30: we ride along Griggs Terrace and Griggs Road to Washington Street.
+- About 7:38: everyone gets off at Washington Square and walks their bikes
   across Beacon Street together.
-- **7:45:** we arrive at the Driscoll bike racks.
+- 7:45: we arrive at the Driscoll bike racks.
 
 We never ride on Beacon Street or Summit Avenue. Adults ride at the front and
 back, and the kids ride with traffic on the right side of the road.
