@@ -19,6 +19,8 @@ public/                    ← THE WEBSITE. Only this folder is published.
   robots.txt
   sitemap.xml
 
+library/                   flyer, poster kit and bulletin blurb for each ride — NOT
+                           published. See library/README.md to reuse them.
 docs/                      project notes — NOT published to the web
   links.local.md           gitignored; URLs that expose sign-up data
   archive/landing-townwide.html   the old town-wide homepage, parked
@@ -142,6 +144,9 @@ for `Oct` and look at every hit.
 
 While you're there, check the times in `<ul class="stops">` still match.
 
+The printed flyer, poster kit and bulletin blurb have the date too. They live
+in `library/`, and `library/README.md` explains how to update them.
+
 ### The homepage
 
 Right now `brooklinebikebus.org` sends everyone straight to `/driscoll/`.
@@ -154,6 +159,10 @@ Lincoln and other schools, how to start one — is parked in
 `public/sitemap.xml`, and put the "All routes" and "Start one" links back in
 the nav on `public/driscoll/index.html`. Before it goes back up, check with
 Nathan Freitas: it names him and links Lincoln's ride doc.
+
+The QR codes on the printed flyers and poster point at the homepage and rely
+on this redirect. If the homepage changes while flyers are still up, they'll
+land on the homepage instead of the ride page.
 
 ### Updating the sign-up form link
 

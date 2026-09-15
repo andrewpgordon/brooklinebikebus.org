@@ -26,7 +26,8 @@ Four weeks. ▲ = do this first.
 
 ## Week of Sep 21 — announce
 - PTO newsletter, Driscoll listserv, class parent reps, Brookline parent groups.
-- Poster on the Driscoll bike racks and at the Griggs Park gate.
+- Poster on the Driscoll bike racks and at the Griggs Park gate. Flyer, poster
+  kit and bulletin blurb are in `library/` (PDFs in `library/rides/2026-10-07/`).
 - Recruit to six adult leaders. Name them; don't hope for them.
 - Ask a local shop about a free tune-up clinic at pickup.
 - Pitch Brookline.News — they've covered Lincoln and Pierce before.

@@ -79,6 +79,8 @@ public/                  ← the only thing published to the web
   driscoll/index.html    the Driscoll ride page
   assets/                site.css (all colours + components), favicon, OG images
   CNAME .nojekyll robots.txt sitemap.xml
+library/                 flyer, poster kit, bulletin blurb, reusable per ride — NOT published
+  rides/2026-10-07/      the PDFs actually printed for that ride
 docs/                    why everything is the way it is — NOT published
   links.local.md         gitignored; holds URLs that expose sign-up data
 CLAUDE.md                this file — NOT published

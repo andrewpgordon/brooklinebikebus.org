@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Driscoll Bike Bus poster kit</title>
+<!--
+  Page 1 is the layout guide for a 22 x 28 inch poster board held sideways.
+  Pages 2 to 8 are the pieces, each printed on Letter paper and cut out.
+  See library/README.md. For a new ride, change everything marked RIDE DETAILS.
+  Colours are copied from public/assets/site.css (crimson #BB262A, gold #FFB101).
+-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@500;600&family=Source+Serif+4:wght@400;600&display=swap">
+<style>
+  @page guide { size: Letter; margin: 0.5in; }
+  @page port  { size: Letter; margin: 0.35in; }
+  @page land  { size: Letter landscape; margin: 0.35in; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { font-family: "Source Serif 4", Georgia, serif; color: #1E1516; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  .guide { page: guide; break-after: page; }
+  .port  { page: port;  break-after: page; height: 10.3in; }
+  .land  { page: land;  break-after: page; height: 7.8in; }
+  .last  { break-after: auto; }
+  .ar { font-family: Archivo, "Helvetica Neue", Arial, sans-serif; }
+  .mono { font-family: "IBM Plex Mono", monospace; }
+
+  /* ---------- page 1: layout guide ---------- */
+  .guide h1 { font-family: Archivo, sans-serif; font-weight: 800; font-size: 22pt; letter-spacing: -0.02em; margin: 0; color: #BB262A; }
+  .guide .lede { font-size: 10pt; line-height: 1.35; margin: 4pt 0 4pt; color: #4C3E3E; }
+  .boardwrap { height: 4.95in; padding-top: 12pt; }
+  .board { position: relative; width: 7in; height: 5.5in; background: #FFFFFF; border: 1.5pt solid #1E1516; transform: scale(0.84); transform-origin: 0 0; margin-left: 0.5in; }
+  .board .dim { position: absolute; font-family: "IBM Plex Mono", monospace; font-size: 7.5pt; color: #7C6E6C; }
+  .pc { position: absolute; border: 0.75pt dashed #7C6E6C; overflow: hidden; }
+  .pc .n { position: absolute; top: 2pt; left: 2pt; width: 13pt; height: 13pt; border-radius: 50%; background: #1E1516; color: #FFFFFF;
+           font-family: Archivo, sans-serif; font-weight: 800; font-size: 7.5pt; line-height: 13pt; text-align: center; }
+  .pc.word { font-family: Archivo, sans-serif; font-weight: 800; color: #BB262A; font-size: 60pt; letter-spacing: -0.03em; line-height: 1;
+             display: flex; align-items: center; }
+  .pc.date { background: #BB262A; color: #FFFFFF; text-align: center; font-family: Archivo, sans-serif; font-weight: 800; }
+  .pc.badge { border-radius: 50%; border-style: dashed; }
+  .pc.badge img { width: 100%; height: 100%; }
+  .pc.times, .pc.msg, .pc.qr { font-family: Archivo, sans-serif; }
+  .steps { margin-top: 6pt; display: flex; gap: 0.3in; }
+  .steps .col { flex: 1; }
+  .steps h2 { font-family: Archivo, sans-serif; font-weight: 800; font-size: 10.5pt; text-transform: uppercase; letter-spacing: 0.08em; color: #BB262A; margin: 0 0 4pt; }
+  .steps ol, .steps ul { margin: 0; padding-left: 14pt; }
+  .steps li { font-size: 9pt; line-height: 1.3; margin-bottom: 2.5pt; }
+  .steps b { font-family: Archivo, sans-serif; }
+  table.sizes { border-collapse: collapse; width: 100%; margin-top: 2pt; }
+  table.sizes td { font-size: 9.5pt; padding: 2pt 0; border-bottom: 0.5pt solid #DED5CB; }
+  table.sizes td:last-child { text-align: right; font-family: "IBM Plex Mono", monospace; font-size: 8.5pt; }
+
+  /* ---------- piece pages ---------- */
+  .cap { font-family: "IBM Plex Mono", monospace; font-size: 8pt; color: #7C6E6C; height: 0.2in; }
+  .cap b { color: #1E1516; }
+  .trim { border: 1pt dashed #7C6E6C; margin: 0 auto; position: relative; }
+  .center { display: flex; flex-direction: column; align-items: center; justify-content: center; }
+
+  .bigword { font-family: Archivo, sans-serif; font-weight: 800; color: #BB262A; font-size: 300pt; letter-spacing: -0.035em; line-height: 1; }
+  .bike { justify-content: flex-end; padding-right: 0.3in; }
+  .bus  { justify-content: flex-start; padding-left: 0.3in; }
+
+  .datepc { background: #BB262A; color: #FFFFFF; text-align: center; }
+  .datepc .dow { font-family: Archivo, sans-serif; font-weight: 800; white-space: nowrap; font-size: 92pt; letter-spacing: -0.02em; line-height: 1; }
+  .datepc .day { font-family: Archivo, sans-serif; font-weight: 800; white-space: nowrap; font-size: 196pt; letter-spacing: -0.04em; line-height: 0.95; }
+  .datepc .rain { font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 22pt; letter-spacing: 0.06em; margin-top: 8pt; }
+
+  .badgepc { border-radius: 50%; }
+  .badgepc img { width: 7.4in; height: 7.4in; display: block; }
+
+  .timespc { padding: 0.35in 0.4in; display: flex; flex-direction: column; justify-content: center; }
+  .timespc .row { display: flex; align-items: center; gap: 0.25in; }
+  .timespc .t { font-family: Archivo, sans-serif; font-weight: 800; font-size: 118pt; color: #BB262A; letter-spacing: -0.03em; line-height: 1; flex: none; white-space: nowrap; }
+  .timespc .w { font-family: Archivo, sans-serif; font-weight: 800; font-size: 31pt; line-height: 1.05; }
+  .timespc .w small { display: block; font-weight: 500; font-size: 20pt; color: #4C3E3E; margin-top: 3pt; }
+  .timespc hr { border: none; border-top: 2pt solid #FFB101; margin: 0.22in 0; }
+  .timespc .walk { margin-top: 0.35in; font-family: Archivo, sans-serif; font-weight: 700; font-size: 18pt; line-height: 1.25; color: #4C3E3E; }
+
+  .msgpc { padding: 0.4in 0.5in; text-align: left; align-items: flex-start; }
+  .msgpc .m1 { font-family: Archivo, sans-serif; font-weight: 800; font-size: 56pt; line-height: 1.02; letter-spacing: -0.02em; }
+  .msgpc .m1 span { background: #FFB101; color: #3A2400; padding: 0 5pt; }
+  .msgpc .m2 { font-family: Archivo, sans-serif; font-weight: 700; font-size: 25pt; line-height: 1.2; margin-top: 0.2in; color: #1E1516; }
+  .msgpc .m3 { font-family: "IBM Plex Mono", monospace; font-weight: 500; font-size: 13pt; margin-top: 0.18in; color: #4C3E3E; }
+
+  .qrpc { flex-direction: row; gap: 0.3in; padding: 0 0.35in; }
+  .qrpc img { width: 5.1in; height: 5.1in; image-rendering: pixelated; flex: none; }
+  .qrpc .s1 { font-family: Archivo, sans-serif; font-weight: 800; font-size: 56pt; line-height: 0.95; letter-spacing: -0.02em; color: #BB262A; text-transform: uppercase; }
+  .qrpc .s2 { font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 19pt; margin-top: 0.25in; }
+  .qrpc .s3 { font-family: Archivo, sans-serif; font-weight: 500; font-size: 15pt; line-height: 1.25; margin-top: 0.12in; color: #4C3E3E; }
+</style>
+</head>
+<body>
+
+<!-- ======================= PAGE 1: LAYOUT GUIDE ======================= -->
+<section class="guide">
+  <h1>How to put the poster together</h1>
+  <p class="lede">For a white 22 &times; 28 inch poster board, held sideways. Print pages 2 to 8, cut each one on its dashed line, and glue them where they're shown below. Drawn to scale.</p>
+
+  <!-- board is 28 x 22 in, drawn at 0.25 in per inch -->
+  <div class="boardwrap"><div class="board">
+    <div class="pc word" style="left:0.95in; top:0.2in; width:2.55in; height:1.325in; justify-content:flex-end; padding-right:0.08in;"><span class="n">2</span>BIKE</div>
+    <div class="pc word" style="left:3.5in; top:0.2in; width:2.55in; height:1.325in; padding-left:0.08in;"><span class="n">3</span>BUS</div>
+
+    <div class="pc badge" style="left:0.225in; top:1.725in; width:1.875in; height:1.875in;"><img src="assets/driscoll-badge-print.png" alt=""><span class="n">4</span></div>
+    <div class="pc date center" style="left:2.225in; top:1.725in; width:2.55in; height:1.875in;"><span class="n">5</span><div style="font-size:23pt; line-height:1;">WEDNESDAY</div><div style="font-size:44pt; line-height:0.95; letter-spacing:-0.03em; white-space:nowrap;">OCT 7</div></div>
+    <div class="pc times" style="left:4.9in; top:1.725in; width:1.875in; height:1.875in; padding:0.12in 0.1in;"><span class="n">6</span>
+      <div style="margin-top:0.14in; font-weight:800; font-size:24pt; color:#BB262A; line-height:1;">7:15</div><div style="font-weight:800; font-size:7.5pt;">Meet at Griggs Park</div>
+      <div style="margin-top:0.08in; font-weight:800; font-size:24pt; color:#BB262A; line-height:1;">7:45</div><div style="font-weight:800; font-size:7.5pt;">Arrive at Driscoll</div></div>
+
+    <div class="pc msg" style="left:0.825in; top:3.8in; width:2.55in; height:1.425in; padding:0.14in 0.12in 0;"><span class="n">7</span>
+      <div style="margin-top:0.08in; font-weight:800; font-size:12pt; line-height:1.05;">Kids and parents biking to school together</div>
+      <div style="font-weight:700; font-size:6.5pt; margin-top:4pt;">Every child rides with their own grown-up.</div></div>
+    <div class="pc qr" style="left:3.625in; top:3.8in; width:2.55in; height:1.425in;"><div style="display:flex; align-items:center; gap:0.08in; padding:0 0.1in; height:1.425in;"><img src="assets/qr-brooklinebikebus.png" alt="" style="width:1.2in; height:1.2in; image-rendering:pixelated;"><div style="font-weight:800; font-size:12pt; line-height:1; color:#BB262A;">SCAN TO SIGN UP</div></div><span class="n">8</span></div>
+
+    <div class="dim" style="left:0; top:-13pt; width:7in; text-align:center;">28 in</div>
+    <div class="dim" style="right:-24pt; top:2.6in;">22 in</div>
+  </div></div>
+
+  <div class="steps">
+    <div class="col">
+      <h2>Putting it together</h2>
+      <ol>
+        <li><b>Print pages 2 to 8 at actual size</b> (choose "Actual size" or 100%, not "Fit to page"). Color is best, but black and white still works.</li>
+        <li><b>Cut each piece on its dashed line.</b> Cut around the dragon badge.</li>
+        <li><b>Lay everything out before you glue.</b> Butt BIKE and BUS right up against each other so they read as one line across the top.</li>
+        <li>Glue stick or spray adhesive both work. A foam board is sturdier to hold for 20 minutes than a paper poster board.</li>
+      </ol>
+      <h2 style="margin-top:8pt">Standing out front</h2>
+      <ul>
+        <li>People driving past can read BIKE BUS and the date. The QR code is only for parents who walk up, so it sits low on the board.</li>
+        <li>Test the QR code with your phone before you go.</li>
+        <li>The sidewalk is public. If you want to stand on school grounds, check with the office first.</li>
+      </ul>
+    </div>
+    <div class="col">
+      <h2>Making it by hand instead</h2>
+      <p style="font-size:9.5pt; line-height:1.35; margin:0 0 4pt;">Use the same layout and a thick marker. Aim for these letter heights:</p>
+      <table class="sizes">
+        <tr><td>BIKE BUS</td><td>3 in</td></tr>
+        <tr><td>OCT 7</td><td>2 1/2 in</td></tr>
+        <tr><td>WEDNESDAY</td><td>1 in</td></tr>
+        <tr><td>7:15 and 7:45</td><td>1 1/4 in</td></tr>
+        <tr><td>Meet at Griggs Park, Arrive at Driscoll</td><td>1/2 in</td></tr>
+        <tr><td>Everything else</td><td>1/4 in or more</td></tr>
+      </table>
+      <p style="font-size:9.5pt; line-height:1.35; margin:6pt 0 0;">Even a hand-lettered board should use the printed QR code (page 8) and badge (page 4). A drawn QR code won't scan.</p>
+      <p style="font-size:9.5pt; line-height:1.35; margin:6pt 0 0;">Keep it to red and black on white. Gold letters are hard to read from a distance.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= PAGE 2: BIKE ======================= -->
+<section class="land">
+  <div class="cap"><b>Piece 2 of 8: BIKE.</b> Cut on the dashed line. Goes top left, touching piece 3.</div>
+  <div class="trim center bike" style="width:10.2in; height:5.3in; flex-direction:row;"><div class="bigword">BIKE</div></div>
+</section>
+
+<!-- ======================= PAGE 3: BUS ======================= -->
+<section class="land">
+  <div class="cap"><b>Piece 3 of 8: BUS.</b> Cut on the dashed line. Goes top right, touching piece 2.</div>
+  <div class="trim center bus" style="width:10.2in; height:5.3in; flex-direction:row;"><div class="bigword">BUS</div></div>
+</section>
+
+<!-- ======================= PAGE 4: BADGE ======================= -->
+<section class="port">
+  <div class="cap"><b>Piece 4 of 8: dragon badge.</b> Cut around the badge. Goes middle left.</div>
+  <div style="height:0.6in"></div>
+  <div class="trim badgepc" style="width:7.5in; height:7.5in; padding:0.05in;"><img src="assets/driscoll-badge-print.png" alt="Driscoll Bike Bus badge"></div>
+</section>
+
+<!-- ======================= PAGE 5: DATE ======================= -->
+<!-- RIDE DETAILS: date and rain date -->
+<section class="land">
+  <div class="cap"><b>Piece 5 of 8: the date.</b> Cut on the dashed line. Goes in the middle.</div>
+  <div class="trim center datepc" style="width:10.2in; height:7.4in;">
+    <div class="dow">WEDNESDAY</div>
+    <div class="day">OCT 7</div>
+    <div class="rain">RAIN DATE THURSDAY, OCT 8</div>
+  </div>
+</section>
+
+<!-- ======================= PAGE 6: TIMES ======================= -->
+<!-- RIDE DETAILS: times and places -->
+<section class="port">
+  <div class="cap"><b>Piece 6 of 8: the times.</b> Cut on the dashed line. Goes middle right.</div>
+  <div style="height:0.6in"></div>
+  <div class="trim timespc" style="width:7.5in; height:7.5in;">
+    <div class="row"><div class="t">7:15</div><div class="w">Meet at Griggs Park<small>northeast corner</small></div></div>
+    <hr>
+    <div class="row"><div class="t">7:45</div><div class="w">Arrive at Driscoll<small>15 minutes before the bell</small></div></div>
+    <div class="walk">Walking group from the top of Summit Ave at 7:00</div>
+  </div>
+</section>
+
+<!-- ======================= PAGE 7: MESSAGE ======================= -->
+<section class="land">
+  <div class="cap"><b>Piece 7 of 8: what it is.</b> Cut on the dashed line. Goes bottom left.</div>
+  <div class="trim center msgpc" style="width:10.2in; height:5.7in;">
+    <div class="m1">Kids and parents biking to <span>school together</span></div>
+    <div class="m2">Every child rides with their own parent or guardian. Helmets for everyone.</div>
+    <div class="m3">Organized by Driscoll parents. Not a school program.</div>
+  </div>
+</section>
+
+<!-- ======================= PAGE 8: QR ======================= -->
+<section class="land last">
+  <div class="cap"><b>Piece 8 of 8: QR code.</b> Cut on the dashed line. Goes bottom right.</div>
+  <div class="trim center qrpc" style="width:10.2in; height:5.7in;">
+    <img src="assets/qr-brooklinebikebus.png" alt="QR code for brooklinebikebus.org">
+    <div>
+      <div class="s1">Scan to<br>sign up</div>
+      <div class="s2">brooklinebikebus.org</div>
+      <div class="s3">Route map, times and the sign-up form</div>
+    </div>
+  </div>
+</section>
+
+</body>
+</html>
