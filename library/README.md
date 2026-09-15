@@ -10,10 +10,12 @@ library/
   make-flyer-map.py     makes assets/flyer-map.svg from the map on the website
   poster-kit.html       page 1 is how to build the poster; pages 2 to 8 are the pieces
   bulletin-blurb.md     school bulletin / newsletter text, full and short
+  facebook-post.md      post for Brookline parent groups on Facebook
   assets/
     qr-brooklinebikebus.png       QR code for brooklinebikebus.org
     flyer-map.svg                 the flyer's map (don't edit by hand, re-make it)
     driscoll-badge-print.png      dragon badge, full size, no background
+    facebook-badge-1080.jpg       the badge as a square photo for Facebook posts
   make-pdfs.sh          turns the two .html files into PDFs for one ride
   rides/
     2026-10-07/         exactly what we printed for the first ride
@@ -21,6 +23,7 @@ library/
       poster-kit.pdf
       poster-mockup.png     picture of the finished poster
       bulletin-blurb.md     the blurb as sent
+      facebook-post.md      the Facebook post as posted
 ```
 
 ## Printing
