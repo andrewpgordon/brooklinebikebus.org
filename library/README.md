@@ -44,6 +44,10 @@ the top dashed line so it tears off cleanly. Outside, put clear packing tape
 over the top two-thirds and leave the tabs uncovered, or use a sheet protector
 with the bottom trimmed off.
 
+The tab QR codes are small, so use matte paper (glossy causes glare), print on
+the best quality setting, and scan a torn-off tab from the first sheet before
+printing the rest.
+
 Print the poster pieces on 65 lb cover card stock (about 176 gsm). It holds up
 to glue better, and most home printers can feed it. Heavier card usually needs
 a copy shop.
