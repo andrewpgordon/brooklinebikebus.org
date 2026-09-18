@@ -37,6 +37,17 @@ page"), on Letter paper.
   board held sideways. Print pages 2 to 8, cut on the dashed lines, glue.
 - Color looks best. Black and white is fine for both.
 
+**Paper.** Print the flyers on bright white 28 or 32 lb paper (105 to 120
+gsm). Card stock is too stiff for the tabs to tear. Before putting a flyer up,
+cut the dashed lines between the tabs and fold each tab back and forth along
+the top dashed line so it tears off cleanly. Outside, put clear packing tape
+over the top two-thirds and leave the tabs uncovered, or use a sheet protector
+with the bottom trimmed off.
+
+Print the poster pieces on 65 lb cover card stock (about 176 gsm). It holds up
+to glue better, and most home printers can feed it. Heavier card usually needs
+a copy shop.
+
 ## Getting ready for the next ride
 
 1. **Decide the new date, rain date and times.** Check the route and times
