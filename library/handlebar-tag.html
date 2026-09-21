@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Driscoll Bike Bus handlebar tag</title>
+<!--
+  Three tags per Letter sheet, cut the long way. Each strip is 2.6 x 10.4 in.
+  Fold it in half around a handlebar and staple the two halves together, so it
+  hangs as a two-sided tag. The bottom half is printed upside down on purpose,
+  so both faces read the right way up after folding.
+  For a new ride, change everything marked RIDE DETAILS. See library/README.md.
+  Colours are copied from public/assets/site.css (crimson #BB262A, gold #FFB101).
+-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@500;600&family=Source+Serif+4:wght@400;600&display=swap">
+<style>
+  @page { size: Letter; margin: 0.3in; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { font-family: "Source Serif 4", Georgia, serif; color: #1E1516; }
+  .sheet { display: flex; width: 7.9in; height: 10.4in; }
+  .strip { position: relative; width: 2.6333in; height: 10.4in; border-left: 0.75pt dashed #9A8F86; }
+  .strip:first-child { border-left: none; }
+
+  .face { position: absolute; left: 0; width: 100%; height: 4.3in; text-align: center; padding: 0.1in 0.14in; overflow: hidden; }
+  .face.top { top: 0; }
+  .face.bottom { bottom: 0; transform: rotate(180deg); }
+
+  .badge { width: 0.85in; height: 0.85in; display: block; margin: 0 auto; }
+  h1 { font-family: Archivo, sans-serif; font-weight: 800; font-size: 16pt; line-height: 0.98; letter-spacing: -0.02em;
+       text-transform: uppercase; color: #BB262A; margin: 3pt 0 0; }
+  .when { margin-top: 4pt; background: #BB262A; color: #FFFFFF; border-radius: 3pt; padding: 3pt 4pt;
+          font-family: Archivo, sans-serif; font-weight: 800; font-size: 13pt; letter-spacing: -0.01em; text-transform: uppercase; }
+  .where { margin-top: 5pt; font-family: Archivo, sans-serif; font-weight: 700; font-size: 9.5pt; line-height: 1.25; }
+  .where span { display: block; font-weight: 500; color: #4C3E3E; }
+  .qr { width: 1.1in; height: 1.1in; display: block; margin: 5pt auto 1pt; image-rendering: pixelated; }
+  .url { font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 9pt; }
+  .rule { margin-top: 4pt; font-family: Archivo, sans-serif; font-weight: 700; font-size: 7.5pt; line-height: 1.25; }
+  .fine { margin-top: 3pt; font-family: "IBM Plex Mono", monospace; font-size: 6pt; color: #7C6E6C; line-height: 1.3; }
+
+  /* the part that goes around the handlebar, hidden once it's on the bike */
+  .wrap { position: absolute; top: 4.3in; left: 0; width: 100%; height: 1.8in;
+          font-family: "IBM Plex Mono", monospace; font-size: 6.5pt; color: #7C6E6C; text-align: center; }
+  .wrap .fold { position: absolute; top: 0.9in; left: 0; width: 100%; border-top: 0.75pt dashed #9A8F86; }
+  .wrap .t1 { position: absolute; top: 0.14in; left: 0; width: 100%; }
+  .wrap .t2 { position: absolute; top: 1.44in; left: 0; width: 100%; transform: rotate(180deg); }
+</style>
+</head>
+<body>
+<div class="sheet">
+
+  <!-- RIDE DETAILS: date, times and the meeting place appear twice per strip -->
+  <div class="strip">
+    <div class="face top">
+      <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <div class="when">Wed, October 7</div>
+      <div class="where">Meet 7:15 at Griggs Park<span>Northeast corner. We leave at 7:30 and are at school by 7:45.</span></div>
+      <img class="qr" src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+      <div class="rule">Kids ride with their own grown-up. Helmets for everyone.</div>
+      <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+    </div>
+    <div class="wrap">
+      <div class="t1">Fold here, wrap around the handlebar, staple</div>
+      <div class="fold"></div>
+      <div class="t2">Fold here, wrap around the handlebar, staple</div>
+    </div>
+    <div class="face bottom">
+      <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <div class="when">Wed, October 7</div>
+      <div class="where">Meet 7:15 at Griggs Park<span>Northeast corner. We leave at 7:30 and are at school by 7:45.</span></div>
+      <img class="qr" src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+      <div class="rule">Kids ride with their own grown-up. Helmets for everyone.</div>
+      <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+    </div>
+  </div>
+
+  <div class="strip">
+    <div class="face top">
+      <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <div class="when">Wed, October 7</div>
+      <div class="where">Meet 7:15 at Griggs Park<span>Northeast corner. We leave at 7:30 and are at school by 7:45.</span></div>
+      <img class="qr" src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+      <div class="rule">Kids ride with their own grown-up. Helmets for everyone.</div>
+      <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+    </div>
+    <div class="wrap">
+      <div class="t1">Fold here, wrap around the handlebar, staple</div>
+      <div class="fold"></div>
+      <div class="t2">Fold here, wrap around the handlebar, staple</div>
+    </div>
+    <div class="face bottom">
+      <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <div class="when">Wed, October 7</div>
+      <div class="where">Meet 7:15 at Griggs Park<span>Northeast corner. We leave at 7:30 and are at school by 7:45.</span></div>
+      <img class="qr" src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+      <div class="rule">Kids ride with their own grown-up. Helmets for everyone.</div>
+      <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+    </div>
+  </div>
+
+  <div class="strip">
+    <div class="face top">
+      <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <div class="when">Wed, October 7</div>
+      <div class="where">Meet 7:15 at Griggs Park<span>Northeast corner. We leave at 7:30 and are at school by 7:45.</span></div>
+      <img class="qr" src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+      <div class="rule">Kids ride with their own grown-up. Helmets for everyone.</div>
+      <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+    </div>
+    <div class="wrap">
+      <div class="t1">Fold here, wrap around the handlebar, staple</div>
+      <div class="fold"></div>
+      <div class="t2">Fold here, wrap around the handlebar, staple</div>
+    </div>
+    <div class="face bottom">
+      <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <div class="when">Wed, October 7</div>
+      <div class="where">Meet 7:15 at Griggs Park<span>Northeast corner. We leave at 7:30 and are at school by 7:45.</span></div>
+      <img class="qr" src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+      <div class="rule">Kids ride with their own grown-up. Helmets for everyone.</div>
+      <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+    </div>
+  </div>
+
+</div>
+</body>
+</html>

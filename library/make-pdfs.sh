@@ -9,5 +9,6 @@ out="rides/$date"
 mkdir -p "$out"
 weasyprint flyer.html "$out/flyer.pdf" 2>/dev/null
 weasyprint poster-kit.html "$out/poster-kit.pdf" 2>/dev/null
-echo "Made $out/flyer.pdf and $out/poster-kit.pdf"
+weasyprint handlebar-tag.html "$out/handlebar-tag.pdf" 2>/dev/null
+echo "Made the flyer, poster kit and handlebar tags in $out"
 echo "Look at every page before printing, and scan the QR code with your phone."

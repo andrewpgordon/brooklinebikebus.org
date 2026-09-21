@@ -9,6 +9,7 @@ library/
   flyer.html            Letter flyer with a small route map and 8 tear-off tabs
   make-flyer-map.py     makes assets/flyer-map.svg from the map on the website
   poster-kit.html       page 1 is how to build the poster; pages 2 to 8 are the pieces
+  handlebar-tag.html    3 tags per sheet to fold around a handlebar at the bike racks
   bulletin-blurb.md     school bulletin / newsletter text, full and short
   facebook-post.md      post for Brookline parent groups on Facebook
   assets/
@@ -16,11 +17,12 @@ library/
     flyer-map.svg                 the flyer's map (don't edit by hand, re-make it)
     driscoll-badge-print.png      dragon badge, full size, no background
     facebook-badge-1080.jpg       the badge as a square photo for Facebook posts
-  make-pdfs.sh          turns the two .html files into PDFs for one ride
+  make-pdfs.sh          turns the three .html files into PDFs for one ride
   rides/
     2026-10-07/         exactly what we printed for the first ride
       flyer.pdf
       poster-kit.pdf
+      handlebar-tag.pdf
       poster-mockup.png     picture of the finished poster
       bulletin-blurb.md     the blurb as sent
       facebook-post.md      the Facebook post as posted
@@ -35,6 +37,11 @@ page"), on Letter paper.
   between the tabs so people can tear one off. Each tab has its own QR code.
 - **Poster kit:** page 1 shows where everything goes on a 22 x 28 inch poster
   board held sideways. Print pages 2 to 8, cut on the dashed lines, glue.
+- **Handlebar tags:** 3 per sheet, cut the long way into 2.6 x 10.4 inch
+  strips. Fold one in half around a handlebar with the printing facing out,
+  then staple the two halves together just under the bar. It hangs as a
+  two-sided tag. The bottom half prints upside down so both sides read the
+  right way up once it's folded.
 - Color looks best. Black and white is fine for both.
 
 **Paper.** Print the flyers on bright white 28 or 32 lb paper (105 to 120
@@ -48,6 +55,12 @@ The tab QR codes are small, so use matte paper (glossy causes glare), print on
 the best quality setting, and scan a torn-off tab from the first sheet before
 printing the rest.
 
+Handlebar tags go on the same 28 or 32 lb paper. Card stock won't fold tightly
+around a bar. They sit outside all day, so put them on the morning of the ride
+week rather than days ahead, and skip it if rain is coming. Don't cover any
+brake or shifter cables, and use a stapler rather than tape or zip ties so
+people can pull the tag off in one go.
+
 Print the poster pieces on 65 lb cover card stock (about 176 gsm). It holds up
 to glue better, and most home printers can feed it. Heavier card usually needs
 a copy shop.
@@ -59,8 +72,10 @@ a copy shop.
 2. **Edit the text.** In `flyer.html` and `poster-kit.html`, every part that
    changes between rides is marked with a `RIDE DETAILS` comment: the date,
    rain date, times, places, contacts, and the tabs at the bottom of the
-   flyer (the tab text is repeated 8 times, so change all 8). In
-   `bulletin-blurb.md`, change the date, times and contacts.
+   flyer (the tab text is repeated 8 times, so change all 8).
+   `handlebar-tag.html` repeats its text 6 times, once per face. In
+   `bulletin-blurb.md` and `facebook-post.md`, change the date, times and
+   contacts.
 3. **Make the PDFs** into a new folder:
    ```bash
    ./library/make-pdfs.sh 2026-11-04
