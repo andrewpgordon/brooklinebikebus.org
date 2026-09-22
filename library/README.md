@@ -11,7 +11,8 @@ library/
   poster-kit.html       page 1 is how to build the poster; pages 2 to 8 are the pieces
   handlebar-tag.html    3 tags per sheet to fold around a handlebar at the bike racks
   bulletin-blurb.md     school bulletin / newsletter text, full and short
-  facebook-post.md      post for Brookline parent groups on Facebook
+  social-posts.md       Facebook, neighborhood group and WhatsApp versions
+  listserv-email.md     email for a community list of school families and neighbors
   assets/
     qr-brooklinebikebus.png       QR code for brooklinebikebus.org
     flyer-map.svg                 the flyer's map (don't edit by hand, re-make it)
@@ -25,7 +26,8 @@ library/
       handlebar-tag.pdf
       poster-mockup.png     picture of the finished poster
       bulletin-blurb.md     the blurb as sent
-      facebook-post.md      the Facebook post as posted
+      social-posts.md       the posts as sent
+      listserv-email.md     the listserv email as sent
 ```
 
 ## Printing
