@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Driscoll Bike Bus tab refill</title>
+<!--
+  Refill tabs for a flyer whose tabs have all been taken. Three strips per
+  Letter sheet, 24 tabs in total. Cut the strips apart, cut up between the
+  tabs, and staple the band under the flyer that's already on the board.
+  For a new ride, change everything marked RIDE DETAILS. See library/README.md.
+  Colours are copied from public/assets/site.css (crimson #BB262A, gold #FFB101).
+-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@500;600&family=Source+Serif+4:wght@400;600&display=swap">
+<style>
+  @page { size: Letter; margin: 0.3in; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { font-family: "Source Serif 4", Georgia, serif; color: #1E1516; }
+  .strip { width: 7.9in; height: 3.3in; position: relative; }
+  .strip + .strip { border-top: 1pt dashed #7C6E6C; }
+
+  .band { height: 0.62in; background: #BB262A; color: #FFFFFF; display: flex; align-items: center;
+          justify-content: space-between; padding: 0 10pt; }
+  .band .name { white-space: nowrap; font-family: Archivo, sans-serif; font-weight: 800; font-size: 13.5pt; letter-spacing: -0.01em; text-transform: uppercase; }
+  .band .det { white-space: nowrap; font-family: Archivo, sans-serif; font-weight: 700; font-size: 9.5pt; padding: 0 8pt; }
+  .band .site { white-space: nowrap; font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 9.5pt; }
+
+  .tabs { position: absolute; left: 0; right: 0; bottom: 0; top: 0.62in; display: flex; }
+  .tab { position: relative; flex: 1; border-left: 1pt dashed #7C6E6C; }
+  .tab:first-child { border-left: none; }
+  .tab .words { position: absolute; left: 50%; top: 1.12in; width: 1.1in; height: 0.6in;
+                transform: translate(-50%, -50%) rotate(-90deg); }
+  .tab .words div { white-space: nowrap; font-family: Archivo, sans-serif; line-height: 1.22; }
+  .tab .w1 { font-weight: 800; font-size: 9.5pt; color: #BB262A; }
+  .tab .w2 { font-weight: 700; font-size: 8pt; }
+  .tab .w3, .tab .w4 { font-weight: 500; font-size: 7.5pt; }
+  .tab img { position: absolute; left: 50%; bottom: 0.07in; width: 0.7in; height: 0.7in; margin-left: -0.35in; image-rendering: pixelated; }
+</style>
+</head>
+<body>
+
+<!-- RIDE DETAILS: the band and the 8 tabs repeat in each of the three strips -->
+<div class="strip">
+  <div class="band">
+    <span class="name">Driscoll Bike Bus</span>
+    <span class="det">Wed, Oct 7 &middot; meet 7:15 at Griggs Park &middot; at school 7:45</span>
+    <span class="site">brooklinebikebus.org</span>
+  </div>
+  <div class="tabs">
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="band">
+    <span class="name">Driscoll Bike Bus</span>
+    <span class="det">Wed, Oct 7 &middot; meet 7:15 at Griggs Park &middot; at school 7:45</span>
+    <span class="site">brooklinebikebus.org</span>
+  </div>
+  <div class="tabs">
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+  </div>
+</div>
+
+<div class="strip">
+  <div class="band">
+    <span class="name">Driscoll Bike Bus</span>
+    <span class="det">Wed, Oct 7 &middot; meet 7:15 at Griggs Park &middot; at school 7:45</span>
+    <span class="site">brooklinebikebus.org</span>
+  </div>
+  <div class="tabs">
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+    <div class="tab"><div class="words"><div class="w1">Driscoll Bike Bus</div><div class="w2">Wed Oct 7, 7:15am</div><div class="w3">Griggs Park, NE corner</div><div class="w4">brooklinebikebus.org</div></div><img src="assets/qr-brooklinebikebus.png" alt=""></div>
+  </div>
+</div>
+
+</body>
+</html>

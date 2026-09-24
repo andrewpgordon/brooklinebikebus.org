@@ -10,6 +10,7 @@ library/
   make-flyer-map.py     makes assets/flyer-map.svg from the map on the website
   poster-kit.html       page 1 is how to build the poster; pages 2 to 8 are the pieces
   handlebar-tag.html    3 tags per sheet to fold around a handlebar at the bike racks
+  tab-refill.html       24 more tear-off tabs, for when a flyer's tabs are gone
   bulletin-blurb.md     school bulletin / newsletter text, full and short
   social-posts.md       Facebook, neighborhood group and WhatsApp versions
   listserv-email.md     email for a community list of school families and neighbors
@@ -24,6 +25,7 @@ library/
       flyer.pdf
       poster-kit.pdf
       handlebar-tag.pdf
+      tab-refill.pdf
       poster-mockup.png     picture of the finished poster
       bulletin-blurb.md     the blurb as sent
       social-posts.md       the posts as sent
@@ -39,6 +41,12 @@ page"), on Letter paper.
   between the tabs so people can tear one off. Each tab has its own QR code.
 - **Poster kit:** page 1 shows where everything goes on a 22 x 28 inch poster
   board held sideways. Print pages 2 to 8, cut on the dashed lines, glue.
+- **Tab refill:** when a flyer's tabs have all been taken, leave the flyer up
+  and staple a refill strip under it. Three strips per sheet, 8 tabs each.
+  Cut the strips apart, cut up between the tabs, then staple the red band
+  through the bottom of the old flyer. The band repeats the date, the meeting
+  place and the web address, so it still works for anyone who reads it and
+  doesn't take a tab.
 - **Handlebar tags:** 3 per sheet, cut the long way into 2.6 x 10.4 inch
   strips. Fold one in half around a handlebar with the printing facing out,
   then staple the two halves together just under the bar. It hangs as a
