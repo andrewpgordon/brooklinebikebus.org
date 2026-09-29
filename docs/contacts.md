@@ -15,6 +15,10 @@
   on us but she'll connect with Brookline PD if asked, and state "ride with
   traffic, on the right". **Andrew emailed her (Sep 2026)**, based on the draft
   in `outreach/email-tina-srts.md`. Waiting on her answer.
+- **Marissa Vogt** — organizes the Pierce bike bus (Friday, Oct 9, from the
+  park by the Brookline Village Library). vogt4brookline@gmail.com ·
+  617.686.1782. Her name and contact are on our `/pierce/` page as the person
+  to ask about that ride.
 - **Nathan Freitas** — organizer of the Lincoln School bike bus, the model for
   this one. nathanfreitas@gmail.com · 718-569-7272
   His public ride doc and his name are on our landing page. **Andrew messaged

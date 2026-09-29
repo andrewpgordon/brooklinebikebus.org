@@ -100,8 +100,10 @@ back on it. Original in `docs/art/driscoll-badge-original.jpeg`.
 Sep 29. Pierce sent round a flyer for a bike bus on Friday, October 9, run by
 volunteers from the Brookline Safe Routes to School Task Force with help from
 Brookline Police. It's listed at `/pierce/`, written in our own words. We
-didn't copy their flyer image, which is theirs, and the page says plainly that
-we don't organize that ride.
+On Sep 29 Andrew asked for their own colours, drawing and map, so the page now
+carries all three with credit, and points questions to Marissa Vogt rather
+than to us. The wording about who runs it is light: one short paragraph under
+the contact box, plus the site footer.
 
 The obvious move was to bring back the town-wide homepage now that a second
 school is on the site. Not yet. Every printed QR code (flyer tabs, poster,

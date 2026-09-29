@@ -36,12 +36,13 @@ Everyone dismounts and walks across on one light. Where does the group stage?
 One light or two? Stand there through a few cycles at 7:38 and watch. Highest-risk
 moment on the route. · *Andrew*
 
-**Tell the Pierce organizers their ride is on our site.** We listed it from
-their flyer without asking, which is the same thing that happened with Nathan.
-We don't have a contact for the Safe Routes to School Task Force volunteers
-running it. Tina Hein at MA SRTS can probably put us in touch. Worth asking at
-the same time whether our details are right, and whether they want a route map
-drawn like Driscoll's. · *Andrew*
+**Tell Marissa Vogt her ride is on our site.** The `/pierce/` page went up
+from their flyer without asking first, the same thing that happened with
+Nathan. It now uses their drawing and their route map, and lists Marissa
+(vogt4brookline@gmail.com, 617.686.1782) as the person to contact. Three
+things to check with her: that the details are right, that she's happy to have
+her phone and email on a public page, and that they're fine with us using the
+flyer artwork. Offer her a route map drawn like Driscoll's too. · *Andrew*
 
 **Fill the hill walker role.**
 Must be a parent who lives above Mason Terrace. Every other open role can be

@@ -118,6 +118,7 @@ h1 .hz{display:inline-block; background:var(--gold); color:var(--gold-ink); padd
 .map svg{display:block; width:100%; height:auto}
 .map img{display:block; width:100%; height:auto}
 .map--pierce{max-width:464px}
+.from-flyer{margin:18px 0 0; font-size:14.5px; line-height:1.5; color:var(--muted); max-width:70ch}
 .maplegend{display:flex; flex-wrap:wrap; gap:20px; padding:11px 18px; background:var(--surface); border-top:1px solid var(--line); font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--muted); align-items:center}
 .maplegend b{font-family:Archivo,sans-serif; font-weight:700; color:var(--text); font-size:12.5px}
 .swatch{display:inline-block; width:26px; height:0; border-top:5px solid var(--rideline); vertical-align:middle; margin-right:7px; border-radius:3px}
@@ -181,7 +182,8 @@ h3{margin:0 0 12px; font-family:Archivo,sans-serif; font-size:12px; font-weight:
    homepage in docs/archive/ — harmless if nothing uses it) */
 .band + .cta{margin-top:0; border-radius:0 0 5px 5px}
 .who{display:grid; grid-template-columns:repeat(auto-fit,minmax(230px,1fr)); gap:18px; margin-top:20px}
-.who div{border-top:2px solid rgba(58,36,0,.38); padding-top:12px}
+/* > div so the line lands above each person, not above their name and phone too */
+.who > div{border-top:2px solid rgba(58,36,0,.38); padding-top:12px}
 .who .nm{font-family:Archivo,sans-serif; font-weight:800; font-size:18px; letter-spacing:-.01em}
 .who .ct{font-family:"IBM Plex Mono",monospace; font-size:13.5px; line-height:1.7; margin-top:5px; word-break:break-word}
 
