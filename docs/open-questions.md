@@ -42,7 +42,9 @@ Nathan. It now uses their drawing and their route map, and lists Marissa
 (vogt4brookline@gmail.com, 617.686.1782) as the person to contact. Three
 things to check with her: that the details are right, that she's happy to have
 her phone and email on a public page, and that they're fine with us using the
-flyer artwork. Offer her a route map drawn like Driscoll's too. · *Andrew*
+flyer artwork. As of Sep 29 the penguin drawing is on the homepage as well as
+on `/pierce/`, so it's the first thing anyone sees at brooklinebikebus.org.
+Offer her a route map drawn like Driscoll's too. · *Andrew*
 
 **Fill the hill walker role.**
 Must be a parent who lives above Mason Terrace. Every other open role can be

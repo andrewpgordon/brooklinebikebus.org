@@ -136,8 +136,8 @@ for `Oct` and look at every hit.
 - `public/driscoll/index.html` — the crimson band near the top (the date *and*
   the rain date), the `description` and `og:description` tags in the `<head>`,
   and two answers in the FAQ.
-- `public/index.html` — the crimson band, the date labels on the cards, and
-  the `description` and `og:description` tags. WhatsApp reads those tags when
+- `public/index.html` — the date band, the date labels on the cards, and the
+  `description` and `og:description` tags. WhatsApp reads those tags when
   someone pastes the bare domain.
 - `public/assets/og-driscoll.png` — the picture that shows up when the link is
   pasted into WhatsApp has the date **drawn into the image**. Search won't
@@ -156,15 +156,21 @@ domain and most people scanning one are looking for that ride (D17).
 
 Two things on it go stale and nothing will warn you:
 
-- the crimson band at the top, which names the next ride and its date
+- the band at the top, which names the next ride and its date
 - the "Next ride · Wed Oct 7" and "Fri Oct 9" labels on the cards, and the
   times in each card's paragraph
 
 When a ride has been and gone, change the band to the next one and move that
 school's card to the front.
 
+The page uses `<body class="townwide">`, which trades Driscoll's crimson and
+gold for a plain slate. That's deliberate: the homepage isn't any one school's,
+so each card carries its own ride's artwork instead. Driscoll's is the dragon
+badge; Pierce's is `assets/pierce-card.jpg`, a square crop of the drawing from
+their flyer.
+
 To add a school, copy a `<div class="route-card">`. Put `class="route-card
-live"` on whichever one is next; that's what draws the crimson edge.
+live"` on whichever one is next; that's what draws the marked left edge.
 
 There's a longer version of this page parked in
 `docs/archive/landing-townwide.html`. It explains what a bike bus is and how to
@@ -191,7 +197,9 @@ colour, so change it as well as the words.
    `og:` tags, the `<h1>`, the schedule, the map, the contacts.
 3. Add a card to `public/index.html` in `<div class="routes">`. Copy an
    existing `<div class="route-card">`. Use `class="route-card live"` if it's
-   the next ride.
+   the next ride, and give it a logo: a square image in `public/assets/`,
+   around 360px, on the `<img class="rc-logo">` in the card header. Add
+   `rc-logo--round` as well if the artwork is a round badge.
 4. Add the URL to `public/sitemap.xml`.
 5. Ask them first. Both rides on this site went up before the people running
    them were told, which is not how you want to meet a fellow organizer.

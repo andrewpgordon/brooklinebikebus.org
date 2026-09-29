@@ -4,8 +4,9 @@
    ========================================================================== */
 
 /* --- Colours -------------------------------------------------------------
-   Driscoll's colours are crimson #BB262A and gold #FFB101.
-   If another school joins with different colours, add a body class
+   Driscoll's colours are crimson #BB262A and gold #FFB101, and they are the
+   defaults here. Pierce overrides them with their greens, and the homepage
+   with a plain slate, further down. If another school joins, add a body class
    (e.g. <body class="school-lincoln">) and override --crimson / --gold there.
    ------------------------------------------------------------------------- */
 :root{
@@ -48,6 +49,17 @@ body.school-pierce .badge{ border-radius: 10px; }
 }
 :root[data-theme="dark"] body.school-pierce{ --crimson:#8CC97A; --gold:#BBDFA4; --gold-ink:#14310B; --rideline:#8CC97A; }
 :root[data-theme="dark"] body.school-pierce .band{ color:#12300A; }
+
+/* The homepage belongs to no school, so it drops the crimson for a plain
+   slate and lets each ride's own artwork carry the colour. */
+body.townwide{ --crimson:#33424D; --gold:#D5DEE4; --gold-ink:#1C2A33; }
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]) body.townwide{ --crimson:#9FB4C2; --gold:#C3D3DD; --gold-ink:#16232B; }
+  /* the pale slate band needs dark text to stay readable */
+  :root:not([data-theme="light"]) body.townwide .band{ color:#16232B; }
+}
+:root[data-theme="dark"] body.townwide{ --crimson:#9FB4C2; --gold:#C3D3DD; --gold-ink:#16232B; }
+:root[data-theme="dark"] body.townwide .band{ color:#16232B; }
 
 /* --- Base ---------------------------------------------------------------- */
 *{box-sizing:border-box}
@@ -159,6 +171,12 @@ h3{margin:0 0 12px; font-family:Archivo,sans-serif; font-size:12px; font-weight:
    scanning a flyer on their phone shouldn't have to scroll to hit a link.
    Safe only while each card holds exactly one <a>. */
 .route-card a::after{content:""; position:absolute; inset:0}
+/* Each card wears its own ride's artwork. No position on .rc-head, or the
+   overlay above would size itself to the header instead of the whole card. */
+.rc-head{display:flex; align-items:center; gap:14px}
+.rc-head .status{display:block; margin-bottom:3px}
+.rc-logo{width:62px; height:62px; flex:none; border-radius:10px}
+.rc-logo--round{border-radius:50%}
 .route-card.live{border-left:5px solid var(--crimson)}
 .route-card h4{margin:0; font-family:Archivo,sans-serif; font-size:20px; font-weight:800; letter-spacing:-.02em}
 .route-card .status{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted)}

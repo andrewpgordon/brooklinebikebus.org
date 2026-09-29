@@ -125,19 +125,26 @@ Andrew asked for it eight days before the first ride: "can we do the homepage,
 where you choose between schools and pages? keep it simple." That supersedes
 the "keep the redirect until after Oct 7" half of D16.
 
-What's on it: the site name, one sentence saying what a bike bus is, a crimson
-band with the next ride, and a card for Driscoll and one for Pierce. Nothing
-else. The parked town-wide page also explained how to start a bike bus and
-listed the Safe Routes guides; that version is still in
+What's on it: the site name, one sentence saying what a bike bus is, a band
+with the next ride, and a card for Driscoll and one for Pierce. Nothing else.
+The parked town-wide page also explained how to start a bike bus and listed
+the Safe Routes guides; that version is still in
 `docs/archive/landing-townwide.html` if any of it is wanted later.
+
+Same day, Andrew asked for two changes: neutral colours and a logo on each
+card. The page no longer borrows Driscoll's crimson and gold. `body.townwide`
+in site.css swaps them for a plain slate, so the homepage belongs to no school
+and each card's own artwork supplies the colour: Driscoll's dragon badge and
+the penguin drawing from the Pierce flyer, cropped square as
+`assets/pierce-card.jpg`.
 
 The QR problem from D16 still applies. Every printed flyer, poster and
 handlebar tag encodes the bare domain, so those families now land here rather
 than on the ride page. The answer is layout. Driscoll is the first card, it
-carries a crimson edge and a "next ride" label, and the whole card is one big
-link (`.route-card a::after` covers it), so on a phone you can tap the card as
-soon as any of it is on screen. It still costs one tap that the redirect
-didn't.
+carries the dragon badge they have already seen on the flyer, and the whole
+card is one big link (`.route-card a::after` covers it), so on a phone you can
+tap it as soon as any of it is on screen. It still costs one tap that the
+redirect didn't.
 
 **Lincoln is deliberately not on it.** Nathan hasn't answered the message about
 the town-wide domain (D10), and both rides already on this site went up before

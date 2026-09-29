@@ -16,10 +16,11 @@ The domain is town-wide. Pierce's ride is listed at `/pierce/` (added Sep 29
 from their flyer; they run it, we don't). Lincoln runs one too.
 
 **The homepage is a chooser** (D17, Sep 29): a card for Driscoll and a card
-for Pierce, with the next ride in a band above them. It replaced the redirect
-to `/driscoll/`. Every printed QR code points at the bare domain, so Driscoll
-is first, marked "next ride", and reachable in one tap. Add Lincoln's card
-once Nathan replies. The older, longer town-wide page (what a bike bus is, how
+for Pierce, each with that ride's own artwork, and the next ride in a band
+above them. It replaced the redirect to `/driscoll/`. It uses neutral slate
+rather than any school's colours. Every printed QR code points at the bare
+domain, so Driscoll is first, wears the dragon badge from the flyer, and the
+whole card is one tap. Add Lincoln's card once Nathan replies. The older, longer town-wide page (what a bike bus is, how
 to start one, resources) is still parked in `docs/archive/landing-townwide.html`.
 
 ## Who
@@ -117,8 +118,10 @@ framework, a bundler, or npm without a concrete reason and Andrew's agreement.
 ## Conventions
 
 - **Colours only in `assets/site.css`.** Driscoll's are crimson `#BB262A` and
-  gold `#FFB101`. Nothing else holds a hex code except the inline SVG maps,
-  which use `var(--…)`.
+  gold `#FFB101`, and they're the defaults. Pierce overrides them with their
+  greens (`body.school-pierce`), and the homepage with a plain slate
+  (`body.townwide`), because it isn't any one school's page. Nothing else holds
+  a hex code except the inline SVG maps, which use `var(--…)`.
 - **Both themes always.** Define every colour in bare `:root` first, then
   override in the dark blocks. A colour defined only in a dark block goes
   invisible in light mode.
