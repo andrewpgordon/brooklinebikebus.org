@@ -8,6 +8,7 @@ text file you can update this site.
 public/                    ← THE WEBSITE. Only this folder is published.
   index.html               homepage — for now, just sends people to /driscoll/
   driscoll/index.html      the Driscoll ride page
+  pierce/index.html        the Pierce ride (run by the SRTS Task Force, not by us)
   assets/
     site.css               every colour, every component, shared by all pages
     favicon.svg
@@ -150,7 +151,10 @@ in `library/`, and `library/README.md` explains how to update them.
 ### The homepage
 
 Right now `brooklinebikebus.org` sends everyone straight to `/driscoll/`.
-That's deliberate while Driscoll is the only ride this site runs.
+That's deliberate. The printed flyers, poster and handlebar tags all carry a QR
+code for the bare domain, so it has to land on the ride those families are
+looking for. Bring the town-wide homepage back after October 7 (D16), with
+cards for Driscoll, Pierce and Lincoln.
 
 The earlier town-wide homepage — what a bike bus is, cards for Driscoll,
 Lincoln and other schools, how to start one — is parked in

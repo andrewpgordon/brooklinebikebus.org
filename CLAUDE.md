@@ -12,10 +12,14 @@ at the pace of the slowest rider.
 **The first ride is a pilot: Wednesday, October 7, 2026** (National Walk & Roll to
 School Day). Rain date Thursday October 8. If turnout is good it goes monthly.
 
-The domain is meant to be town-wide, not Driscoll-only — Lincoln and Pierce
-already run bike buses. **For now, though, the homepage simply redirects to
-`/driscoll/`** (Andrew's call, Sep 10 — see D13 in `docs/decisions.md`). The
-town-wide homepage is parked in `docs/archive/landing-townwide.html`.
+The domain is town-wide. Pierce's ride is listed at `/pierce/` (added Sep 29
+from their flyer; they run it, we don't). Lincoln runs one too.
+
+**The homepage still redirects to `/driscoll/`** (D13) and stays that way until
+after Oct 7, because every printed QR code points at the bare domain (D16).
+After the ride, bring back the town-wide homepage from
+`docs/archive/landing-townwide.html` with cards for Driscoll, Pierce and
+Lincoln.
 
 ## Who
 
@@ -39,6 +43,8 @@ town-wide homepage is parked in `docs/archive/landing-townwide.html`.
   contact is on us; add "ride with traffic, on the right" (done). See
   `docs/outreach/email-tina-srts.md`
 - ✅ Nathan messaged about the landing page (Sep 2026) — waiting on his reply
+- ✅ Pierce ride listed at `/pierce/` (Sep 29). Their organizers haven't been
+  told yet, same mistake we made with Nathan
 - ⬜ Release language not yet seen by a lawyer ← **blocker**. Andrew has asked
   Tina and other bike buses what they use — useful, but not a legal review.
   Draft for a lawyer: `docs/outreach/email-lawyer-release.md`
@@ -77,6 +83,7 @@ Two hard rules, both load-bearing:
 public/                  ← the only thing published to the web
   index.html             redirect to /driscoll/ (keeps its own og: tags for WhatsApp)
   driscoll/index.html    the Driscoll ride page
+  pierce/index.html      the Pierce ride, run by the SRTS Task Force, not by us
   assets/                site.css (all colours + components), favicon, OG images
   CNAME .nojekyll robots.txt sitemap.xml
 library/                 flyer, poster kit, bulletin blurb, reusable per ride — NOT published

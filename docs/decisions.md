@@ -96,6 +96,20 @@ It's our own AI-generated art, not the school's mascot artwork. Keep it that
 way: don't swap in the school's real dragon, and don't put "Driscoll School"
 back on it. Original in `docs/art/driscoll-badge-original.jpeg`.
 
+### D16 — Pierce gets a page, and the homepage redirect stays until after Oct 7
+Sep 29. Pierce sent round a flyer for a bike bus on Friday, October 9, run by
+volunteers from the Brookline Safe Routes to School Task Force with help from
+Brookline Police. It's listed at `/pierce/`, written in our own words. We
+didn't copy their flyer image, which is theirs, and the page says plainly that
+we don't organize that ride.
+
+The obvious move was to bring back the town-wide homepage now that a second
+school is on the site. Not yet. Every printed QR code (flyer tabs, poster,
+handlebar tags, refill tabs) encodes the bare domain, which forwards to
+`/driscoll/`. Changing that a week before Oct 7 would land those families on a
+list of routes instead of the ride they're looking for. Restore the town-wide
+homepage after Oct 7. Until then Pierce is linked from the Driscoll page's nav.
+
 ### D15 — The walking group crosses Beacon at Marion Street, not Summit Avenue
 Sep 14, Andrew's correction. The map and notes had the walking group crossing
 at the Summit Ave signal and going straight to Griggs Park — there's no path

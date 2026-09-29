@@ -38,6 +38,13 @@
   --maplabel:#9B8A86; --mapart:#8B7975;
 }
 
+/* Pierce's page is green. Everything else follows these two variables. */
+body.school-pierce{ --crimson:#2E7D32; --rideline:#2E7D32; }
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]) body.school-pierce{ --crimson:#7CC47F; --rideline:#7CC47F; }
+}
+:root[data-theme="dark"] body.school-pierce{ --crimson:#7CC47F; --rideline:#7CC47F; }
+
 /* --- Base ---------------------------------------------------------------- */
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%}

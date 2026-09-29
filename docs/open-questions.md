@@ -36,6 +36,13 @@ Everyone dismounts and walks across on one light. Where does the group stage?
 One light or two? Stand there through a few cycles at 7:38 and watch. Highest-risk
 moment on the route. · *Andrew*
 
+**Tell the Pierce organizers their ride is on our site.** We listed it from
+their flyer without asking, which is the same thing that happened with Nathan.
+We don't have a contact for the Safe Routes to School Task Force volunteers
+running it. Tina Hein at MA SRTS can probably put us in touch. Worth asking at
+the same time whether our details are right, and whether they want a route map
+drawn like Driscoll's. · *Andrew*
+
 **Fill the hill walker role.**
 Must be a parent who lives above Mason Terrace. Every other open role can be
 filled by any willing adult; this one can't. Without it the 7:00 leg doesn't run.
