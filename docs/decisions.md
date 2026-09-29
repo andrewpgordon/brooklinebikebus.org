@@ -119,3 +119,24 @@ there. The real way: down Summit to Beacon, west along the Beacon sidewalk,
 across at the Marion Street lights, along Marion, and down the footpath to
 Griggs Terrace. Same meeting corner, 0.46 mi instead of 0.48. Details and
 elevations in `route-analysis.md`.
+
+### D17 — The homepage is a two-card chooser, from Sep 29
+Andrew asked for it eight days before the first ride: "can we do the homepage,
+where you choose between schools and pages? keep it simple." That supersedes
+the "keep the redirect until after Oct 7" half of D16.
+
+What's on it: the site name, one sentence saying what a bike bus is, a crimson
+band with the next ride, then a card for Driscoll and a card for Pierce. That's
+the whole page. It is not the parked town-wide page, which also explained how
+to start one and listed resources; that's still in
+`docs/archive/landing-townwide.html` if any of it is wanted later.
+
+The QR risk from D16 is real but small. Every printed flyer, poster and
+handlebar tag encodes the bare domain, so those families now land here instead
+of on the ride page. The mitigation is layout: Driscoll is the first card, it
+carries a crimson edge and a "next ride" label, and on a phone the link to it
+is on screen without scrolling. One extra tap.
+
+**Lincoln is deliberately not on it.** Nathan hasn't answered the message about
+the town-wide domain (D10), and we've now twice put someone's ride on this site
+before asking them. One card, ready to add, as soon as he says yes.

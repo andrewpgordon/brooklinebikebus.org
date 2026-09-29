@@ -49,10 +49,10 @@ Must be a parent who lives above Mason Terrace. Every other open role can be
 filled by any willing adult; this one can't. Without it the 7:00 leg doesn't run.
 · *Andrew + Nicole*
 
-~~**Tell Nathan about the landing page.**~~ Messaged by Andrew, Sep 10. Same
-day, the homepage was switched to a redirect (D13), so Lincoln is off the live
-site for now. His answer matters again if the town-wide page comes back.
-· *Andrew*
+**Hear back from Nathan about the town-wide domain.** Messaged by Andrew,
+Sep 10, no reply yet. It matters again: as of Sep 29 the homepage is a live
+list of Brookline rides (D17). Lincoln is left off it on purpose until he says
+yes. The card is written and takes a minute to add. · *Andrew*
 
 ## Everything else
 

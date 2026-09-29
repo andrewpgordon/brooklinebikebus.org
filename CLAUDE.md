@@ -15,11 +15,12 @@ School Day). Rain date Thursday October 8. If turnout is good it goes monthly.
 The domain is town-wide. Pierce's ride is listed at `/pierce/` (added Sep 29
 from their flyer; they run it, we don't). Lincoln runs one too.
 
-**The homepage still redirects to `/driscoll/`** (D13) and stays that way until
-after Oct 7, because every printed QR code points at the bare domain (D16).
-After the ride, bring back the town-wide homepage from
-`docs/archive/landing-townwide.html` with cards for Driscoll, Pierce and
-Lincoln.
+**The homepage is a chooser** (D17, Sep 29): a card for Driscoll and a card
+for Pierce, with the next ride in a band above them. It replaced the redirect
+to `/driscoll/`. Every printed QR code points at the bare domain, so Driscoll
+is first, marked "next ride", and reachable in one tap. Add Lincoln's card
+once Nathan replies. The older, longer town-wide page (what a bike bus is, how
+to start one, resources) is still parked in `docs/archive/landing-townwide.html`.
 
 ## Who
 
@@ -81,7 +82,7 @@ Two hard rules, both load-bearing:
 
 ```
 public/                  ← the only thing published to the web
-  index.html             redirect to /driscoll/ (keeps its own og: tags for WhatsApp)
+  index.html             homepage: pick a school (Driscoll, Pierce)
   driscoll/index.html    the Driscoll ride page
   pierce/index.html      the Pierce ride, run by the SRTS Task Force, not by us
   assets/                site.css (all colours + components), favicon, OG images
