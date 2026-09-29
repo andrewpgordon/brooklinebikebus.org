@@ -29,7 +29,7 @@ helmet, adults too. It's fine if your kid is still learning, and balance bikes
 and scooters can come too. If it rains, we'll go on Thursday, October 8
 instead.
 
-Please sign up at brooklinebikebus.org (one form per family). We're also
+Please sign up at brooklinebikebus.org/driscoll (one form per family). We're also
 looking for a few adult volunteers, especially someone who lives on Corey Hill
 to lead the walking group.
 
@@ -46,7 +46,7 @@ Andrew Gordon (andrewpgordon@gmail.com) or Nicole McClelland
 bike bus to school. Meet at the northeast corner of Griggs Park between 7:15
 and 7:30 and we'll ride over together, getting to school by 7:45. Every child
 rides with their own parent or guardian, and everyone needs a helmet. Sign up
-at brooklinebikebus.org. This is organized by parents and isn't a school
+at brooklinebikebus.org/driscoll. This is organized by parents and isn't a school
 program.
 
 ---

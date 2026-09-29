@@ -106,12 +106,13 @@ site address for that school is different.
 It encodes `HTTPS://BROOKLINEBIKEBUS.ORG`, in capitals on purpose. Capitals
 let the QR code use fewer, bigger squares, so it scans more easily, even the
 small ones on the tabs. Web addresses don't care about capitals in the domain.
-It works because the homepage currently sends people straight to the Driscoll
-page (decision D13).
+From Sep 29 the homepage is a list of Brookline rides rather than a redirect
+to Driscoll (decision D17), so a scan lands there and the Driscoll card is the
+first thing on the page. The whole card is tappable.
 
-**If the homepage stops redirecting to the ride page, these QR codes will land
-on the homepage instead.** Make a new one that points at the ride page. To
-make one (Claude can do this): Python package `segno`,
+**If you want a QR code that opens the ride page directly**, make one that
+encodes the full address. To make one (Claude can do this): Python package
+`segno`,
 `segno.make("HTTPS://BROOKLINEBIKEBUS.ORG").save("qr.png", scale=40, border=4)`.
 A path like `/driscoll/` must stay lowercase, which makes the code denser.
 

@@ -154,7 +154,11 @@ h3{margin:0 0 12px; font-family:Archivo,sans-serif; font-size:12px; font-weight:
 
 /* --- Cards (used on the landing page) ------------------------------------ */
 .routes{display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr)); gap:16px; margin-top:20px}
-.route-card{background:var(--surface); border:1px solid var(--line); border-radius:5px; padding:20px 22px; display:flex; flex-direction:column; gap:8px}
+.route-card{background:var(--surface); border:1px solid var(--line); border-radius:5px; padding:20px 22px; display:flex; flex-direction:column; gap:8px; position:relative}
+/* The whole card is tappable, not just the link at the bottom. Somebody
+   scanning a flyer on their phone shouldn't have to scroll to hit a link.
+   Safe only while each card holds exactly one <a>. */
+.route-card a::after{content:""; position:absolute; inset:0}
 .route-card.live{border-left:5px solid var(--crimson)}
 .route-card h4{margin:0; font-family:Archivo,sans-serif; font-size:20px; font-weight:800; letter-spacing:-.02em}
 .route-card .status{font-family:"IBM Plex Mono",monospace; font-size:11px; letter-spacing:.1em; text-transform:uppercase; color:var(--muted)}

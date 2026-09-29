@@ -6,7 +6,7 @@ text file you can update this site.
 
 ```
 public/                    ← THE WEBSITE. Only this folder is published.
-  index.html               homepage — pick a school
+  index.html               homepage: pick a school
   driscoll/index.html      the Driscoll ride page
   pierce/index.html        the Pierce ride (run by the SRTS Task Force, not by us)
   assets/
@@ -167,10 +167,10 @@ To add a school, copy a `<div class="route-card">`. Put `class="route-card
 live"` on whichever one is next; that's what draws the crimson edge.
 
 There's a longer version of this page parked in
-`docs/archive/landing-townwide.html` — what a bike bus is, how to start one,
-links to the Safe Routes guides. Take pieces from it if you want them. Before
-you use the Lincoln card in it, check with Nathan Freitas: it names him and
-links his ride doc, and he hasn't been asked.
+`docs/archive/landing-townwide.html`. It explains what a bike bus is and how to
+start one, and links the Safe Routes guides. Take pieces from it if you want
+them. Before you use the Lincoln card in it, check with Nathan Freitas. It
+names him and links his ride doc, and he hasn't been asked.
 
 ### Updating the sign-up form link
 
@@ -193,8 +193,8 @@ colour, so change it as well as the words.
    existing `<div class="route-card">`. Use `class="route-card live"` if it's
    the next ride.
 4. Add the URL to `public/sitemap.xml`.
-5. Ask them first. We've now put two schools' rides on this site before telling
-   the people who run them, and had to go back and apologise both times.
+5. Ask them first. Both rides on this site went up before the people running
+   them were told, which is not how you want to meet a fellow organizer.
 
 If a school wants its own colours, add a body class and override the two
 variables — everything else follows:
