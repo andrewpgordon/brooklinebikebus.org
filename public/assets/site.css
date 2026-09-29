@@ -38,12 +38,16 @@
   --maplabel:#9B8A86; --mapart:#8B7975;
 }
 
-/* Pierce's page is green. Everything else follows these two variables. */
-body.school-pierce{ --crimson:#2E7D32; --rideline:#2E7D32; }
+/* Pierce's page uses the greens from their own flyer. */
+body.school-pierce{ --crimson:#3E7C27; --gold:#D8E9C6; --gold-ink:#1E3D14; --rideline:#3E7C27; }
+body.school-pierce .badge{ border-radius: 10px; }
 @media (prefers-color-scheme: dark){
-  :root:not([data-theme="light"]) body.school-pierce{ --crimson:#7CC47F; --rideline:#7CC47F; }
+  :root:not([data-theme="light"]) body.school-pierce{ --crimson:#8CC97A; --gold:#BBDFA4; --gold-ink:#14310B; --rideline:#8CC97A; }
+  /* the pale green band needs dark text to stay readable */
+  :root:not([data-theme="light"]) body.school-pierce .band{ color:#12300A; }
 }
-:root[data-theme="dark"] body.school-pierce{ --crimson:#7CC47F; --rideline:#7CC47F; }
+:root[data-theme="dark"] body.school-pierce{ --crimson:#8CC97A; --gold:#BBDFA4; --gold-ink:#14310B; --rideline:#8CC97A; }
+:root[data-theme="dark"] body.school-pierce .band{ color:#12300A; }
 
 /* --- Base ---------------------------------------------------------------- */
 *{box-sizing:border-box}
@@ -112,6 +116,8 @@ h1 .hz{display:inline-block; background:var(--gold); color:var(--gold-ink); padd
 /* --- Map ----------------------------------------------------------------- */
 .map{margin-top:26px; border:1px solid var(--line); border-radius:4px; overflow:hidden}
 .map svg{display:block; width:100%; height:auto}
+.map img{display:block; width:100%; height:auto}
+.map--pierce{max-width:464px}
 .maplegend{display:flex; flex-wrap:wrap; gap:20px; padding:11px 18px; background:var(--surface); border-top:1px solid var(--line); font-family:"IBM Plex Mono",monospace; font-size:12px; color:var(--muted); align-items:center}
 .maplegend b{font-family:Archivo,sans-serif; font-weight:700; color:var(--text); font-size:12.5px}
 .swatch{display:inline-block; width:26px; height:0; border-top:5px solid var(--rideline); vertical-align:middle; margin-right:7px; border-radius:3px}
