@@ -81,7 +81,7 @@ Saturday pre-ride, so until then this is a draft and the order is the useful par
 | 180 m | Griggs Terrace at Griggs Road | Right turn. Quiet, but it's the first turn and the line is still finding its shape. |
 | 490 m | Griggs Road at Washington Street | Right turn onto Washington. Not a side street to hold: the group is merging onto a two-lane street with a bus route on it. Everyone waits as one and goes as one. The best corner to hand to an officer. |
 | 540 m | Washington Street at Fairbanks Street | Side street on the right, fifty metres after that turn, so it arrives while the line is still stringing out. Worth a person if there's one spare. |
-| 860 m | Washington Square, Beacon Street | Everybody off. Two people here, one for each direction of Beacon traffic, because the group is in the crosswalk for a while. Own section below. |
+| 860 m | Washington Square, Beacon Street | Everybody off. Town crossing guards are posted here, one on each side of Washington Street, and they can hold traffic in a way our own people can't. Own section below. |
 | 1180 m | Driscoll, Washington Street at Bartlett Street | Racks. |
 
 **Nothing is held after Beacon Street.** Andrew's call, Oct 1: by the time the
@@ -125,10 +125,21 @@ The captain stops the group on the near curb, well back from the corner, and
 everybody gets off. Bikes are pushed. One light if we fit, and with thirty-odd
 bikes and riders we probably don't.
 
-Two people stand here rather than one, because Beacon has a carriageway on each
-side of the trolley tracks and the group will be strung across both of them for
-most of a light. One person watches the traffic on each side. If there are
-officers, this is the second place to put them.
+**There are town crossing guards here, one on each side of Washington Street.**
+They are the only people on this route who can actually stop traffic. A corker
+asks; a crossing guard holds up a paddle and cars stop. So at this crossing we
+work to them, not the other way round. Say good morning, tell them how many
+people are coming over and that everyone is on foot, and then do what they say.
+Nobody from our crew directs traffic while a guard is standing there.
+
+Tell them before the day. Thirty bikes arriving at somebody's post at 7:38
+unannounced is a rotten surprise, and a guard who knows we're coming is the best
+help we have. Also find out what time they come on post, because 7:38 is
+twenty-two minutes before the bell and we have never checked.
+
+Build the crossing so it works if a guard is off sick, which is the same reason
+nothing here depends on the police. Without them, two of our own people stand at
+the crossing instead, one watching each carriageway.
 
 What happens when we don't fit:
 
@@ -138,13 +149,16 @@ What happens when we don't fit:
 - Nobody steps off the curb on a flashing hand. Nobody runs.
 - Nobody gets back on a bike until the sweep is across and says so. That now
   includes the corkers, since there's nothing to hold on the far side.
+- A guard waving us over is not a reason to send the group in two halves. If
+  the whole group can't go, the rest wait for the next light.
 
 That last line is the most important sentence in this brief. The thing that
 goes wrong at this crossing is half the group on one side of Beacon Street and
 half on the other, with the front of the ride already rolling away.
 
-We dismount and walk at Beacon whether or not there's a police officer standing
-there. That rule doesn't move for a good morning or a quiet light.
+We dismount and walk at Beacon whether or not there's a police officer or a
+crossing guard standing there. That rule doesn't move for a good morning, a
+quiet light, or somebody in a vest waving us across.
 
 ## Where we wait for each other
 

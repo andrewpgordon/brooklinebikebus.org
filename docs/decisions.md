@@ -191,7 +191,21 @@ with, and Andrew cut them the same day to four: the first turn, the merge onto
 Washington Street, Fairbanks if there's a spare body, and two people at the
 Beacon crossing covering one carriageway each. Nothing is held after Beacon,
 because the group is three hundred metres from the racks by then. Andrew knows that
-street and the map doesn't. The side effect worth keeping is that every position
+street and the map doesn't. Later the same day the two corner jobs got swapped
+round, so that the merge goes to a parent volunteer and Fairbanks to the one
+person on the crew who has run a bike bus before. The reasoning is that the
+merge should have a police officer on it and Fairbanks has nobody backing it up,
+so the experienced person takes the corner without a backstop.
+
+Also Oct 1, and it matters more than any of the corner shuffling: **there are
+two town crossing guards at Washington Square**, one on each side of Washington
+Street. They can hold traffic. Our corkers cannot, and the brief is blunt about
+that. So the crossing works to the guards rather than the other way round, the
+crew says good morning and does what they say, and nobody from our side directs
+traffic while a guard is on post. Two things that follow. Somebody has to tell
+them before the day, and nobody has checked what time they come on post, since
+7:38 is twenty-two minutes before the bell. The crossing still has to work
+without them, the same as it has to work without the police. The side effect worth keeping is that every position
 now sits in the first 860 m, so no corker ever has to ride up the outside of a
 line of children to reach a second corner. Three streets that
 look like they should be on the route are not: Downing Road, Bartlett Crescent

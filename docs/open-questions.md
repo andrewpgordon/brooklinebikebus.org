@@ -77,8 +77,14 @@ yes. The card is written and takes a minute to add. · *Andrew*
   school that mostly walks. Is there overflow?
 - **Is there room at the NE corner for 25 people and their bikes?** It's a path
   entrance, not a plaza. If tight, slide the huddle into the park.
-- **Crossing guard at Washington Square at 7:38** — is there one, and can one be
-  requested for Oct 7?
+- ~~**Crossing guard at Washington Square at 7:38**, is there one~~ *Oct 1:*
+  yes, two of them, one on each side of Washington Street, and Andrew says they
+  can hold traffic for our crossing. They are the only people on the route who
+  can actually stop a car. Two things still open. **What time do they come on
+  post?** 7:38 is twenty-two minutes before the bell and nobody has checked. And
+  **who tells them we're coming?** Thirty bikes arriving at a guard's post
+  unannounced is a rotten surprise. Ask the school office who the guards are and
+  whether to go through the office or the town.
 - **Does gathering 25 people in Griggs Park at 7:15 need anything from Parks &
   Open Space?** Probably not. Ask rather than find out.
 - **How bad is Washington Street at 7:35?** Two lanes, parking both sides, a bus
