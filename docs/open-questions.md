@@ -40,27 +40,27 @@ side, the rest hold the curb with the sweep, nobody remounts until the sweep is
 across. That's a plan made at a desk. The field check is still the thing.
 · *Andrew*
 
-**Tell Marissa Vogt her ride is on our site.** The `/pierce/` page went up
-from their flyer without asking first, the same thing that happened with
+**Tell Marissa Vogt the Pierce ride is on our site.** The `/pierce/` page went
+up from their flyer without asking first, the same thing that happened with
 Nathan. It now uses their drawing and their route map, and lists Marissa
-(vogt4brookline@gmail.com, 617.686.1782) as the person to contact. Three
-things to check with her: that the details are right, that she's happy to have
-her phone and email on a public page, and that they're fine with us using the
-flyer artwork. As of Sep 29 the penguin drawing is on the homepage as well as
-on `/pierce/`, so it's the first thing anyone sees at brooklinebikebus.org.
-Offer her a route map drawn like Driscoll's too. *Oct 1:* she signed up for the
-Driscoll ride herself on Sep 23 and offered to help, and she's being asked to
-hold the hardest corner on the route. That ask is the natural moment to tell her
-all of it. · *Andrew*
+(vogt4brookline@gmail.com, 617.686.1782) as the person to contact. Three things
+to check: that the details are right, that having a phone number and email on a
+public page is fine, and that they're happy for us to use the flyer artwork. As
+of Sep 29 the penguin drawing is on the homepage as well as on `/pierce/`, so
+it's the first thing anyone sees at brooklinebikebus.org. Offer a route map
+drawn like Driscoll's too. *Oct 1:* Marissa signed up for
+the Driscoll ride on Sep 23 and offered to help, and is being asked to hold the
+hardest corner on the route. That ask is the natural moment to say all of it.
+· *Andrew*
 
 **Confirm the hill walker.**
 Must be a parent who lives above Mason Terrace. Every other open role can be
 filled by any willing adult, this one can't. Without it the 7:00 leg doesn't run.
 *Oct 1:* a parent who lives up on the hill offered this exact job on the
 sign-up form on Sep 21, so the role is covered on paper. Two things still open.
-His child is marked "maybe" on the form, so ask him to come either way. And he
-left no mobile number, which matters more for him than for anyone else: if the
-ride is cancelled at 6:15 he is the person who has to get that message. Name
+Their child is marked "maybe" on the form, so ask them to come either way. And
+they left no mobile number, which matters more here than anywhere else: if the
+ride is cancelled at 6:15 this is the person who most needs that message. Name
 and details in `rides/2026-10-07-crew.local.md`.
 · *Andrew + Nicole*
 
@@ -105,8 +105,8 @@ yes. The card is written and takes a minute to add. · *Andrew*
   at Washington Square, which is 0.2 miles from the racks.
 - ~~**Three more volunteers** beyond the hill walker: two corkers and a crossing
   lead.~~ *Oct 1:* covered on paper. The crossing lead is a parent who was
-  joining at Washington Square anyway, so she can do the job standing still with
-  her own child beside her. The corners go to the three adults riding without a
+  joining at Washington Square anyway, so they can do the job standing still
+  with their own child beside them. The corners go to the three adults riding without a
   child of their own, because the release says each child's adult stays with
   them and corking doesn't allow that (D18). Names in
   `rides/2026-10-07-crew.local.md`.

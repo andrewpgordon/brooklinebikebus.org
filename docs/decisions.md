@@ -166,8 +166,8 @@ whole ride. Corking means leaving the group for a few minutes at a time, so a
 parent who is the only adult for their kid cannot do it. Four people offered
 corker or crossing lead and have their own child riding, and all four were given
 jobs that keep them next to that child instead. One parent's own note on the form is the
-pattern for doing it the other way round: her husband rides with their three
-children and she takes a job.
+pattern for doing it the other way round. One of them rides with their three
+children and the other takes a job.
 
 **We dismount and walk across Beacon Street whether or not a police officer is
 standing there.** This is the one decision the police presence could have

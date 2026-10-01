@@ -20,7 +20,7 @@ true on the day. See `docs/release-language.md`.
 
 ## The jobs
 
-**Ride captain.** First bike. Takes the pace from the slowest kid behind him
+**Ride captain.** First bike. Takes the pace from the slowest kid behind them
 rather than from the road. Calls the stops and does the counting. Nobody passes
 the captain.
 
@@ -91,6 +91,24 @@ Washington Street the racks are on. If they're on the far side, the group has on
 more crossing at 7:45 in school-run traffic, which changes the whole end of the
 ride.
 
+## Beacon Street at Marion, on the walking leg
+
+This one happens at about 7:10, twenty minutes before anybody hears the talk at
+the park, which is why the hill walker gets thirty seconds of their own at 7:00.
+
+The lights are button-operated on each half of Beacon with the trolley tracks
+in between, and the tracks themselves are an uncontrolled crossing. Whether
+that works as one light or two has not been checked on the ground.
+
+- The front adult crosses first and waits on the far side.
+- The second adult holds the curb with everyone still waiting.
+- Nobody stops or waits on the tracks. If the group can't clear them in one go,
+  the rest wait on the sidewalk for the next light.
+- The zebra crossing further down Marion Street has no lights at all. Wait for a
+  gap and cross as one group.
+- Bikes are pushed the whole way, including down the footpath into the park,
+  which is about 10% at the top and can be slippery.
+
 ## Washington Square
 
 The captain stops the group on the near curb, well back from the corner, and
@@ -104,6 +122,9 @@ What happens when we don't fit:
 - Everyone still waiting stays on the curb with the sweep, back from the edge.
 - Nobody steps off the curb on a flashing hand. Nobody runs.
 - Nobody gets back on a bike until the sweep is across and says so.
+- Corkers are the exception to that. Cross with the front, don't wait, and go
+  straight to your next corner. Salisbury Road is 200 m past Beacon and Evans
+  Road is 300 m, and you won't make either if you wait for the sweep.
 
 That last line is the most important sentence in this brief. The thing that
 goes wrong at this crossing is half the group on one side of Beacon Street and
@@ -140,9 +161,11 @@ captain.
 A kid falls. The nearest adult stops with them, their own adult comes to them,
 the sweep stops, and the captain holds the front. Don't crowd a crying child.
 
-A flat tyre or a dropped chain. The sweep takes it onto the sidewalk and the
-group carries on. We don't hold a street full of kids for a repair. The sweep
-stays with them until their own adult has them.
+A flat tyre or a dropped chain. The child's own adult takes them and the bike up
+onto the sidewalk and either fixes it there or walks them in. The group carries
+on, because we don't hold a street full of kids for a repair. The sweep hands
+over the pump and the patch kit on the way past and then stays at the back of
+the group, which is the one place the sweep has to be.
 
 A kid can't keep up. We slow down. That is the arrangement, and the kid isn't
 the problem. If it still isn't working, that family steps onto the sidewalk and
@@ -171,7 +194,7 @@ Build the morning so it still works if they get called away, which can happen at
 
 | | |
 |---|---|
-| 7:00 | Walking group forms, Summit Ave and Jordan Rd |
+| 7:00 | Walking group forms, Summit Ave and Jordan Rd. Thirty-second talk before it moves |
 | 7:05 | Second pick-up, Summit Ave and Mason Terrace |
 | 7:05 | Crew at the park. Sign, pump, vests |
 | 7:15 | Walking group in. Helmet, brake and tyre checks |

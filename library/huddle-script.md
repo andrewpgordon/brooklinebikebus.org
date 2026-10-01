@@ -28,54 +28,94 @@ Stand them in a circle away from the kids.
 
 Get them off the bikes and standing in front of you. Helmets already on.
 
-> Good morning. I'm [name]. Can everybody hear me? Put your hand up if you can't.
+> Good morning. I'm [name]. Can everybody hear me? Hand up if you can't.
 >
-> Four things, then we go.
+> Those are Brookline police officers on the bikes at the back. They're riding
+> with us this morning to help us get across Beacon Street.
 >
-> **One.** I'm at the front. [Sweep's name] is at the very back.
-> Stay between us. If you can see me and you can see her, you're in the
-> right place. Nobody rides in front of me, even if you're quick.
+> Here's where we're going. Round the park, up Griggs Road, a right turn onto
+> Washington Street, and then we stop and walk across Beacon Street. After that
+> it's a few more minutes and we're at the bike racks at quarter to eight.
+>
+> Five things, then we go.
+>
+> **One.** I'm at the front. [Sweep's name] is at the very back. Stay between
+> us. If you can see me and you can see [them], you're in the right place.
+> Nobody rides in front of me, even if you're quick.
 >
 > **Two.** Some of these grown-ups are going to ride ahead of us and stand on
-> corners. That's [name], that's [name], that's [name]. Point at each one as you
-> say it. They're standing there so cars wait for us. They are not stopping for
-> a rest, so don't stop with them. Ride past them and keep going.
+> corners, so that cars wait while we go past. That's [name], that's [name],
+> that's [name]. Point at each one as you say it. They're not stopping for a
+> rest, so don't stop with them. Ride past them and keep going.
 >
-> **Three.** You have two jobs. If a car comes up behind us, shout "car back".
+> **Three.** We ride on the right-hand side of the road, going the same way as
+> the cars. Two of you side by side at the most, never three.
+>
+> **Four.** When I stop, everybody stops. We stop at every light and every stop
+> sign, and then we all go together. There's one place near the end of Griggs
+> Road where we stop and wait for everybody before we turn onto Washington
+> Street. If you get near the front and I'm stopped, you stop too.
+>
+> **Five.** You have two jobs. If a car comes up behind us, shout "car back".
 > If you're slowing down, shout "stopping". Shout them, don't say them. Try it
 > with me. Car back. Stopping.
 >
-> **Four.** This is the big one. When we get to Beacon Street, everybody gets
-> off and walks. Nobody rides a bike across Beacon Street, not even the quick
-> ones. I'll shout "everybody off" and you get off. We walk
-> the bikes across together. If the light changes and you're still on this side,
-> you stay on this side with the grown-up at the back and you don't run. We will
-> all get across.
-> Nobody gets back on a bike until every single person is over.
+> And if any of this gets hard, or your legs hurt, or you get scared, tell the
+> nearest grown-up and we'll slow down. We'd much rather go slow.
 >
-> Two more and I'm done. We ride on the right-hand side of the road, going the
-> same way as the cars. Two of you side by side at the most, never three.
+> One more thing and it's the big one.
 >
-> And if this gets hard, or your legs hurt, or you get scared, tell the nearest
-> grown-up and we'll slow down. We'd much rather go slow.
->
-> There are police officers on bikes with us this morning. They're here to help
-> us get across Beacon Street.
+> When we get to Beacon Street, everybody gets off and walks. Nobody rides a
+> bike across Beacon Street, not even the quick ones. I'll shout "everybody
+> off" and you get off and push. If the light changes and you're still on this
+> side, you stay on this side with [sweep] and you do not run. We will all get
+> across. Nobody gets back on a bike until every single person is over.
 >
 > Helmets buckled. Let's go.
 
 ### Why it's in that order
 
-The front and the back come first because it's the only rule that works if a kid
-forgets everything else. The corkers come second because a kid who stops next to
-a corker is a kid in the mouth of a side street. The two shouts come third
-because kids will actually do them and it makes the group loud, which is most of
-why drivers see us. Beacon comes last so it's the thing still in their head when
-we roll.
+The police line comes first so that no kid spends the ride wondering about it.
+Then where we're going, because a five-year-old who knows the shape of the
+morning is a calmer rider.
+
+The front and the back are rule one because it's the only rule that still works
+if a kid forgets every other one. The corner people come next, because a kid who
+stops next to a corker is a kid standing in the mouth of a side street. The two
+shouts come late because kids will actually do them, and it makes the group
+loud, which is most of why drivers notice us.
+
+Beacon is last so it's the thing still in their heads when we roll out. Say the
+pause before it. The pause is what makes them listen to it.
 
 The seven lines families already read on the sign-up page are the full set
-(`public/driscoll/index.html`). Don't read all seven at 7:26. The ones left out
-of the talk are the ones a parent enforces next to their own kid.
+(`public/driscoll/index.html`). Three of them aren't in this talk: no headphones,
+telling someone if you're finding it hard (which is in there as an aside rather
+than a rule), and riding no more than two abreast, which is in rule three. The
+ones left out are the ones a parent enforces next to their own kid.
+
+## 7:00, the walking group. Thirty seconds.
+
+This group crosses Beacon Street at about 7:10, which is twenty minutes before
+anyone hears the talk above. So the hill walker does their own version at the
+top of Summit, before anything moves.
+
+> Morning. We push the bikes the whole way down. Nobody rides Summit Avenue, and
+> nobody rides the path at the bottom. They're both too steep for a group.
+>
+> I'm at the front. [Second adult] is at the back. Stay between us, on the
+> sidewalk.
+>
+> We cross Beacon Street at the lights further down. There are two sets of
+> lights with the trolley tracks in the middle. Nobody stands on the tracks and
+> nobody waits on them. If we don't all get over, the rest of us wait on the
+> sidewalk for the next light.
+>
+> Then there's one more crossing on Marion Street with no lights at all. We wait
+> for a gap and we cross together.
+>
+> The path down into the park is steep and it can be slippery. Walk it, keep a
+> hand on the brake, and don't let the bike run away from you.
 
 ## At the near curb, Washington Square
 
