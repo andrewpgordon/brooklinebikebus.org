@@ -14,6 +14,7 @@ library/
   bulletin-blurb.md     school bulletin / newsletter text, full and short
   social-posts.md       Facebook, neighborhood group and WhatsApp versions
   listserv-email.md     email for a community list of school families and neighbors
+  table-tent.html       4 fold-in-half table tents for a dinner or a school event
   crew-brief.md         what each job on the ride actually involves, and the corners
   huddle-script.md      what to say to the crew at 7:20 and to the kids at 7:26
   assets/
@@ -32,6 +33,7 @@ library/
       bulletin-blurb.md     the blurb as sent
       social-posts.md       the posts as sent
       listserv-email.md     the listserv email as sent
+      table-tent.pdf        the table tents as printed
 ```
 
 ## Printing
@@ -54,6 +56,12 @@ page"), on Letter paper.
   then staple the two halves together just under the bar. It hangs as a
   two-sided tag. The bottom half prints upside down so both sides read the
   right way up once it's folded.
+- **Table tents:** 4 sheets, one tent each, and nothing to cut. Print on card
+  stock, fold each sheet in half across the middle with the printing on the
+  outside, and it stands up as an A. The top half prints upside down so both
+  faces read the right way up. If one splays open, tape across the two bottom
+  edges. The four sheets say different things (the ride, what a bike bus is,
+  new riders, and the ask for more grown-ups), so a table gets one of them.
 - Color looks best. Black and white is fine for both.
 
 **Paper.** Print the flyers on bright white 28 or 32 lb paper (105 to 120
