@@ -28,7 +28,7 @@ to start one, resources) is still parked in `docs/archive/landing-townwide.html`
 | Who | Role | Contact |
 |---|---|---|
 | **Andrew Gordon** | organizer, ride captain, repo owner | andrewpgordon@gmail.com · 781.879.3883 |
-| **Nicole McClelland** | co-organizer, sweep | nicole.mcclelland@gmail.com · 336.314.2202 |
+| **Nicole McClelland** | co-organizer. Was down as sweep until Oct 1, when it turned out there's no bike | nicole.mcclelland@gmail.com · 336.314.2202 |
 | Tina Hein | MA Safe Routes to School (MassDOT), offering route audit + free gear | Tina.Hein@aecom.com · 617.371.4428 |
 | Nathan Freitas | runs the Lincoln School bike bus; the model we copied | nathanfreitas@gmail.com · 718-569-7272 |
 
@@ -61,6 +61,9 @@ to start one, resources) is still parked in `docs/archive/landing-townwide.html`
   of their own**, since the release says each child's adult stays with them
 - ⬜ Nobody has accepted a specific job yet, so `/driscoll/` still says "2
   needed". Change it after people say yes, not before
+- ⬜ **The sweep is open.** Nicole has no bike (Oct 1). `/driscoll/` still says
+  "Sweep: Filled, Nicole", which is now wrong, and it's left that way until
+  Andrew decides whether to find a bike or move the job
 - ⬜ Two Brookline PD Bicycle Squad units expected (Andrew, Oct 1). No record of
   who agreed it; the draft at `docs/outreach/email-brookline-pd.md` was never
   marked sent. **The group dismounts and walks across Beacon whether or not an

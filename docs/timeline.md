@@ -71,8 +71,8 @@ Four weeks. ▲ = do this first.
 | 7:45 | **Arrive Driscoll.** Racks, photo at the gate, count again. |
 | 7:52 | Five-minute standing debrief before anyone leaves. |
 
-Crew: ride captain (Andrew), sweep (Nicole), 2 corkers, crossing lead, hill
-walker. Four is the floor, six absorbs a no-show. A corner only goes to an adult
+Crew: ride captain (Andrew), sweep (open, Nicole has no bike), 2 corkers,
+crossing lead, hill walker. Four is the floor, six absorbs a no-show. A corner only goes to an adult
 riding without a child of their own, which is what decides most of the
 assignment (D18).
 

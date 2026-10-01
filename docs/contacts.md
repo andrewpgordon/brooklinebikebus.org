@@ -3,7 +3,9 @@
 ## Organizers
 - **Andrew Gordon** — organizer, ride captain, repo/domain owner
   andrewpgordon@gmail.com · 781.879.3883
-- **Nicole McClelland** — co-organizer, sweep
+- **Nicole McClelland** — co-organizer. Down as sweep from the start, until
+  Oct 1, when it turned out there's no bike. See
+  `rides/2026-10-07-crew.local.md`
   nicole.mcclelland@gmail.com · 336.314.2202
 
 ## Support

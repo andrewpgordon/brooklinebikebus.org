@@ -85,6 +85,18 @@ yes. The card is written and takes a minute to add. · *Andrew*
   route, patchy bike accommodation. Not Beacon, but not quiet.
 - **What's in the free SRTS gear package, and what's the lead time?** Monday
   Oct 5 is about the last day vests could arrive and be useful.
+- 🔴 **The sweep is open.** Nicole has been written down as sweep since the
+  start, and doesn't have a bike (Andrew, Oct 1). The sweep rides behind the
+  last child with the pump, so the job can't be done on foot. Either find a bike
+  to borrow, or give the job to a parent of one of the kindergarteners, whose
+  own kid will be at the back anyway. Until that's settled, the volunteer table
+  on the live `/driscoll/` page says "Sweep: Filled, Nicole", which isn't true.
+  Talk to Nicole before changing that row.
+- **Borrowed bikes.** One parent is borrowing a bike to come, and probably isn't
+  the only one. The ride page tells families to check brakes and tyres the
+  night before, which is right for a bike you ride daily and thin for one you
+  don't. Ask people to get hold of a borrowed bike over the weekend and ride it
+  once. Worth a line in Monday's reminder.
 - **What was actually agreed with Brookline Police?** Andrew said on Oct 1 that
   two units from the Bicycle Squad are coming. The draft at
   `outreach/email-brookline-pd.md` was never marked sent, so the record of who
