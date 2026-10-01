@@ -14,6 +14,8 @@ library/
   bulletin-blurb.md     school bulletin / newsletter text, full and short
   social-posts.md       Facebook, neighborhood group and WhatsApp versions
   listserv-email.md     email for a community list of school families and neighbors
+  crew-brief.md         what each job on the ride actually involves, and the corners
+  huddle-script.md      what to say to the crew at 7:20 and to the kids at 7:26
   assets/
     qr-brooklinebikebus.png       QR code for brooklinebikebus.org
     flyer-map.svg                 the flyer's map (don't edit by hand, re-make it)

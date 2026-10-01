@@ -51,7 +51,20 @@ to start one, resources) is still parked in `docs/archive/landing-townwide.html`
   Tina and other bike buses what they use — useful, but not a legal review.
   Draft for a lawyer: `docs/outreach/email-lawyer-release.md`
 - ⬜ Route not yet ridden in person at 7:30 on a school day ← **blocker**
-- ⬜ Four volunteer roles unfilled
+- ✅ 11 families signed up by Sep 28: 15 kids (BEEP to 6th grade, five of them
+  kindergarten or younger) and about 16 adults
+- ✅ Crew jobs worked out (Oct 1, D18). `library/crew-brief.md` is what each job
+  involves and where the seven corners are; `library/huddle-script.md` is what
+  to say at 7:20 and 7:26. The named assignment is in
+  `docs/rides/2026-10-07-crew.local.md`, gitignored because it holds volunteers'
+  and children's names. **A corner only goes to an adult riding without a child
+  of their own**, since the release says each child's adult stays with them
+- ⬜ Nobody has accepted a specific job yet, so `/driscoll/` still says "2
+  needed". Change it after people say yes, not before
+- ⬜ Two Brookline PD Bicycle Squad units expected (Andrew, Oct 1). No record of
+  who agreed it; the draft at `docs/outreach/email-brookline-pd.md` was never
+  marked sent. **The group dismounts and walks across Beacon whether or not an
+  officer is there** (D18)
 
 See `docs/open-questions.md` for the full list, and `docs/timeline.md` for the
 week-by-week plan.

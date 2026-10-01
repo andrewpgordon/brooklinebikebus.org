@@ -33,9 +33,17 @@ Four weeks. ▲ = do this first.
 - Pitch Brookline.News — they've covered Lincoln and Pierce before.
 
 ## Week of Sep 28 — brief
-- Thirty-minute leader briefing: roles, hand signals, the Beacon crossing, what
-  to do if a kid crashes or a bike breaks.
-- Ride the route with the leaders on a Saturday. Assign each corner.
+- ✅ **Crew brief written** (Oct 1): `library/crew-brief.md` has the jobs, the
+  seven corners in order, the Washington Square choreography and what to do
+  when something goes wrong. `library/huddle-script.md` has the 7:20 crew talk
+  and the 7:26 talk to the kids. Named assignment, which has the sign-up names
+  in it, is in `rides/2026-10-07-crew.local.md`.
+- Send each person their own job (drafts are in that file). Nobody has said yes
+  to a specific one yet.
+- Ride the route with the crew on a Saturday. Stand at each of the seven points
+  and say out loud whose it is. Two things to settle while you're there: the
+  parking exits around Washington Square, which don't show up on a map, and
+  which side of Washington Street the racks are on.
 - Second reminder to families; soft headcount.
 - Confirm the SRTS gear arrived. If not, chase now, not on Oct 5.
 - Write the 6:15am cancellation message in advance.
@@ -56,14 +64,17 @@ Four weeks. ▲ = do this first.
 | 7:05 | Second pick-up, Summit Ave & Mason Terrace |
 | 7:05 | Leaders at Griggs Park NE corner — sign, pump, vests out |
 | 7:15 | Walking group arrives; families gather; helmet, brake, tyre checks |
-| 7:26 | Huddle — six rules, hand signals, front and back, the Beacon dismount |
+| 7:20 | Crew huddle. Corners read out loud, and who has whose kid |
+| 7:26 | Talk to the kids. Four things, then the two shouts. `library/huddle-script.md` |
 | 7:30 | **Roll out** — Griggs Terrace, then Griggs Road. Count riders. |
 | 7:38 | **Washington Square. Everybody off.** Walk bikes across Beacon on one light. |
 | 7:45 | **Arrive Driscoll.** Racks, photo at the gate, count again. |
 | 7:52 | Five-minute standing debrief before anyone leaves. |
 
 Crew: ride captain (Andrew), sweep (Nicole), 2 corkers, crossing lead, hill
-walker. Four is the floor; six absorbs a no-show.
+walker. Four is the floor, six absorbs a no-show. A corner only goes to an adult
+riding without a child of their own, which is what decides most of the
+assignment (D18).
 
 ## After — Oct 8–14
 - Photos and thank-you within 24 hours.

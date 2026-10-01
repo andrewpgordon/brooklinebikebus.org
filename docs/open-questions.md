@@ -34,7 +34,11 @@ the footpath from Marion St to Griggs Terrace, which is about 10% at the top.
 **Work out how twenty riders cross Beacon at Washington Square.**
 Everyone dismounts and walks across on one light. Where does the group stage?
 One light or two? Stand there through a few cycles at 7:38 and watch. Highest-risk
-moment on the route. · *Andrew*
+moment on the route. *Oct 1:* the rule for when the group doesn't fit on one
+light is now written down in `library/crew-brief.md`, front waits on the far
+side, the rest hold the curb with the sweep, nobody remounts until the sweep is
+across. That's a plan made at a desk. The field check is still the thing.
+· *Andrew*
 
 **Tell Marissa Vogt her ride is on our site.** The `/pierce/` page went up
 from their flyer without asking first, the same thing that happened with
@@ -44,11 +48,20 @@ things to check with her: that the details are right, that she's happy to have
 her phone and email on a public page, and that they're fine with us using the
 flyer artwork. As of Sep 29 the penguin drawing is on the homepage as well as
 on `/pierce/`, so it's the first thing anyone sees at brooklinebikebus.org.
-Offer her a route map drawn like Driscoll's too. · *Andrew*
+Offer her a route map drawn like Driscoll's too. *Oct 1:* she signed up for the
+Driscoll ride herself on Sep 23 and offered to help, and she's being asked to
+hold the hardest corner on the route. That ask is the natural moment to tell her
+all of it. · *Andrew*
 
-**Fill the hill walker role.**
+**Confirm the hill walker.**
 Must be a parent who lives above Mason Terrace. Every other open role can be
-filled by any willing adult; this one can't. Without it the 7:00 leg doesn't run.
+filled by any willing adult, this one can't. Without it the 7:00 leg doesn't run.
+*Oct 1:* a parent who lives up on the hill offered this exact job on the
+sign-up form on Sep 21, so the role is covered on paper. Two things still open.
+His child is marked "maybe" on the form, so ask him to come either way. And he
+left no mobile number, which matters more for him than for anyone else: if the
+ride is cancelled at 6:15 he is the person who has to get that message. Name
+and details in `rides/2026-10-07-crew.local.md`.
 · *Andrew + Nicole*
 
 **Hear back from Nathan about the town-wide domain.** Messaged by Andrew,
@@ -70,9 +83,35 @@ yes. The card is written and takes a minute to add. · *Andrew*
   Open Space?** Probably not. Ask rather than find out.
 - **How bad is Washington Street at 7:35?** Two lanes, parking both sides, a bus
   route, patchy bike accommodation. Not Beacon, but not quiet.
-- **What's in the free SRTS gear package, and what's the lead time?**
-- **Three more volunteers** beyond the hill walker: two corkers and a crossing
-  lead.
+- **What's in the free SRTS gear package, and what's the lead time?** Monday
+  Oct 5 is about the last day vests could arrive and be useful.
+- **What was actually agreed with Brookline Police?** Andrew said on Oct 1 that
+  two units from the Bicycle Squad are coming. The draft at
+  `outreach/email-brookline-pd.md` was never marked sent, so the record of who
+  agreed what is missing. Also worth knowing whether "two units" means two
+  officers or two pairs, because it changes whether they can cover both the
+  Washington Street merge and the Beacon crossing.
+- **Which corner at Washington Square do the 7:38 families stand on?** The site
+  tells people to join there and doesn't say where. Working assumption is the
+  near corner on the Griggs Park side, the side the group arrives on. If it
+  should be the far side, the ride page and the Monday reminder both need
+  changing.
+- **Which side of Washington Street are the Driscoll racks on?** If they're on
+  the far side, fifteen kids have one more street crossing at 7:45 in school-run
+  traffic, and the last two minutes of the ride need a plan of their own.
+- **The BEEP kids and the pace.** Two of the fifteen children signed up are BEEP
+  age, and five are kindergarten or younger. A balance bike doesn't do 0.73 miles
+  in fifteen minutes. Decide before Monday whether to suggest the youngest start
+  at Washington Square, which is 0.2 miles from the racks.
+- ~~**Three more volunteers** beyond the hill walker: two corkers and a crossing
+  lead.~~ *Oct 1:* covered on paper. The crossing lead is a parent who was
+  joining at Washington Square anyway, so she can do the job standing still with
+  her own child beside her. The corners go to the three adults riding without a
+  child of their own, because the release says each child's adult stays with
+  them and corking doesn't allow that (D18). Names in
+  `rides/2026-10-07-crew.local.md`.
+  Nobody has said yes to a specific job yet, which is why `/driscoll/` still
+  says "2 needed".
 - ~~Form: add "7:38 — Washington Square" to Q5~~ — done Sep 10.
 - **Form: add the last help text** ("Anything we should know?"). Email, Mobile
   (the WhatsApp consent line) and Kids are done. See `outreach/form-spec.md`.

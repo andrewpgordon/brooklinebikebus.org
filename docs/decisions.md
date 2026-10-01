@@ -149,3 +149,51 @@ redirect didn't.
 **Lincoln is deliberately not on it.** Nathan hasn't answered the message about
 the town-wide domain (D10), and both rides already on this site went up before
 their organizers were asked. His card is written and takes a minute to add.
+
+### D18 — How the crew is put together, and who can hold a corner
+*Oct 1, 2026, six days out.*
+
+Andrew named the people helping on the 7th: Nicole, two more parent volunteers,
+two Brookline PD Bicycle Squad units, Tina Hein from MA Safe Routes, and the
+organizer of the Pierce ride. The sign-up sheet had 11 entries by Sep 28, seven
+of which offered to help with something. Everyone's name and job is in the
+gitignored file below, not here.
+
+**The rule that decides the whole assignment: a corner job only goes to an
+adult who is riding without a child of their own.** The release families signed,
+and the Driscoll page, both say each child's own adult stays with them for the
+whole ride. Corking means leaving the group for a few minutes at a time, so a
+parent who is the only adult for their kid cannot do it. Four people offered
+corker or crossing lead and have their own child riding, and all four were given
+jobs that keep them next to that child instead. One parent's own note on the form is the
+pattern for doing it the other way round: her husband rides with their three
+children and she takes a job.
+
+**We dismount and walk across Beacon Street whether or not a police officer is
+standing there.** This is the one decision the police presence could have
+changed and it doesn't. Oct 7 has two officers, a monthly ride won't, and the
+rule has to be the same every time or it isn't a rule. Officer positions are a
+proposal until they say otherwise, and the morning has to work if they get
+called away at 7:35.
+
+What was written: `library/crew-brief.md` (the jobs, the corner list, the
+Washington Square choreography, the things that go wrong) and
+`library/huddle-script.md` (the 7:20 crew talk and the 7:26 talk to the kids,
+built on the seven riding rules already on the website rather than a new set).
+The named assignment is in `docs/rides/2026-10-07-crew.local.md`, which is
+gitignored, because it holds volunteers' names, their children's names and their
+mobile numbers. Andrew and Nicole put their own details on the flyer by choice.
+Nobody else did.
+
+The seven corners in the brief are measured off the drawn route line on the
+website map, using the projection in `route-analysis.md`. Three streets that
+look like they should be on the route are not: Downing Road, Bartlett Crescent
+and Corey Road all sit past the point where the ride line ends at Washington and
+Bartlett. Nobody has stood at any of these corners at 7:35 on a school day,
+which is still a blocker, and the brief says so on the table.
+
+**The volunteer table on `/driscoll/` was deliberately left alone.** It still
+says "2 needed" for corkers and "1 needed" for the hill walker. Nobody has
+accepted a specific job yet, and the timeline says to assume one leader drops,
+so marking the roles filled six days out would cost recruiting for no gain.
+Change it after people say yes.
