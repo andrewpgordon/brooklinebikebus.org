@@ -185,8 +185,15 @@ gitignored, because it holds volunteers' names, their children's names and their
 mobile numbers. Andrew and Nicole put their own details on the flyer by choice.
 Nobody else did.
 
-The seven corners in the brief are measured off the drawn route line on the
-website map, using the projection in `route-analysis.md`. Three streets that
+The corners in the brief are measured off the drawn route line on the website
+map, using the projection in `route-analysis.md`. There were seven to begin
+with, and Andrew cut them the same day to four: the first turn, the merge onto
+Washington Street, Fairbanks if there's a spare body, and two people at the
+Beacon crossing covering one carriageway each. Nothing is held after Beacon,
+because the group is three hundred metres from the racks by then. Andrew knows that
+street and the map doesn't. The side effect worth keeping is that every position
+now sits in the first 860 m, so no corker ever has to ride up the outside of a
+line of children to reach a second corner. Three streets that
 look like they should be on the route are not: Downing Road, Bartlett Crescent
 and Corey Road all sit past the point where the ride line ends at Washington and
 Bartlett. Nobody has stood at any of these corners at 7:35 on a school day,

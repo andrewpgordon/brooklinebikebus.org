@@ -61,11 +61,13 @@ group behind you waits. Never put a bike or a body in front of a moving car, and
 never touch a car.
 
 Stay until the sweep passes you. The sweep going by is your signal, not the last
-kid you happen to see. Then ride up the outside of the group to the next corner
-on your list. That leapfrogging is most of the job.
+kid you happen to see.
 
-If your two corners come up too close together to make, say so at the 7:20
-huddle and we'll hand the second one to somebody else.
+On this route the corners are close enough to the start that you can usually get
+to a second one without passing anybody, by going at the beginning rather than
+after the group. If your two do come up too close together to make, say so at
+the 7:20 huddle and we'll hand the second one to somebody else. Riding up the
+outside of a line of children is the thing to avoid.
 
 ## The corners
 
@@ -78,18 +80,26 @@ Saturday pre-ride, so until then this is a draft and the order is the useful par
 | 0 m | Griggs Park, NE corner | Start. The footpath from Marion Street comes down here. |
 | 180 m | Griggs Terrace at Griggs Road | Right turn. Quiet, but it's the first turn and the line is still finding its shape. |
 | 490 m | Griggs Road at Washington Street | Right turn onto Washington. Not a side street to hold: the group is merging onto a two-lane street with a bus route on it. Everyone waits as one and goes as one. The best corner to hand to an officer. |
-| 540 m | Washington Street at Fairbanks Street | Side street on the right, fifty metres after that turn, which means it arrives while the line is still stringing out. Needs its own person. |
-| 860 m | Washington Square, Beacon Street | Everybody off. Own section below. |
-| 1060 m | Washington Street at Salisbury Road | Side street on the climb to school. |
-| 1160 m | Washington Street at Evans Road | Twenty metres short of the racks, with the school-run traffic already in it. |
+| 540 m | Washington Street at Fairbanks Street | Side street on the right, fifty metres after that turn, so it arrives while the line is still stringing out. Worth a person if there's one spare. |
+| 860 m | Washington Square, Beacon Street | Everybody off. Two people here, one for each direction of Beacon traffic, because the group is in the crosswalk for a while. Own section below. |
 | 1180 m | Driscoll, Washington Street at Bartlett Street | Racks. |
+
+**Nothing is held after Beacon Street.** Andrew's call, Oct 1: by the time the
+group is over Beacon it's three hundred metres from the racks and the last
+stretch of Washington Street doesn't need holding. Salisbury Road and Evans Road
+were in an earlier version of this table and came out. The useful side effect is
+that no corker ever has to get past the group, so nobody is riding up the
+outside of twenty children.
+
+So once the group is across Beacon, the corkers are ordinary riders. Fall in and
+ride to school.
 
 Two things that aren't in the table and want eyes on the Saturday ride.
 Driveways and the parking exits around Washington Square don't show up as
 streets on a map, and there are several. And we don't know which side of
 Washington Street the racks are on. If they're on the far side, the group has one
-more crossing at 7:45 in school-run traffic, which changes the whole end of the
-ride.
+more crossing at 7:45 in school-run traffic, which would put one position back
+on that last stretch after all.
 
 ## Beacon Street at Marion, on the walking leg
 
@@ -115,16 +125,19 @@ The captain stops the group on the near curb, well back from the corner, and
 everybody gets off. Bikes are pushed. One light if we fit, and with thirty-odd
 bikes and riders we probably don't.
 
+Two people stand here rather than one, because Beacon has a carriageway on each
+side of the trolley tracks and the group will be strung across both of them for
+most of a light. One person watches the traffic on each side. If there are
+officers, this is the second place to put them.
+
 What happens when we don't fit:
 
 - The crossing lead goes first with the front of the group and stops on the far
   side. The front does not ride away.
 - Everyone still waiting stays on the curb with the sweep, back from the edge.
 - Nobody steps off the curb on a flashing hand. Nobody runs.
-- Nobody gets back on a bike until the sweep is across and says so.
-- Corkers are the exception to that. Cross with the front, don't wait, and go
-  straight to your next corner. Salisbury Road is 200 m past Beacon and Evans
-  Road is 300 m, and you won't make either if you wait for the sweep.
+- Nobody gets back on a bike until the sweep is across and says so. That now
+  includes the corkers, since there's nothing to hold on the far side.
 
 That last line is the most important sentence in this brief. The thing that
 goes wrong at this crossing is half the group on one side of Beacon Street and
