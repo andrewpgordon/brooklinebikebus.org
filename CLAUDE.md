@@ -13,14 +13,16 @@ at the pace of the slowest rider.
 School Day). Rain date Thursday October 8. If turnout is good it goes monthly.
 
 The domain is town-wide. Pierce's ride is listed at `/pierce/` (added Sep 29
-from their flyer; they run it, we don't). Lincoln runs one too.
+from their flyer; they run it, we don't). Lincoln's is at `/lincoln/` (added
+Oct 5, at Nathan Freitas's own request and from what he sent; he runs it, we
+don't).
 
 **The homepage is a chooser** (D17, Sep 29): a card for Driscoll and a card
 for Pierce, each with that ride's own artwork, and the next ride in a band
 above them. It replaced the redirect to `/driscoll/`. It uses neutral slate
 rather than any school's colours. Every printed QR code points at the bare
 domain, so Driscoll is first, wears the dragon badge from the flyer, and the
-whole card is one tap. Add Lincoln's card once Nathan replies. The older, longer town-wide page (what a bike bus is, how
+whole card is one tap. All three cards are on it. The older, longer town-wide page (what a bike bus is, how
 to start one, resources) is still parked in `docs/archive/landing-townwide.html`.
 
 ## Who
@@ -30,7 +32,7 @@ to start one, resources) is still parked in `docs/archive/landing-townwide.html`
 | **Andrew Gordon** | organizer, ride captain, repo owner | andrewpgordon@gmail.com · 781.879.3883 |
 | **Nicole McClelland** | co-organizer. Was down as sweep until Oct 1, when it turned out there's no bike | nicole.mcclelland@gmail.com · 336.314.2202 |
 | Tina Hein | MA Safe Routes to School (MassDOT), offering route audit + free gear | Tina.Hein@aecom.com · 617.371.4428 |
-| Nathan Freitas | runs the Lincoln School bike bus; the model we copied | nathanfreitas@gmail.com · 718-569-7272 |
+| Nathan Freitas | runs the Lincoln School bike bus, the model we copied. Asked us on Oct 5 to list it, and to publish these details | nathanfreitas@gmail.com · 718-569-7272 |
 
 ## Current state
 
@@ -44,7 +46,10 @@ to start one, resources) is still parked in `docs/archive/landing-townwide.html`
 - ✅ Tina replied Sep 14: light-touch permissions (basic form, if any); police
   contact is on us; add "ride with traffic, on the right" (done). See
   `docs/outreach/email-tina-srts.md`
-- ✅ Nathan messaged about the landing page (Sep 2026) — waiting on his reply
+- ✅ Nathan replied Oct 5 and asked for a Lincoln page like the Pierce one, with
+  his name, email and phone on it. Done the same day (D19). Lincoln rides every
+  Wednesday at 7:30 and alternates two routes, so the page sends people to his
+  own doc for which one is running
 - ✅ Pierce ride listed at `/pierce/` (Sep 29). Their organizers haven't been
   told yet, same mistake we made with Nathan
 - ⬜ Release language not yet seen by a lawyer ← **blocker**. Andrew has asked
@@ -99,9 +104,10 @@ Two hard rules, both load-bearing:
 
 ```
 public/                  ← the only thing published to the web
-  index.html             homepage: pick a school (Driscoll, Pierce)
+  index.html             homepage: pick a school (Driscoll, Pierce, Lincoln)
   driscoll/index.html    the Driscoll ride page
   pierce/index.html      the Pierce ride, run by the SRTS Task Force, not by us
+  lincoln/index.html     the Lincoln ride, run by Nathan Freitas, not by us
   assets/                site.css (all colours + components), favicon, OG images
   CNAME .nojekyll robots.txt sitemap.xml
 library/                 flyer, poster kit, bulletin blurb, reusable per ride — NOT published
@@ -135,7 +141,8 @@ framework, a bundler, or npm without a concrete reason and Andrew's agreement.
 
 - **Colours only in `assets/site.css`.** Driscoll's are crimson `#BB262A` and
   gold `#FFB101`, and they're the defaults. Pierce overrides them with their
-  greens (`body.school-pierce`), and the homepage with a plain slate
+  greens (`body.school-pierce`), Lincoln with the purple of Nathan's own route
+  maps (`body.school-lincoln`), and the homepage with a plain slate
   (`body.townwide`), because it isn't any one school's page. Nothing else holds
   a hex code except the inline SVG maps, which use `var(--…)`.
 - **Both themes always.** Define every colour in bare `:root` first, then

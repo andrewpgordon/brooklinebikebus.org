@@ -2,6 +2,11 @@
 # data (children's names, contact details). Never commit these.
 *.local.md
 
+# Art we were sent but must not republish (personal location pins, faces).
+# docs/ is readable on the public repo even though it isn't served on the
+# domain, so a file in here would be just as public as the website.
+docs/art/private/
+
 # Mac clutter
 .DS_Store
 

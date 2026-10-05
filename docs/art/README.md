@@ -28,3 +28,27 @@ That crop centres the lead penguin and cuts off the white strip down the right
 side of the original, which would otherwise show as a pale sliver in dark mode.
 
 The route map on `/pierce/` is their own Google map, credited in the legend.
+
+**`lincoln-route2-downes-chestnut.webp`**. Nathan Freitas's own annotated map of
+the Lincoln Route 2 ride, sent Oct 5 2026 with a request to publish it.
+Published whole as `public/assets/lincoln-route-map.webp`, and the homepage card
+is a square crop of it:
+
+```bash
+magick docs/art/lincoln-route2-downes-chestnut.webp -crop 330x330+200+90 +repage \
+  -resize 360x360 -quality 84 -strip public/assets/lincoln-card.webp
+```
+
+That crop is a stretch of Chestnut Street with the purple route and no label
+boxes, which is the only part that still reads as anything at 62px.
+
+**`private/lincoln-route1-walnut.png`**. His Route 1 map, sent at the same time.
+**Not published**, and not publishable as it stands: it's a Google Maps
+screenshot with a profile photo on it as a location pin, so putting it up would
+publish somebody's whereabouts. Ask Nathan for a clean one (D19).
+
+It sits in `docs/art/private/`, which is gitignored. The rest of `docs/` is
+readable on the public GitHub repo even though none of it is served on the
+domain, so a file in here that shouldn't be public has to be kept out of git
+entirely. Anything else we're sent with a face or a location pin on it goes in
+that folder.

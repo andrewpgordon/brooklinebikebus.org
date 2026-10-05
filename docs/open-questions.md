@@ -64,10 +64,17 @@ ride is cancelled at 6:15 this is the person who most needs that message. Name
 and details in `rides/2026-10-07-crew.local.md`.
 · *Andrew + Nicole*
 
-**Hear back from Nathan about the town-wide domain.** Messaged by Andrew,
-Sep 10, no reply yet. It matters again: as of Sep 29 the homepage is a live
-list of Brookline rides (D17). Lincoln is left off it on purpose until he says
-yes. The card is written and takes a minute to add. · *Andrew*
+~~**Hear back from Nathan about the town-wide domain.**~~ *Oct 5:* he replied,
+asked for a Lincoln page like the Pierce one, and gave permission to publish his
+name, email and phone. Page is live at `/lincoln/` and the card is on the
+homepage (D19). Two follow-ups, neither blocking:
+
+- **Ask for a clean Route 1 map.** The one he sent has somebody's profile photo
+  on it as a location pin, so it isn't published. His Route 2 map has no
+  personal markers and is exactly right.
+- **His short link resolves to a Google Doc `/edit` URL.** We link his short
+  link so he keeps control of where it points, but an edit link on a public page
+  is worth flagging to him.
 
 ## Everything else
 

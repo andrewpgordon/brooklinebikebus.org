@@ -218,3 +218,40 @@ says "2 needed" for corkers and "1 needed" for the hill walker. Nobody has
 accepted a specific job yet, and the timeline says to assume one leader drops,
 so marking the roles filled six days out would cost recruiting for no gain.
 Change it after people say yes.
+
+### D19 — Lincoln gets a page, because Nathan asked for one
+*Oct 5, 2026.*
+
+Nathan Freitas emailed and asked for a page like the Pierce one, gave the two
+route names, the times, a link to his own page, and explicit permission to put
+his name, email and phone on it. That closes D10's loose end and the question
+that had been sitting in `open-questions.md` since September. It also means his
+card goes on the homepage, which D17 had deliberately held back until he said
+yes.
+
+What the page says comes from his email and the one map he sent: every
+Wednesday at 7:30, two routes that alternate, Route 1 (Fire Station and Walnut
+Street) and Route 2 (Downes Field to Chestnut) with 7:00 to meet, 7:30 away,
+7:40 at a meet point on Chestnut and 7:55 at the school on Kennard Road.
+
+**The most useful thing on the page is the link to his doc**, because the
+routes alternate and we can't say from here which one is running this week. The
+page says that twice and puts the link in a band-joined CTA near the top.
+
+Two things we did not publish.
+
+He sent a second map for Route 1. It's a Google Maps screenshot with somebody's
+profile photo on it as a location pin, so it would publish a person's
+whereabouts. Left out. The page says plainly that we don't have the stops and
+times for Route 1 and points at his doc. Ask him for a clean one, like the
+Route 2 map, which has no personal markers.
+
+The short link he gave resolves to a Google Doc `/edit` URL. We used his short
+link anyway, because it's his and he can repoint it, which beats us hard-coding
+a different URL that then goes stale. Worth telling him, since an edit link on
+a public page is an invitation to wreck the doc if it's shared for editing.
+
+Colours: `body.school-lincoln` is purple, taken from the purple he draws his own
+route maps in. The homepage card logo is a square crop of that map, because we
+have no Lincoln artwork and inventing some for another person's ride is not
+ours to do.

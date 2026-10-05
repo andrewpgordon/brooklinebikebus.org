@@ -9,6 +9,7 @@ public/                    ← THE WEBSITE. Only this folder is published.
   index.html               homepage: pick a school
   driscoll/index.html      the Driscoll ride page
   pierce/index.html        the Pierce ride (run by the SRTS Task Force, not by us)
+  lincoln/index.html       the Lincoln ride (run by Nathan Freitas, not by us)
   assets/
     site.css               every colour, every component, shared by all pages
     favicon.svg
@@ -167,7 +168,8 @@ The page uses `<body class="townwide">`, which trades Driscoll's crimson and
 gold for a plain slate. That's deliberate: the homepage isn't any one school's,
 so each card carries its own ride's artwork instead. Driscoll's is the dragon
 badge; Pierce's is `assets/pierce-card.jpg`, a square crop of the drawing from
-their flyer.
+their flyer; Lincoln's is `assets/lincoln-card.webp`, a square crop of Nathan's
+own route map.
 
 To add a school, copy a `<div class="route-card">`. Put `class="route-card
 live"` on whichever one is next; that's what draws the marked left edge.
@@ -175,8 +177,8 @@ live"` on whichever one is next; that's what draws the marked left edge.
 There's a longer version of this page parked in
 `docs/archive/landing-townwide.html`. It explains what a bike bus is and how to
 start one, and links the Safe Routes guides. Take pieces from it if you want
-them. Before you use the Lincoln card in it, check with Nathan Freitas. It
-names him and links his ride doc, and he hasn't been asked.
+them. Its Lincoln card is out of date now that `/lincoln/` exists, so link the
+page rather than the Google doc.
 
 ### Updating the sign-up form link
 
