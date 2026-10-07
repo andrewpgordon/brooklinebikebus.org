@@ -2,6 +2,11 @@
 # data (children's names, contact details). Never commit these.
 *.local.md
 
+# Ride-day paperwork with volunteers' names on it. Same reason as the art
+# below: docs/ is readable on the public repo, so a file in here would be
+# just as public as the website.
+docs/rides/private/
+
 # Art we were sent but must not republish (personal location pins, faces).
 # docs/ is readable on the public repo even though it isn't served on the
 # domain, so a file in here would be just as public as the website.
