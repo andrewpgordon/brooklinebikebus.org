@@ -255,3 +255,39 @@ Colours: `body.school-lincoln` is purple, taken from the purple he draws his own
 route maps in. The homepage card logo is a square crop of that map, because we
 have no Lincoln artwork and inventing some for another person's ride is not
 ours to do.
+
+### D20 — An invite-only photo album, and the promise is about the photo
+
+*Oct 7, 2026, the afternoon after the first ride.* Some families asked for a
+shared Google album. Others said they didn't want pictures of their children
+somewhere strangers could see them. Both groups get what they asked for, but not
+by arguing about the album.
+
+**The album is invite-only, with link sharing off.** Anyone with a Google Photos
+link can pass it on, and removing a person from the album doesn't take the link
+back, so "unlisted" is one forward away from public. Named people only, added by
+email, with collaborate on so families can add their own pictures. The cost is
+that it needs a Google account; that's an acceptable trade for the only setting
+that actually matches the worry.
+
+**The link is not on the website.** A URL on a public page is public, which is
+the whole thing the objecting families were objecting to. The ride page tells
+people to email Andrew instead, because Google Photos has no "request access"
+button the way Drive does. The URL itself lives in `links.local.md` with the
+form URLs.
+
+**The real protection isn't the gate.** A locked album still holds somebody's
+kid, uploaded by a parent who meant well. So the two rules on the ride page are
+about the picture: tell us and nobody photographs your child, and ask and any
+picture of them comes down without a reason. And nothing goes from the album to
+the website, Facebook, a newsletter or a flyer until the families in it have
+been asked one by one. That last one gives up something the project wanted:
+`crew-brief.md` says good photos are how ride two gets more families than ride
+one, and it does, and it loses to a parent who said no.
+
+**The form should have asked in September.** `bulletin-blurb.md` said not to
+mention photos until the form wording was settled. It never got settled, the
+field never went on, and fifteen children were photographed this morning with no
+written answer from anybody. Draft field in `photos.md`, and the October 7
+families have to be asked by hand before any of this morning's pictures are
+used.

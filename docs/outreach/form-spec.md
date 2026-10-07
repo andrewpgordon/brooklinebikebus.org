@@ -42,6 +42,15 @@ out you can join the ride there and the form didn't offer it.
 Families who signed up before Sep 10 never saw the WhatsApp sentence. Before
 adding their numbers to the group, ask them first.
 
+## Photos — never asked, needs a tenth field
+
+⬜ The form has no photo question and never has, so nobody who signed up has
+said in writing whether their child can be photographed. It came up for real on
+Oct 7, when some families asked for a shared album and others said they didn't
+want pictures of their kids where strangers could see them. Wording for the new
+field, and the rest of the policy, is in `docs/photos.md`. Everyone who signed
+up before it goes on the form has to be asked some other way.
+
 ## Settings to verify
 
 - **Collect email addresses: OFF.** Otherwise people must sign into a Google

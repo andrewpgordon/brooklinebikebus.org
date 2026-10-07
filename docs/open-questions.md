@@ -140,5 +140,13 @@ homepage (D19). Two follow-ups, neither blocking:
 - ~~Form: add "7:38 — Washington Square" to Q5~~ — done Sep 10.
 - **Form: add the last help text** ("Anything we should know?"). Email, Mobile
   (the WhatsApp consent line) and Kids are done. See `outreach/form-spec.md`.
+- **Form: add the photo question**, and ask the October 7 families separately,
+  because the form never had one and they have already ridden. Some of them want
+  a shared album and some don't want pictures of their children anywhere
+  strangers can see them. Policy and draft wording in `photos.md`; the ride page
+  now carries the two rules that matter (tell us and we won't photograph your
+  kid, ask and any picture comes down). Nothing from the first ride should go on
+  the website, Facebook or a flyer until the families in each picture have said
+  yes. · *Andrew*
 - ~~Buy brooklinebikebus.org~~ — done, Namecheap, Sep 2026 (ahead of the Nathan
   conversation, which is why that one is now marked overdue).
