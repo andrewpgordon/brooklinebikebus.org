@@ -48,6 +48,39 @@ public URL.
 To wind it down later, take everyone off and leave link sharing off. That's how
 Google makes a shared album private again.
 
+## What goes in the album itself
+
+Google Photos lets you drop a block of text into an album the same way you add a
+picture. Put this one at the top, so it's the first thing anybody sees, and send
+the short version in the invite email, because people read the email first and
+some of them never scroll.
+
+> **Please keep these in the album.**
+>
+> Everyone in here is somebody's kid. Some families said yes to pictures only
+> because this album is small and we know who's in it. So please don't forward
+> the link or repost these anywhere, and that includes the bike bus WhatsApp
+> group.
+>
+> Save as many of your own child's pictures as you want. If you want to use one
+> somewhere else and another family's child is in it, ask me first and I'll
+> check with their parents.
+>
+> If a picture of your child is in here and you'd rather it wasn't, tell me and
+> it comes out. You don't need to give a reason.
+>
+> Andrew Gordon, andrewpgordon@gmail.com, 781.879.3883
+
+Short version for the invite email:
+
+> The album is just the families who rode. Please don't forward the link or
+> repost the pictures, since other people's kids are in them. If one of yours
+> shouldn't be in there, tell me and I'll take it out.
+
+None of this stops anyone. A person who can see the album can save what's in it,
+and asking is the only lever we have. It works more often than people expect,
+and it means nobody can say later that they didn't know.
+
 ## What the sign-up form should ask
 
 The form has never asked about photos. `library/bulletin-blurb.md` flagged it in
