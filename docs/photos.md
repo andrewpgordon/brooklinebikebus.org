@@ -48,6 +48,62 @@ public URL.
 To wind it down later, take everyone off and leave link sharing off. That's how
 Google makes a shared album private again.
 
+## A Google Group as the list, and whether it can be the gate
+
+Andrew's idea on Oct 7: run a group address like
+`driscoll-bike-bus@googlegroups.com`, so that the people who get ride emails and
+the people who can see the album are the same list, and nobody has to be added
+twice.
+
+As a mailing list that works, and it's better than what we have now. A group
+takes any email address, so families without a Google account can be on it. It
+gives us one address to send to instead of a growing BCC line pasted out of the
+responses sheet, and people can be taken off without Andrew hunting through old
+emails.
+
+As the album gate it looks like it doesn't work. Google Photos adds people by
+Google account, and a group address isn't a Google account, it's a distribution
+list. Everything we could find says Photos won't accept one, though the thread
+that says so directly wouldn't load for us, so treat it as probable and not
+proven. The test takes ten seconds once the group exists: open the album's share
+box and type the group address in. If Photos accepts it, this is all moot and we
+use it.
+
+Google Drive does do it, and Google documents it: share a folder with a group and
+people get access as they join and lose it as they leave. So if "membership is
+access" is the thing Andrew wants most, the album belongs in a Drive folder
+rather than in Photos. What that costs us: in a personal Drive, letting families
+add pictures means giving them Editor, and an Editor can delete anybody's files.
+A collaborator on a Photos album can only pull out what they put in themselves.
+With fifteen families and somebody else's kids in the frame, that matters.
+
+Where this leaves us, pending Andrew's call:
+
+1. Make the group, and use it for ride emails either way.
+2. Keep the album in Photos, and add people by hand off the group's member list.
+   Fifteen families, once a month.
+3. If the hand-adding gets old, move the album to a Drive folder shared with the
+   group and accept the Editor problem.
+
+### Group settings that matter
+
+The address is public namespace, so anyone can guess `driscoll-bike-bus` and
+turn up at the door. The defaults are too open for a list of Driscoll parents'
+email addresses, so set these when you make it:
+
+- Who can join: invited users only. "Anyone can ask to join" turns the group
+  into a second request channel and a spam target.
+- Who can view conversations: members only.
+- Who can view members: managers only. Otherwise any one parent can export every
+  family's email address.
+- Who can post: worth deciding. Members-can-post makes it a parent conversation,
+  owners-only makes it announcements. The WhatsApp group is already the
+  conversation, so owners-only is probably right.
+- Don't list it in the Groups directory.
+
+Members come out of the form responses sheet, whose URL lives in
+`links.local.md` and stays there.
+
 ## What goes in the album itself
 
 Google Photos lets you drop a block of text into an album the same way you add a

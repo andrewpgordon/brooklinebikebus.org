@@ -148,5 +148,16 @@ homepage (D19). Two follow-ups, neither blocking:
   kid, ask and any picture comes down). Nothing from the first ride should go on
   the website, Facebook or a flyer until the families in each picture have said
   yes. · *Andrew*
+- **Decide how people get into the photo album.** Three things are open. (a) A
+  Google Group as the ride mailing list, which is worth doing on its own, and
+  then either hand-adding its members to the Photos album or moving the album to
+  a Drive folder shared with the group so membership is access. Reasoning and the
+  settings are in `photos.md`. (b) Whether the album URL goes on the ride page at
+  all. It doesn't today, on purpose (D20), and `robots.txt` lets everything crawl,
+  so a URL there gets indexed and stays indexed. (c) The page now says a family
+  who signs up gets added for the next ride. That widens the gate from "rode with
+  us" to "filled in a public form", which is not quite what the families who
+  objected were told on Oct 7. Worth a look if sign-ups ever come from outside
+  Driscoll. · *Andrew*
 - ~~Buy brooklinebikebus.org~~ — done, Namecheap, Sep 2026 (ahead of the Nathan
   conversation, which is why that one is now marked overdue).
