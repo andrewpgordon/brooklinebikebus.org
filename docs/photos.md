@@ -37,8 +37,8 @@ One album per ride, in Google Photos, with three settings.
   account on their end. That's the cost of doing it this way, and it's worth it.
 - **Collaborate on**, so the families in the album can add their own pictures.
 
-Google Photos has no equivalent of Drive's "request access" button, so a parent
-can't ask the album to let them in. They ask Andrew and he adds them, which is
+We can't find anything in Google Photos like Drive's "request access" button,
+so a parent has no way to ask the album to let them in. They ask Andrew and he adds them, which is
 what the ride page tells them to do.
 
 The album URL goes in `links.local.md`, next to the form URLs, for the same

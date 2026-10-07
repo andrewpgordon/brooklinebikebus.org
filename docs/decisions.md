@@ -272,8 +272,8 @@ that actually matches the worry.
 
 **The link is not on the website.** A URL on a public page is public, which is
 the whole thing the objecting families were objecting to. The ride page tells
-people to email Andrew instead, because Google Photos has no "request access"
-button the way Drive does. The URL itself lives in `links.local.md` with the
+people to email Andrew instead, because Google Photos appears to have no
+"request access" button the way Drive does. The URL itself lives in `links.local.md` with the
 form URLs.
 
 **The real protection isn't the gate.** A locked album still holds somebody's
