@@ -78,13 +78,29 @@ gives us one address to send to instead of a growing BCC line pasted out of the
 responses sheet, and people can be taken off without Andrew hunting through old
 emails.
 
-As the album gate it looks like it doesn't work. Google Photos adds people by
-Google account, and a group address isn't a Google account, it's a distribution
-list. Everything we could find says Photos won't accept one, though the thread
-that says so directly wouldn't load for us, so treat it as probable and not
-proven. The test takes ten seconds once the group exists: open the album's share
-box and type the group address in. If Photos accepts it, this is all moot and we
-use it.
+As the album gate it doesn't work. Andrew tried it on Oct 7 and Google Photos
+won't take a group address, which is what the research said would happen: Photos
+adds people by Google account, and a group address is a distribution list, not an
+account.
+
+So the album gets shared the other way round. Andrew turns on the share link,
+which is the URL with the `?key=` on the end, and posts that link in the Google
+Group and in the WhatsApp group. Both of those are closed rooms, so the link
+reaches exactly the families it should without anybody being added one at a time.
+The ride page keeps the keyless URL, which hands a stranger a Google error.
+
+What that costs, and it's worth saying out loud: a share link works for anyone
+holding it, and any one of the families can forward it out of WhatsApp to
+someone who isn't on the list. Taking that person off the album doesn't take the
+link back. So the text card at the top of the album, the one asking people not to
+forward it, is now the only thing standing between a closed album and an open
+one. It being an ask rather than a control matters more under this setup than it
+did under the old one.
+
+One thing to re-test whenever the share link goes on: whether the keyless URL
+sitting on the public page starts working for signed-out strangers once link
+sharing is switched on. It returned a plain Google 404 while sharing was off. If
+turning sharing on wakes it up, the link comes off the ride page.
 
 Google Drive does do it, and Google documents it: share a folder with a group and
 people get access as they join and lose it as they leave. So if "membership is

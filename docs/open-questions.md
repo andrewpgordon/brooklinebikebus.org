@@ -148,6 +148,27 @@ homepage (D19). Two follow-ups, neither blocking:
   kid, ask and any picture comes down). Nothing from the first ride should go on
   the website, Facebook or a flyer until the families in each picture have said
   yes. · *Andrew*
+- **Did Brookline PD actually turn up on Oct 7?** The crossing at Washington
+  Square was ridden rather than walked and it worked, which is why D21 changes
+  the rule. If it worked because an officer was holding the intersection, then it
+  only works again on Nov 18 if an officer is there again. Nobody wrote down
+  whether the two Bicycle Squad units came. Answer this before the crew brief is
+  rewritten. · *Andrew*
+- **`crew-brief.md` and `huddle-script.md` are now wrong.** Both still describe
+  the walking group and dismounting to walk across Beacon. They are the documents
+  people actually hold on the morning, so they have to be redone before Nov 18,
+  after the PD question above is answered. · *Andrew*
+- **Nov 18 has no cancellation plan on paper.** Oct 7 had a rain date because it
+  was pinned to Walk & Roll day. November doesn't, so the page just says we cancel
+  and send a message by 6:15. Decide whether that's the policy or whether there's
+  a fallback date. · *Andrew*
+- **The WhatsApp join link stays off the website on purpose.** A
+  `chat.whatsapp.com` invite on a page that search engines crawl lets anyone let
+  themselves in, and every member can see every other member's phone number.
+  Invites go out after sign-up instead. Don't "fix" this by adding the link. ·
+  *Andrew*
+- **`timeline.md` is still written around Oct 7** and needs a pass for the
+  Nov 18 ride. · *Andrew*
 - **Decide how people get into the photo album.** Three things are open. (a) A
   Google Group as the ride mailing list, which is worth doing on its own, and
   then either hand-adding its members to the Photos album or moving the album to

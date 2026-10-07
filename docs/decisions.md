@@ -300,3 +300,44 @@ field never went on, and fifteen children were photographed this morning with no
 written answer from anybody. Draft field in `photos.md`, and the October 7
 families have to be asked by hand before any of this morning's pictures are
 used.
+
+### D21 — No more walking group, and we ride across Beacon
+
+*Oct 7, 2026, the evening after the first ride.* Andrew's call, from having been
+on it. Two things change for November 18, and both reverse something this repo
+treated as settled.
+
+**The walking group is gone.** Families on Corey Hill make their own way down to
+Griggs Park and join between 7:15 and 7:30, the same as everyone else. The 7:00
+and 7:05 stops on Summit Avenue, the Marion Street crossing and the footpath all
+come off the page and off the map. It also removes the hill walker job, which
+nobody had taken anyway and without which the walking leg couldn't run. Summit
+is still not ridden, by anyone, ever. The measurements stay in
+`route-analysis.md` and D15 in case the walk ever comes back.
+
+**We ride across Beacon Street instead of walking it.** D18 said the group
+dismounts and walks across Washington Square whether or not an officer is there.
+On the day they rode it, as one group on one light, and Andrew says it went
+better than walking would have. Fifteen kids getting off bikes, walking, and
+getting back on is slower in the intersection than rolling through it together,
+and time in the intersection is the thing you want less of. So the page now says
+we ride it.
+
+The thing that isn't settled: two Brookline PD Bicycle Squad units were expected
+on Oct 7 and nobody wrote down whether they came. If the crossing worked because
+an officer was holding the intersection, then "we'll do that again" is a
+statement about November's police coverage and not about the crossing. That
+question is in `open-questions.md` and it needs an answer before the crew brief
+gets rewritten.
+
+**Smaller things from the same message.** What to bring is down to a helmet, a
+bike or scooter, and gloves and earmuffs when it's cold; the tires, brakes, hi-vis
+and backpack lines are gone. So are the riding rules about traffic position, two
+abreast, stopping at every light, call-outs and headphones, one of which ("ride
+with traffic, on the right") came from Tina Hein at MA Safe Routes to School, so
+it was taken off deliberately and not by accident. In their place is the one
+thing that actually decides whether a child can come: you need to be able to ride
+or scoot at walking speed or faster. The ride now waits for the group at Griggs
+Road and Washington Street and again at Washington Square. Jobs are down to
+sweep, corkers, photos and donuts.
+

@@ -9,8 +9,9 @@ plus the static site that hosts it at **brooklinebikebus.org**. A bike bus is a
 group of kids and adults riding to school together on a set route at a set time,
 at the pace of the slowest rider.
 
-**The first ride is a pilot: Wednesday, October 7, 2026** (National Walk & Roll to
-School Day). Rain date Thursday October 8. If turnout is good it goes monthly.
+**The first ride happened Wednesday, October 7, 2026** (National Walk & Roll to
+School Day). Fifteen kids, and it worked. **The second is Wednesday, November 18,
+2026**, with a few more pencilled in for the spring.
 
 The domain is town-wide. Pierce's ride is listed at `/pierce/` (added Sep 29
 from their flyer; they run it, we don't). Lincoln's is at `/lincoln/` (added
@@ -79,24 +80,25 @@ week-by-week plan.
 
 ## The route (final — don't re-litigate without reading docs/decisions.md)
 
-**Walking group** (optional, for Corey Hill families) — 0.46 mi:
-`7:00` Summit Ave & Jordan Rd (218 ft) → `7:05` Summit Ave & Mason Terrace
-(137 ft) → down Summit to Beacon → west along the Beacon sidewalk → **cross
-Beacon at the Marion Street lights** → Marion St → footpath down to Griggs
-Terrace → `7:15` Griggs Park NE corner (36 ft). Bikes are **walked**, not
-ridden — Summit is 8–12% and the footpath about 10%. (Crossing is at Marion,
-not Summit Ave — Andrew's correction, D15.)
+**The walking group is gone** (D21, Oct 7 evening). Corey Hill families make
+their own way to Griggs Park. Everything about Summit Ave, Jordan Rd, Mason
+Terrace, the Marion Street crossing and the footpath is history now, kept in
+`docs/route-analysis.md` and D15 in case it ever comes back.
 
 **The ride** — 0.74 mi, max 3%:
-`7:15–7:30` gather, Griggs Park NE corner → `7:30` roll out via Griggs Terrace
-and Griggs Road → `7:38` Washington Square, **dismount and walk bikes across
-Beacon Street** as one group → `7:45` Driscoll bike racks. Bell is 8:00.
+`7:15–7:30` gather, Griggs Park NE corner (36 ft) → `7:30` roll out via Griggs
+Terrace and Griggs Road → stop at Washington Street and wait for the group →
+`7:38` Washington Square, wait again, then **ride across Beacon Street** as one
+group on one light → `7:45` Driscoll bike racks. Bell is 8:00.
 
 Two hard rules, both load-bearing:
-1. **The bike bus never rides on Beacon Street.** It crosses it twice, both
-   times on foot.
-2. **The bike bus never rides on Summit Avenue.** The hill is walked, before
-   the ride starts.
+1. **The bike bus never rides along Beacon Street.** It crosses it once, at
+   Washington Square, together on one light with adults holding the
+   intersection. The first ride walked that crossing. It rode it instead and
+   that worked better, so riding it is the plan from now on (D21, Andrew's call
+   from the day). Open: whether it worked because Brookline PD were there.
+2. **The bike bus never rides on Summit Avenue.** Nothing goes up or down that
+   hill as a group, which is also why the walking group is gone.
 
 ## Repo layout
 
