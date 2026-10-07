@@ -276,6 +276,15 @@ people to email Andrew instead, because Google Photos appears to have no
 "request access" button the way Drive does. The URL itself lives in `links.local.md` with the
 form URLs.
 
+*Reversed the same evening, with a condition.* Andrew asked for the link on the
+page. Loading the album's keyless address in a signed-out browser returns a plain
+Google 404, so it gives a stranger nothing, which is what the paragraph above was
+worried about and what it got wrong. The link goes on the page with a sentence
+next to it explaining the error page, since a bare 404 looks like a broken site.
+The condition is that the keyless address is the only one that ever goes there.
+The `?key=` URL from the Share menu works for anyone holding it, and swapping it
+in to make the link "work" would hand away the album. Detail in `photos.md`.
+
 **The real protection isn't the gate.** A locked album still holds somebody's
 kid, uploaded by a parent who meant well. So the two rules on the ride page are
 about the picture: tell us and nobody photographs your child, and ask and any

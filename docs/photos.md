@@ -41,9 +41,26 @@ We can't find anything in Google Photos like Drive's "request access" button,
 so a parent has no way to ask the album to let them in. They ask Andrew and he adds them, which is
 what the ride page tells them to do.
 
-The album URL goes in `links.local.md`, next to the form URLs, for the same
-reason those are there. An unlisted URL in a tracked file in a public repo is a
-public URL.
+### Two URLs, and only one of them can go anywhere public
+
+The album has an address with no access key on the end, which is what you see in
+your own address bar when you're looking at it. Loaded in a signed-out browser on
+Oct 7, that one returns a plain Google 404. A stranger holding it gets nothing.
+So it's the one Andrew decided to put on the ride page, with a sentence beside it
+saying you'll get a Google error unless he has already added you and you're
+signed in. A bare 404 with no explanation next to it reads as a broken website.
+
+The URL that "Copy link" hands you in the Share menu is a different thing. It
+carries a `?key=` on the end, creating it is what switches link sharing on, and
+it works for anyone holding it. That one goes on no page and in no file. If the
+link on the ride page ever looks broken, the fix is not to paste that one in.
+
+Still untested: whether an already-added family opening the keyless URL while
+signed in actually lands in the album. It should, since it's the same address
+they see under Sharing, but one parent tapping it would settle it.
+
+Both the keyless address and the reason it's safe are written down in
+`links.local.md`.
 
 To wind it down later, take everyone off and leave link sharing off. That's how
 Google makes a shared album private again.
