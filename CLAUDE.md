@@ -70,10 +70,10 @@ to start one, resources) is still parked in `docs/archive/landing-townwide.html`
 - ⬜ **The sweep is open.** Nicole has no bike (Oct 1). `/driscoll/` still says
   "Sweep: Filled, Nicole", which is now wrong, and it's left that way until
   Andrew decides whether to find a bike or move the job
-- ⬜ Two Brookline PD Bicycle Squad units expected (Andrew, Oct 1). No record of
-  who agreed it; the draft at `docs/outreach/email-brookline-pd.md` was never
-  marked sent. **The group dismounts and walks across Beacon whether or not an
-  officer is there** (D18)
+- ✅ Two Brookline PD Bicycle Squad units came on Oct 7, and the Washington
+  Square crossing guards held the traffic. That is why the crossing was ridden
+  rather than walked (D21). Nothing is arranged for Nov 18 yet, and
+  `docs/outreach/email-brookline-pd.md` was never marked sent
 
 See `docs/open-questions.md` for the full list, and `docs/timeline.md` for the
 week-by-week plan.
@@ -97,10 +97,12 @@ before crossing, but it isn't a stop you can be collected from.
 
 Two hard rules, both load-bearing:
 1. **The bike bus never rides along Beacon Street.** It crosses it once, at
-   Washington Square, together on one light with adults holding the
-   intersection. The first ride walked that crossing. It rode it instead and
-   that worked better, so riding it is the plan from now on (D21, Andrew's call
-   from the day). Open: whether it worked because Brookline PD were there.
+   Washington Square, together on one light. The first ride was planned as a
+   walk and was ridden instead, and that worked better, so riding it is the plan
+   (D21). **It worked with the traffic held**: the Washington Square crossing
+   guards held it and two Brookline PD bike units were there (Andrew, Oct 13).
+   Nobody has decided what happens on a morning when neither is, and that is the
+   open question, not whether riding is better.
 2. **The bike bus never rides on Summit Avenue.** Nothing goes up or down that
    hill as a group, which is also why the walking group is gone.
 

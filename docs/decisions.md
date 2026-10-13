@@ -323,12 +323,15 @@ getting back on is slower in the intersection than rolling through it together,
 and time in the intersection is the thing you want less of. So the page now says
 we ride it.
 
-The thing that isn't settled: two Brookline PD Bicycle Squad units were expected
-on Oct 7 and nobody wrote down whether they came. If the crossing worked because
-an officer was holding the intersection, then "we'll do that again" is a
-statement about November's police coverage and not about the crossing. That
-question is in `open-questions.md` and it needs an answer before the crew brief
-gets rewritten.
+*Answered Oct 13.* Both PD units came, and the Washington Square crossing guards
+held the traffic as well. So the crossing was ridden with the road stopped for
+it by people whose job that is. Riding it is still the better call, and the
+reason it's better is unchanged, but "we'll do that again" now means arranging
+for Nov 18 what happened by arrangement on Oct 7. What nobody has decided is the
+morning when neither the guards nor PD are there and fifteen kids are at the kerb
+at 7:38. That decision belongs in the crew brief, and the obvious answer is the
+old D18 behaviour as a fallback: ride it when the traffic is being held, get off
+and walk it on the light when it isn't. Andrew's to make.
 
 **Smaller things from the same message.** What to bring is down to a helmet, a
 bike or scooter, and gloves and earmuffs when it's cold; the tires, brakes, hi-vis

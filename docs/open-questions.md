@@ -148,12 +148,21 @@ homepage (D19). Two follow-ups, neither blocking:
   kid, ask and any picture comes down). Nothing from the first ride should go on
   the website, Facebook or a flyer until the families in each picture have said
   yes. · *Andrew*
-- **Did Brookline PD actually turn up on Oct 7?** The crossing at Washington
-  Square was ridden rather than walked and it worked, which is why D21 changes
-  the rule. If it worked because an officer was holding the intersection, then it
-  only works again on Nov 18 if an officer is there again. Nobody wrote down
-  whether the two Bicycle Squad units came. Answer this before the crew brief is
-  rewritten. · *Andrew*
+- ~~Did Brookline PD actually turn up on Oct 7?~~ Yes, both units, and the
+  Washington Square crossing guards held the traffic too (Andrew, Oct 13). Which
+  turns it into three live questions for Nov 18:
+  - **Ask PD to come again.** `outreach/email-brookline-pd.md` was drafted and
+    never marked sent, and there is still no record of who agreed the first two
+    units. · *Andrew*
+  - **Is the Washington Square crossing guard there every school morning at
+    7:38, or was that one-off?** If it's a standing Town posting, it's the more
+    dependable half of what made the crossing work. The schools' transportation
+    office would know. · *Andrew*
+  - **Decide the fallback for a morning with nobody holding the road.** Suggested:
+    ride it when the traffic is being held, get off and walk it on the light when
+    it isn't. It needs to be decided in advance and written in the crew brief,
+    because 7:38 at the kerb with fifteen kids is the worst moment to work it
+    out. · *Andrew*
 - **`crew-brief.md` and `huddle-script.md` are now wrong.** Both still describe
   the walking group and dismounting to walk across Beacon. They are the documents
   people actually hold on the morning, so they have to be redone before Nov 18,
