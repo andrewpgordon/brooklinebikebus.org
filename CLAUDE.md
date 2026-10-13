@@ -91,6 +91,10 @@ Terrace and Griggs Road → stop at Washington Street and wait for the group →
 `7:38` Washington Square, wait again, then **ride across Beacon Street** as one
 group on one light → `7:45` Driscoll bike racks. Bell is 8:00.
 
+**Griggs Park is the only place anyone joins** (D22, Oct 13). The Washington
+Square pickup is gone. The group still passes through the Square and waits there
+before crossing, but it isn't a stop you can be collected from.
+
 Two hard rules, both load-bearing:
 1. **The bike bus never rides along Beacon Street.** It crosses it once, at
    Washington Square, together on one light with adults holding the

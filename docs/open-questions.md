@@ -169,6 +169,16 @@ homepage (D19). Two follow-ups, neither blocking:
   *Andrew*
 - **`timeline.md` is still written around Oct 7** and needs a pass for the
   Nov 18 ride. · *Andrew*
+- **`/pierce/` is advertising a date that has gone.** Their ride was Friday Oct
+  9 and the page still reads as upcoming. The homepage card now says "Last ride ·
+  Fri Oct 9", which is at least true, but the Pierce page itself needs their next
+  date and only they have it. Still nobody has told them the page exists, which
+  is the same mistake we made with Nathan. · *Andrew*
+- **The homepage band goes stale on its own.** It's a hand-typed date, so it
+  lies every time a ride passes. It now reads "Wednesday, November 18 ·
+  Driscoll's next ride · Lincoln rides every Wednesday", which holds until Nov 18.
+  Worth deciding whether anyone remembers to change it, or whether it should stop
+  naming a date. · *Andrew*
 - **Decide how people get into the photo album.** Three things are open. (a) A
   Google Group as the ride mailing list, which is worth doing on its own, and
   then either hand-adding its members to the Photos album or moving the album to

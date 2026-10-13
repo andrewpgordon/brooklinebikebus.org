@@ -341,3 +341,22 @@ or scoot at walking speed or faster. The ride now waits for the group at Griggs
 Road and Washington Street and again at Washington Square. Jobs are down to
 sweep, corkers, photos and donuts.
 
+
+### D22 — One meeting place, Griggs Park
+
+*Oct 13, 2026.* Andrew's call: the Washington Square pickup comes off. Families
+meet at the northeast corner of Griggs Park between 7:15 and 7:30 and that's the
+only place anyone joins.
+
+It was there from the first version of the page, on the reasoning that a second
+stop catches families who live closer to the Square than to the park. In practice
+it asks the group to arrive somewhere at a predicted minute and then look around
+for people who may or may not be there, which is a job nobody has and a reason to
+stand in an intersection longer than necessary. One meeting place is less to
+explain on a flyer and less to get wrong at 7:30 in the morning.
+
+The group still rides through Washington Square at about 7:38, still stops and
+waits for everyone, and still crosses Beacon there together. The page says so,
+because the timing is useful for a parent working out when their child gets to
+school. It just isn't somewhere you can be collected from.
+
