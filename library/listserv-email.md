@@ -1,5 +1,11 @@
 # Email for a community listserv
 
+> **Stale as of Oct 2026.** Everything below still describes the Corey Hill
+> walking group, the Washington Square pickup and walking bikes across Beacon.
+> All three are gone (D21 and D22). For the current wording use
+> `library/rides/2026-11-18/`, which has the Nov 18 versions of this and of
+> the family email and the WhatsApp message.
+
 Written for a mixed list: some people have kids at Driscoll, some just live
 nearby. It tells families how to join and tells neighbors what they'll see on
 the street that morning.

@@ -1,5 +1,11 @@
 # Driscoll bulletin blurb
 
+> **Stale as of Oct 2026.** Everything below still describes the Corey Hill
+> walking group, the Washington Square pickup and walking bikes across Beacon.
+> All three are gone (D21 and D22). For the current wording use
+> `library/rides/2026-11-18/`, which has the Nov 18 versions of this and of
+> the family email and the WhatsApp message.
+
 For the Driscoll school bulletin, the PTO newsletter, class parent emails or
 the listserv. There's a full version and a short one for tight space. Before
 sending, change the date, times and contacts for the ride, and check it still
