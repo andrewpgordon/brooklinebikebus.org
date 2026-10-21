@@ -172,10 +172,28 @@ and it means nobody can say later that they didn't know.
 
 ## What the sign-up form should ask
 
-The form has never asked about photos. `library/bulletin-blurb.md` flagged it in
-September ("don't mention photos until the photo wording on the sign-up form is
-settled") and it never got settled, so nobody who rode on October 7 was asked in
-writing. Draft for a tenth field:
+⚠️ **Corrected Oct 21, 2026. This section said the form had never asked about
+photos. It has been asking all along**, inside the release description above the
+confirmation checkbox, and all twenty families who have signed up agreed to it.
+The wording is quoted in `outreach/form-spec.md`.
+
+The problem is worse than a missing question. The form grants permission to put
+photos on brooklinebikebus.org, in the school newsletter and with local news
+unless a family opts out. The ride page and D20 promise the reverse, that
+nothing goes anywhere public until the family in that picture has been asked.
+Opt-out and opt-in, and the form is the one people have signed. `library/bulletin-blurb.md`
+said in September not to mention photos until the form wording was settled, and
+that's the thing that never got settled.
+
+So the live question isn't "add a tenth field", it's which of the two promises
+is the real one. If Andrew picks the website's version, the PHOTOS paragraph in
+the form has to be rewritten to match, `release-language.md` has to carry it
+(it doesn't mention photos at all), and the twenty families who agreed to the
+looser version should be told the rule got stricter rather than quietly held to
+something different from what they read.
+
+The draft below still works as a separate question if he wants the answer
+recorded per family rather than buried in a release:
 
 > **Photos** · required, choose one
 >
