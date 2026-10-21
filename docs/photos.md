@@ -16,13 +16,18 @@ well. So the promise is about the photo, not about the album.
    down and tell whoever is taking pictures that morning, before anyone starts.
 2. Any family can have any picture of their child taken out of the album. No
    reason needed and no discussion.
-3. Nothing leaves the album for the website, Facebook, a newsletter or a flyer
-   until the families in it have been asked. Asked individually, before it goes
-   up.
+3. ~~Nothing leaves the album for the website, Facebook, a newsletter or a
+   flyer until the families in it have been asked.~~ **Changed Oct 21 (D23).**
+   Photos may be used in those places without asking first, because that is what
+   the sign-up form has always said and what twenty families agreed to. Nothing
+   carries a child's name.
 
-Point 3 costs something real. `library/crew-brief.md` says photos are how the
-second ride gets more families than the first, and that's true, and it still
-doesn't outrank a parent who said no.
+Points 1 and 2 are what actually protect a family, and they do the work on their
+own. Say no and your child isn't photographed. Say so later, with no reason
+given, and the picture comes down, off the website as well as out of the album.
+Point 3 was written here in October without anybody checking what the form said,
+which is how the website spent two weeks promising something stricter than the
+thing people had signed.
 
 ## The album
 
@@ -172,28 +177,21 @@ and it means nobody can say later that they didn't know.
 
 ## What the sign-up form should ask
 
-⚠️ **Corrected Oct 21, 2026. This section said the form had never asked about
-photos. It has been asking all along**, inside the release description above the
-confirmation checkbox, and all twenty families who have signed up agreed to it.
-The wording is quoted in `outreach/form-spec.md`.
+✅ **Settled Oct 21, 2026 (D23).** This section used to say the form had never
+asked about photos. It has been asking all along, inside the release above the
+confirmation checkbox, and all twenty families who signed up agreed to it.
 
-The problem is worse than a missing question. The form grants permission to put
-photos on brooklinebikebus.org, in the school newsletter and with local news
-unless a family opts out. The ride page and D20 promise the reverse, that
-nothing goes anywhere public until the family in that picture has been asked.
-Opt-out and opt-in, and the form is the one people have signed. `library/bulletin-blurb.md`
-said in September not to mention photos until the form wording was settled, and
-that's the thing that never got settled.
+**The rule is opt-out.** Photos from the ride may go in the WhatsApp group, on
+brooklinebikebus.org, in the school newsletter and to local news. No child's
+name goes with a picture. Any family can say no, by email or at the start of the
+ride, and their child is left out or blurred. Anyone can change their mind later
+and anything already posted comes down. The exact wording lives in
+`release-language.md` now, which is where it should have been from the start,
+and the ride page says the same thing in plainer words.
 
-So the live question isn't "add a tenth field", it's which of the two promises
-is the real one. If Andrew picks the website's version, the PHOTOS paragraph in
-the form has to be rewritten to match, `release-language.md` has to carry it
-(it doesn't mention photos at all), and the twenty families who agreed to the
-looser version should be told the rule got stricter rather than quietly held to
-something different from what they read.
-
-The draft below still works as a separate question if he wants the answer
-recorded per family rather than buried in a release:
+So there is no tenth field to add. The draft below is kept in case Andrew ever
+wants the answer recorded per family in the responses sheet rather than sitting
+inside a release that people tick in one go:
 
 > **Photos** · required, choose one
 >

@@ -294,6 +294,13 @@ been asked one by one. That last one gives up something the project wanted:
 `crew-brief.md` says good photos are how ride two gets more families than ride
 one, and it does, and it loses to a parent who said no.
 
+*Superseded Oct 21 by D23.* The last sentence of that paragraph was wrong, and
+wrong because this decision was written without reading the sign-up form. The
+form has always said photos may be used unless a family opts out, and twenty
+families have agreed to that. Opt-out is the rule. The two promises to an
+individual family above are unchanged, and so is everything about the album
+being invite-only.
+
 **The form should have asked in September.** `bulletin-blurb.md` said not to
 mention photos until the form wording was settled. It never got settled, the
 field never went on, and fifteen children were photographed this morning with no
@@ -362,4 +369,37 @@ The group still rides through Washington Square at about 7:38, still stops and
 waits for everyone, and still crosses Beacon there together. The page says so,
 because the timing is useful for a parent working out when their child gets to
 school. It just isn't somewhere you can be collected from.
+
+
+### D23 — Photos are opt-out, and D20 was half wrong
+
+*Oct 21, 2026.* Andrew's call, after reading what the sign-up form has actually
+been saying.
+
+D20 said nothing goes from the album to the website, Facebook, a newsletter or a
+flyer until the families in that picture have been asked one by one. That was
+written in October without anybody checking the form, and the form has had a
+PHOTOS paragraph in its release the whole time saying close to the opposite:
+photos may go in the WhatsApp group, on brooklinebikebus.org, in the school
+newsletter and to local news, unless a family says no. Twenty families have
+ticked the box against that version.
+
+**The form's version stands.** Opt-out, not ask-first. A family tells Andrew or
+Nicole, or says so at the start of the ride, and their child is left out or
+blurred. Anyone can change their mind later and anything already posted comes
+down. No child's name goes with a picture. The ride page now says this in
+plainer words, `release-language.md` finally carries the paragraph it should
+have carried all along, and the three places agree for the first time.
+
+What D20 still gets right, and what doesn't change: the album is invite-only,
+the link is not the album, and the two promises to an individual family hold.
+Tell us and your child isn't photographed. Ask and any picture comes out, with
+no reason needed.
+
+The part worth being honest about: the people who rode on Oct 7 were told the
+stricter rule on the website for two weeks. Nobody was misled into signing
+anything, since the form has said opt-out all along and the form is what they
+signed, but the website said something kinder and then took it back. If a family
+raises it, the answer is that the form is what they agreed to and they can opt
+out of everything today with one email.
 

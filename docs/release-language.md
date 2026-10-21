@@ -16,6 +16,7 @@ the Google Form's final section (in full). If you change one, change both.
 6. Obtain assumption of risk and a release, acknowledged with a timestamp
 7. Concede up front that gross negligence can't be waived — claiming otherwise
    weakens a release rather than strengthening it
+8. Say plainly what happens to photographs, and give a way out of them
 
 ## Full text (Google Form)
 
@@ -34,6 +35,8 @@ YOU are in the best position to judge whether your child is ready for this ride 
 
 Helmets are required for every rider, adult and child, with no exceptions.
 
+PHOTOS. We take photos on the ride and may share them in the WhatsApp group, on brooklinebikebus.org, in the school newsletter, and with local news. We never post children's names with photos. If you don't want your child in photos we share, email Andrew or Nicole or tell us at the start of the ride, and we'll leave them out or blur their face. If you change your mind later, tell us and we'll remove any photo we've posted.
+
 BY CHECKING THE BOX BELOW, I confirm that:
 • I have read and understood everything above.
 • I am the parent or legal guardian of the child or children I have listed.
@@ -41,7 +44,26 @@ BY CHECKING THE BOX BELOW, I confirm that:
 • I remain solely responsible for supervising my own child throughout, and for deciding whether they take part at all.
 • I will not hold the organizers, other participating families, or any volunteer responsible for any injury, loss, or damage arising out of our participation, and I release them from any such claim to the fullest extent permitted by Massachusetts law.
 • I understand this release does not, and cannot, cover gross negligence or willful misconduct.
+• I understand photos may be taken and shared as described above, and that I can opt out at any time by telling the organizers.
 ```
+
+## The photo wording, and why it's here now
+
+**Added to this file Oct 21, 2026, after the fact.** The PHOTOS paragraph and the
+last confirmation line had been live on the form for a long time and were never
+written down here, which is how the ride page ended up promising the opposite.
+The page said nothing went anywhere public until the family in the picture had
+been asked. The form says photos may be shared unless a family opts out, and
+twenty families have agreed to that version.
+
+Andrew's call on Oct 21: **the form's version is the right one.** Opt-out, with
+a way out at any time, and nothing with a child's name attached. The ride page
+was rewritten the same day to say the same thing in plainer words, and D20 is
+amended.
+
+Also fixed on the form that day: the gross-negligence line had two stray copies
+of "it's completely fine to stay home or walk instead." stuck to the end of it,
+left over from some earlier edit. The line above is what it says now.
 
 ## MA Safe Routes to School's view (Sep 14)
 

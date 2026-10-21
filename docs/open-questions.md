@@ -140,22 +140,13 @@ homepage (D19). Two follow-ups, neither blocking:
 - ~~Form: add "7:38 — Washington Square" to Q5~~ — done Sep 10.
 - **Form: add the last help text** ("Anything we should know?"). Email, Mobile
   (the WhatsApp consent line) and Kids are done. See `outreach/form-spec.md`.
-- **Decide which photo promise is the real one.** ~~Add the photo question to the
-  form~~ was the wrong framing, found out Oct 21 by reading the live form. The
-  form has always asked, inside the release, and twenty families have agreed to
-  it. It says photos may go on brooklinebikebus.org, in the school newsletter and
-  to local news unless you opt out. The ride page and D20 say nothing goes
-  anywhere public until that family has been asked. Opt-out against opt-in, and
-  the signatures are on the looser one. Pick one, then move the form, the ride
-  page and `release-language.md` to match, and tell the twenty families if the
-  rule gets stricter than what they read. Detail in `outreach/form-spec.md` and
-  `photos.md`. Until it's settled, the stricter reading holds and nothing from
-  either ride goes anywhere public without asking. · *Andrew*
-- **The release has a text corruption.** The gross-negligence bullet ends
-  "...or willful misconduct.it's completely fine to stay home or walk instead.it's
-  completely fine to stay home or walk instead." Two stray copies of a sentence
-  from further up. Fix it in the same pass as the photo decision, since both mean
-  editing the release block. · *Andrew*
+- ~~Decide which photo promise is the real one.~~ Done Oct 21: opt-out, which is
+  what the form always said and what twenty families signed. The ride page, the
+  form and `release-language.md` now match, and the release's duplicated
+  sentence is fixed. D23. One thing left from it: a family's opt-out isn't
+  recorded anywhere structured, so wherever Andrew writes it down is the only
+  record, and whoever has a camera on Nov 18 needs that list before they start.
+  · *Andrew*
 - ~~Did Brookline PD actually turn up on Oct 7?~~ Yes, both units, and the
   Washington Square crossing guards held the traffic too (Andrew, Oct 13). Which
   turns it into three live questions for Nov 18:

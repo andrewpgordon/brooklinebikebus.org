@@ -10,8 +10,10 @@ organized by parents and isn't a school program, and the one saying every child
 rides with their own parent or guardian. Both are from
 `docs/release-language.md`.
 
-No mention of photos. The sign-up form still has no photo question, and a school
-bulletin is the wrong place to raise it first.
+No mention of photos, and that's still right for a 110-word blurb, but the
+reason has changed. The form does ask, on an opt-out basis (D23), and the ride
+page says so. Anybody who signs up reads it there. If the bulletin ever runs a
+photo of the ride, the opt-out list has to be checked first.
 
 If they want a picture, use `library/assets/driscoll-badge-print.png` or the
 flyer. Not the school's logo.

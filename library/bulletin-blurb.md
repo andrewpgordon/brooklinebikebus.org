@@ -64,4 +64,7 @@ program.
 - If the bulletin takes a picture, use the dragon badge
   (`library/assets/driscoll-badge-print.png`) or the flyer. Don't use the
   school's own logo.
-- Don't mention photos until the photo wording on the sign-up form is settled.
+- ~~Don't mention photos until the photo wording on the sign-up form is
+  settled.~~ Settled Oct 21, 2026 (D23): photos are opt-out, the wording is in
+  `docs/release-language.md`, and the ride page carries it. Before running a
+  photo of the ride anywhere, check who has opted out.

@@ -57,40 +57,29 @@ a mistake.
 Families who signed up before Sep 10 never saw the WhatsApp sentence. Before
 adding their numbers to the group, ask them first.
 
-## Photos: this file was wrong, and the conflict is worse than a missing field
+## Photos: settled Oct 21, 2026 (D23)
 
-⚠️ **Corrected Oct 21, 2026.** This section used to say the form had never asked
-about photos. It does ask, and it has been asking all along. There is a PHOTOS
-paragraph inside the release description above Q7, and all twenty families who
-have signed up agreed to it when they ticked the box. It reads:
+This section used to say the form had never asked about photos. It has been
+asking all along, inside the release above Q7, and twenty families agreed to it
+when they ticked the box. The wording is now in `docs/release-language.md`,
+which is the canonical copy.
 
-> PHOTOS. We take photos on the ride and may share them in the WhatsApp group,
-> on brooklinebikebus.org, in the school newsletter, and with local news. We
-> never post children's names with photos. If you don't want your child in
-> photos we share, email Andrew or Nicole or tell us at the start of the ride,
-> and we'll leave them out or blur their face. If you change your mind later,
-> tell us and we'll remove any photo we've posted.
+**Opt-out is the rule.** Andrew confirmed it on Oct 21. Photos may go in the
+WhatsApp group, on brooklinebikebus.org, in the school newsletter and to local
+news, never with a child's name. A family opts out by email or at the start of
+the ride, and can change their mind later and have anything taken down. The ride
+page was rewritten the same day to say the same thing, so the form, the page and
+`release-language.md` finally agree.
 
-And the matching line in the confirmation list: "I understand photos may be
-taken and shared as described above, and that I can opt out at any time by
-telling the organizers."
+✅ **The gross-negligence bullet is fixed.** It used to end "...or willful
+misconduct.it's completely fine to stay home or walk instead.it's completely
+fine to stay home or walk instead." The two stray copies were deleted on Oct 21
+and the live form now ends that line at "misconduct."
 
-**That is opt-out, and the website promises opt-in.** `/driscoll/` says nothing
-goes on the website, Facebook, a newsletter or a flyer until we have asked the
-family in the picture, and D20 says the same. The form says the opposite and the
-form is the one with signatures against it. Somebody added this paragraph to the
-form after `docs/release-language.md` was written, and the canonical text never
-caught up, so all three disagree.
-
-⬜ **Andrew has to decide which one is true**, and then the form, the ride page
-and `release-language.md` all move to match it. Until then, the safe reading is
-the stricter one, which is the website's.
-
-⬜ Separately, the gross-negligence bullet in the release has a text corruption:
-it ends "...or willful misconduct.it's completely fine to stay home or walk
-instead.it's completely fine to stay home or walk instead." Two stray copies of
-a sentence from higher up. Worth fixing in the same pass, not before, since it
-means editing the same block.
+⬜ Still nothing on the form records a photo preference per family, so an
+opt-out lives wherever Andrew writes it down rather than in the responses sheet.
+A draft tenth field is kept in `docs/photos.md` if that ever becomes worth
+doing.
 
 ## Settings to verify
 
