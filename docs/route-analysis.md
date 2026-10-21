@@ -65,7 +65,9 @@ Summit Ave's northwest flank (crest → Washington St) is 5.8% average with a
 
 ## The chosen route
 
-**Walking leg — 0.46 mi (748 m).** Summit Ave (Jordan → Mason → Beacon) → west
+**Walking leg — 0.46 mi (748 m).** *Retired Oct 7 (D21). Kept for the
+measurements in case it ever comes back; nothing below describes the ride as it
+runs now.* Summit Ave (Jordan → Mason → Beacon) → west
 along the north sidewalk of Beacon (~70 m) → cross Beacon at the **Marion Street
 lights** → along Marion St → cross Marion at the zebra crossing → **footpath**
 (OSM way 111768155) down to Griggs Terrace → NE corner.
@@ -97,7 +99,10 @@ zebra crossing to the footpath is uncontrolled.
 **Riding leg — 0.74 mi, max 3%, average ~2.3%.** Griggs Park NE corner →
 Griggs Terrace around the park → Griggs Road → Washington Street → Driscoll.
 Monotonic climb, 36 → 116 ft, no descents. Crosses Beacon once, at the
-Washington Square signal, **on foot**.
+Washington Square signal, **ridden, as one group on one light** (D21; this said
+"on foot" until Oct 21). The trolley tracks in the Beacon median are the hazard
+that comes with riding it rather than walking it, and the crew brief covers how
+to take them.
 
 ## Routes considered and rejected
 

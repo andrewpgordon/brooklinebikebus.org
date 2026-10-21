@@ -1,11 +1,5 @@
 # Email for a community listserv
 
-> **Stale as of Oct 2026.** Everything below still describes the Corey Hill
-> walking group, the Washington Square pickup and walking bikes across Beacon.
-> All three are gone (D21 and D22). For the current wording use
-> `library/rides/2026-11-18/`, which has the Nov 18 versions of this and of
-> the family email and the WhatsApp message.
-
 Written for a mixed list: some people have kids at Driscoll, some just live
 nearby. It tells families how to join and tells neighbors what they'll see on
 the street that morning.
@@ -26,33 +20,30 @@ back. This is our first one, and if it goes well we'll do it once a month.
 
 Here's how the morning goes:
 
-7:00. Families up on Corey Hill can walk their bikes down with a parent
-leader, starting at Summit Ave and Jordan Rd. Summit is too steep to ride down
-in a group, so we walk it.
+7:15 to 7:30. Everyone gathers at the northeast corner of Griggs Park. That's
+the only meeting place, so come down to it however is easiest.
 
-7:15 to 7:30. Everyone gathers at the northeast corner of Griggs Park. We
-check helmets, brakes and tires while people arrive.
+7:30. We ride along Griggs Terrace and Griggs Road to Washington Street, and
+stop there to let everyone catch up.
 
-7:30. We ride along Griggs Terrace and Griggs Road to Washington Street.
-
-7:38. You can also join us at Washington Square. That's where we all get off
-and walk our bikes across Beacon Street.
+7:38. Washington Square. We cross Beacon Street all together on one light, with
+the crossing guards holding the traffic.
 
 7:45. We're at the bike racks at school, fifteen minutes before the bell.
 
 Any Driscoll family is welcome, whether or not your kid has biked to school
 before. Every child rides with their own parent or guardian, and everyone
 wears a helmet, adults too. Balance bikes, scooters and training wheels are
-all fine. We never ride on Beacon Street. We cross it twice, both times on
-foot.
+all fine, as long as your child can keep up with a group going at walking pace.
+We never ride along Beacon Street. We cross it once, all together.
 
 Sign up here, one form per family: https://brooklinebikebus.org/driscoll/
 The route map and the full times are on that page.
 
 Two things we could use help with:
 
-We need a few more adults. The one we really need is someone who lives near
-the top of Summit Ave to lead the walking group down the hill.
+We need a few more adults, in particular someone to ride at the back behind
+the last child.
 
 If you're on this list as a neighbor rather than a Driscoll parent, you'll see
 about 20 kids riding through between 7:30 and 7:45 that morning. If you're

@@ -1,11 +1,5 @@
 # Driscoll bulletin blurb
 
-> **Stale as of Oct 2026.** Everything below still describes the Corey Hill
-> walking group, the Washington Square pickup and walking bikes across Beacon.
-> All three are gone (D21 and D22). For the current wording use
-> `library/rides/2026-11-18/`, which has the Nov 18 versions of this and of
-> the family email and the WhatsApp message.
-
 For the Driscoll school bulletin, the PTO newsletter, class parent emails or
 the listserv. There's a full version and a short one for tight space. Before
 sending, change the date, times and contacts for the ride, and check it still
@@ -16,28 +10,24 @@ has to stay in (see `docs/release-language.md`).
 
 ## Full version (about 200 words)
 
-**Bike to school together on Wednesday, October 7**
+**Bike to school together on [date]**
 
-Driscoll parents are organizing a bike bus on Wednesday, October 7, which is
-Walk & Roll to School Day. A bike bus is a group of kids and parents riding to
-school together on a set route. We go at the speed of the slowest rider, with
-adults at the front and the back.
+Driscoll parents are running a bike bus on [date]. A bike bus is a group of kids
+and parents riding to school together on a set route. We go at the speed of the
+slowest rider, with adults at the front and the back.
 
-Bikes meet at the northeast corner of Griggs Park between 7:15 and 7:30. We
-leave at 7:30, ride along Griggs Road and Washington Street, and get to school
-at 7:45. You can also join us at Washington Square at 7:38. Families on Corey
-Hill can walk their bikes down with a parent leader, starting at 7:00 at the top
-of Summit Avenue. We never ride on Beacon Street. Everyone gets off and walks
-across it.
+Everyone meets at the northeast corner of Griggs Park between 7:15 and 7:30.
+We leave at 7:30, ride along Griggs Terrace, Griggs Road and Washington Street,
+cross Beacon Street at Washington Square all together on one light, and get to
+school at 7:45. Griggs Park is the only meeting place.
 
 Every child rides with their own parent or guardian, and everyone wears a
 helmet, adults too. It's fine if your kid is still learning, and balance bikes
-and scooters can come too. If it rains, we'll go on Thursday, October 8
-instead.
+and scooters can come too. If we have to cancel for weather we'll send word
+by 6:15 that morning.
 
 Please sign up at brooklinebikebus.org/driscoll (one form per family). We're also
-looking for a few adult volunteers, especially someone who lives on Corey Hill
-to lead the walking group.
+looking for a few adults to ride at the back and at the side streets.
 
 The bike bus is organized by parents. It isn't a program of the Driscoll
 School, the Public Schools of Brookline or the Driscoll PTO. Questions? Email

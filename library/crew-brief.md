@@ -32,14 +32,6 @@ halt the whole ride by standing still.
 so a driver doesn't pull out into the middle of the line. The next section is
 all about this one.
 
-**Crossing lead.** At Washington Square from about 7:30. Collects the families
-joining there, then takes the group over Beacon Street on foot.
-
-**Hill walker.** Meets the Corey Hill families at 7:00 at Summit and Jordan,
-picks up more at 7:05 at Mason Terrace, and walks them down to Griggs Park for
-7:15. Bikes are pushed the whole way, including down the footpath. Two adults is
-better than one for this leg.
-
 **Gather point.** At the park from 7:05. Gets the sign up and the pump out, hands
 out vests, checks helmets, brakes and tyres as families arrive, and keeps a
 headcount.
@@ -81,7 +73,7 @@ Saturday pre-ride, so until then this is a draft and the order is the useful par
 | 180 m | Griggs Terrace at Griggs Road | Right turn. Quiet, but it's the first turn and the line is still finding its shape. |
 | 490 m | Griggs Road at Washington Street | Right turn onto Washington. Not a side street to hold: the group is merging onto a two-lane street with a bus route on it. Everyone waits as one and goes as one. The best corner to hand to an officer. |
 | 540 m | Washington Street at Fairbanks Street | Side street on the right, fifty metres after that turn, so it arrives while the line is still stringing out. Worth a person if there's one spare. |
-| 860 m | Washington Square, Beacon Street | Everybody off. Town crossing guards are posted here, one on each side of Washington Street, and they can hold traffic in a way our own people can't. Own section below. |
+| 860 m | Washington Square, Beacon Street | The whole group crosses together on one light, riding. Town crossing guards are posted here, one on each side of Washington Street, and they can hold traffic in a way our own people can't. Own section below. |
 | 1180 m | Driscoll, Washington Street at Bartlett Street | Racks. |
 
 **Nothing is held after Beacon Street.** Andrew's call, Oct 1: by the time the
@@ -101,64 +93,60 @@ Washington Street the racks are on. If they're on the far side, the group has on
 more crossing at 7:45 in school-run traffic, which would put one position back
 on that last stretch after all.
 
-## Beacon Street at Marion, on the walking leg
-
-This one happens at about 7:10, twenty minutes before anybody hears the talk at
-the park, which is why the hill walker gets thirty seconds of their own at 7:00.
-
-The lights are button-operated on each half of Beacon with the trolley tracks
-in between, and the tracks themselves are an uncontrolled crossing. Whether
-that works as one light or two has not been checked on the ground.
-
-- The front adult crosses first and waits on the far side.
-- The second adult holds the curb with everyone still waiting.
-- Nobody stops or waits on the tracks. If the group can't clear them in one go,
-  the rest wait on the sidewalk for the next light.
-- The zebra crossing further down Marion Street has no lights at all. Wait for a
-  gap and cross as one group.
-- Bikes are pushed the whole way, including down the footpath into the park,
-  which is about 10% at the top and can be slippery.
-
 ## Washington Square
 
+**We ride across Beacon Street.** The whole group, together, on one light.
+Nobody dismounts. That's the rule (D21), it's what the first ride did, and it
+went better than anyone expected.
+
 The captain stops the group on the near curb, well back from the corner, and
-everybody gets off. Bikes are pushed. One light if we fit, and with thirty-odd
-bikes and riders we probably don't.
+holds everyone there until the light and the guards are both right.
 
 **There are town crossing guards here, one on each side of Washington Street.**
 They are the only people on this route who can actually stop traffic. A corker
 asks; a crossing guard holds up a paddle and cars stop. So at this crossing we
-work to them, not the other way round. Say good morning, tell them how many
-people are coming over and that everyone is on foot, and then do what they say.
-Nobody from our crew directs traffic while a guard is standing there.
+work to them, not the other way round. Say good morning, tell them how many are
+coming over and that the group is riding across, and then do what they say. A
+guard expecting thirty people on foot will plan for a slower crossing than the
+one that actually happens. Nobody from our crew directs traffic while a guard is
+standing there.
 
 Tell them before the day. Thirty bikes arriving at somebody's post at 7:38
 unannounced is a rotten surprise, and a guard who knows we're coming is the best
 help we have. Also find out what time they come on post, because 7:38 is
-twenty-two minutes before the bell and we have never checked.
+twenty-two minutes before the bell.
 
 Build the crossing so it works if a guard is off sick, which is the same reason
 nothing here depends on the police. Without them, two of our own people stand at
 the crossing instead, one watching each carriageway.
 
-What happens when we don't fit:
+### The trolley tracks
 
-- The crossing lead goes first with the front of the group and stops on the far
-  side. The front does not ride away.
+This is the part that got harder when we started riding. The tracks run down the
+middle of Beacon, and a bike wheel will drop into the groove beside the rail and
+put the rider on the ground. It is the main hazard at this crossing.
+
+- Cross the tracks square. Straight over, wheel at a right angle to the rail.
+- Keep pedalling. Don't coast, don't brake and don't turn on the tracks.
+- Nobody stops on the tracks and nobody waits on them.
+- Say it in the huddle, and say it again at the curb, because a five-year-old
+  looking at a crossing guard is not looking at the ground.
+
+### Keeping the group in one piece
+
+- The captain goes first and stops on the far side. The front does not ride
+  away.
 - Everyone still waiting stays on the curb with the sweep, back from the edge.
-- Nobody steps off the curb on a flashing hand. Nobody runs.
-- Nobody gets back on a bike until the sweep is across and says so. That now
+- Nobody rolls off the curb on a flashing hand. Nobody sprints.
+- Nobody rides on from the far side until the sweep is across and says so. That
   includes the corkers, since there's nothing to hold on the far side.
-- A guard waving us over is not a reason to send the group in two halves. If
-  the whole group can't go, the rest wait for the next light.
+- If the whole group can't go on one light, the rest wait with the sweep for
+  the next one. A guard waving us over is not a reason to send the group in two
+  halves.
 
 That last line is the most important sentence in this brief. The thing that
 goes wrong at this crossing is half the group on one side of Beacon Street and
 half on the other, with the front of the ride already rolling away.
-
-We dismount and walk at Beacon whether or not there's a police officer or a
-crossing guard standing there. That rule doesn't move for a good morning, a
-quiet light, or somebody in a vest waving us across.
 
 ## Where we wait for each other
 
@@ -221,13 +209,11 @@ Build the morning so it still works if they get called away, which can happen at
 
 | | |
 |---|---|
-| 7:00 | Walking group forms, Summit Ave and Jordan Rd. Thirty-second talk before it moves |
-| 7:05 | Second pick-up, Summit Ave and Mason Terrace |
 | 7:05 | Crew at the park. Sign, pump, vests |
-| 7:15 | Walking group in. Helmet, brake and tyre checks |
+| 7:15 | Families arriving. Helmet checks |
 | 7:20 | Crew huddle. Corners read out loud, and who has whose kid |
 | 7:26 | Talk to the kids. Script in `huddle-script.md` |
 | 7:30 | Roll out. Count |
-| 7:38 | Washington Square. Everybody off |
+| 7:38 | Washington Square. Stop, work to the guards, cross together on one light |
 | 7:45 | Racks. Count again |
 | 7:52 | Five minutes standing around before anyone leaves |

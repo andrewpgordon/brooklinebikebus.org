@@ -17,13 +17,13 @@ Driscoll parents, Nicole McClelland and I are organizing a bike bus to school on
 
 If you haven't seen one, it's a bunch of kids and parents riding to school together. We go at the pace of the slowest kid, with adults at the front and the back.
 
-We'll meet at the northeast corner of Griggs Park from 7:15 and head out at 7:30. You can also hop on at Washington Square around 7:38, and we'll be at school by 7:45. If you live up on Corey Hill, a walking group leaves the top of Summit Ave at 7:00 so nobody has to ride down that hill. We walk across Beacon Street and never ride on it.
+We'll meet at the northeast corner of Griggs Park from 7:15 and head out at 7:30, and we'll be at school by 7:45. Griggs Park is the only meeting place, so come down to it however is easiest.
 
 Kids ride with their own parent, and everyone needs a helmet. If it rains we'll go Thursday the 8th instead.
 
 The map, times and sign-up form are here: https://brooklinebikebus.org/driscoll/
 
-We could use a few more adults to help out, especially someone who lives near the top of Summit. This is organized by parents and isn't a school program. Feel free to message me with any questions.
+We could use a few more adults to help out, in particular somebody to ride at the back. This is organized by parents and isn't a school program. Feel free to message me with any questions.
 
 ---
 

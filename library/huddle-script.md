@@ -30,12 +30,13 @@ Get them off the bikes and standing in front of you. Helmets already on.
 
 > Good morning. I'm [name]. Can everybody hear me? Hand up if you can't.
 >
-> Those are Brookline police officers on the bikes at the back. They're riding
-> with us this morning to help us get across Beacon Street.
+> [If they're here] Those are Brookline police officers on the bikes at the back.
+> They're riding with us this morning to help us get across Beacon Street.
 >
 > Here's where we're going. Round the park, up Griggs Road, a right turn onto
-> Washington Street, and then we stop and walk across Beacon Street. After that
-> it's a few more minutes and we're at the bike racks at quarter to eight.
+> Washington Street, and then we all cross Beacon Street together on one light.
+> After that it's a few more minutes and we're at the bike racks at quarter to
+> eight.
 >
 > Five things, then we go.
 >
@@ -65,11 +66,16 @@ Get them off the bikes and standing in front of you. Helmets already on.
 >
 > One more thing and it's the big one.
 >
-> When we get to Beacon Street, everybody gets off and walks. Nobody rides a
-> bike across Beacon Street, not even the quick ones. I'll shout "everybody
-> off" and you get off and push. If the light changes and you're still on this
-> side, you stay on this side with [sweep] and you do not run. We will all get
-> across. Nobody gets back on a bike until every single person is over.
+> When we get to Beacon Street we all stop at the curb, and then we go across
+> together on one green light. There are train tracks in the middle of the road.
+> Go straight over them. Don't turn your wheel on the tracks, don't stop on
+> them, and keep pedalling until you're over. A wheel that goes sideways on a
+> track will put you down.
+>
+> We go when I go, and nobody goes before me. If the light changes and you're
+> still on this side, you stay on this side with [sweep] and you do not race
+> across. We will all get over. And on the far side nobody rides on until I've
+> counted everybody.
 >
 > Helmets buckled. Let's go.
 
@@ -88,48 +94,26 @@ loud, which is most of why drivers notice us.
 Beacon is last so it's the thing still in their heads when we roll out. Say the
 pause before it. The pause is what makes them listen to it.
 
-The seven lines families already read on the sign-up page are the full set
-(`public/driscoll/index.html`). Three of them aren't in this talk: no headphones,
-telling someone if you're finding it hard (which is in there as an aside rather
-than a rule), and riding no more than two abreast, which is in rule three. The
-ones left out are the ones a parent enforces next to their own kid.
-
-## 7:00, the walking group. Thirty seconds.
-
-This group crosses Beacon Street at about 7:10, which is twenty minutes before
-anyone hears the talk above. So the hill walker does their own version at the
-top of Summit, before anything moves.
-
-> Morning. We push the bikes the whole way down. Nobody rides Summit Avenue, and
-> nobody rides the path at the bottom. They're both too steep for a group.
->
-> I'm at the front. [Second adult] is at the back. Stay between us, on the
-> sidewalk.
->
-> We cross Beacon Street at the lights further down. There are two sets of
-> lights with the trolley tracks in the middle. Nobody stands on the tracks and
-> nobody waits on them. If we don't all get over, the rest of us wait on the
-> sidewalk for the next light.
->
-> Then there's one more crossing on Marion Street with no lights at all. We wait
-> for a gap and we cross together.
->
-> The path down into the park is steep and it can be slippery. Walk it, keep a
-> hand on the brake, and don't let the bike run away from you.
+The ride page used to carry seven lines about how we ride and now carries four,
+because most of them were things a parent enforces next to their own kid rather
+than things a captain shouts (D21). What's left there is the pace requirement,
+stay between the leader and the sweep, what a corker is doing, and say so if
+it's hard. All four are in this talk.
 
 ## At the near curb, Washington Square
 
-> Everybody off. Off the bike, now, and walk it. Stay up on the sidewalk and
-> back from the edge.
+> Stop here. Stay back from the edge and stay on your bike.
 >
-> We go when I go. If you don't get across, stay here with [sweep] and wait.
-> Do not run.
-
-## On the far side, before anyone remounts
-
-> Stay off your bikes. We're waiting for everyone.
+> Straight over the tracks, keep pedalling, don't stop in the middle.
 >
-> [Count. Say the number.] Everybody's across. Get on.
+> We go when I go. If you don't get across, stay here with [sweep] and wait for
+> the next one.
+
+## On the far side, before anyone rides on
+
+> Stop here. Nobody rides on until I've counted.
+>
+> [Count. Say the number.] Everybody's across. Off we go.
 
 ## At the racks
 

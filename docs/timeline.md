@@ -60,20 +60,19 @@ Four weeks. ▲ = do this first.
 | | |
 |---|---|
 | 6:15 | Weather call if marginal. Message goes out either way. |
-| 7:00 | Walking group forms, Summit Ave & Jordan Rd |
-| 7:05 | Second pick-up, Summit Ave & Mason Terrace |
 | 7:05 | Leaders at Griggs Park NE corner — sign, pump, vests out |
-| 7:15 | Walking group arrives; families gather; helmet, brake, tyre checks |
+| 7:15 | Families gather. Helmet checks. Griggs Park is the only meeting place |
 | 7:20 | Crew huddle. Corners read out loud, and who has whose kid |
 | 7:26 | Talk to the kids. Four things, then the two shouts. `library/huddle-script.md` |
 | 7:30 | **Roll out** — Griggs Terrace, then Griggs Road. Count riders. |
-| 7:38 | **Washington Square. Everybody off.** Walk bikes across Beacon on one light. |
+| 7:38 | **Washington Square.** Stop, work to the crossing guards, then the whole group rides across Beacon on one light. Straight over the tracks. |
 | 7:45 | **Arrive Driscoll.** Racks, photo at the gate, count again. |
 | 7:52 | Five-minute standing debrief before anyone leaves. |
 
-Crew: ride captain (Andrew), sweep (open, Nicole has no bike), 2 corkers,
-crossing lead, hill walker. Four is the floor, six absorbs a no-show. A corner only goes to an adult
-riding without a child of their own, which is what decides most of the
+Crew: ride captain (Andrew), sweep (open, Nicole has no bike), a few corkers,
+photos, donuts. The crossing lead and hill walker jobs are gone with the walking
+group and the Washington Square pickup (D21, D22). A corner only goes to an
+adult riding without a child of their own, which is what decides most of the
 assignment (D18).
 
 ## After — Oct 8–14
