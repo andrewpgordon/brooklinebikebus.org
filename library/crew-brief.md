@@ -5,19 +5,6 @@ it should hold for any ride on it. Names for a particular ride are kept out of
 this file on purpose (the sign-up sheet has them); this is the part that doesn't
 change month to month.
 
-## Read this first
-
-Every child rides with their own parent or guardian. Having a job does not
-change that. If your job takes you away from your own kid for part of the ride,
-find the adult who will be beside them and say so out loud before we roll out.
-If there isn't one, you don't have the job that morning, and saying that at 7:25
-is completely normal.
-
-Nobody here is supervising anyone else's child, and none of this makes us ride
-marshals, instructors or officials. We are parents who agreed to stand in
-particular places. The wording families signed says exactly that, and it stays
-true on the day. See `docs/release-language.md`.
-
 ## The jobs
 
 **Ride captain.** First bike. Takes the pace from the slowest kid behind them
