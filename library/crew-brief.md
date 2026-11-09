@@ -193,8 +193,8 @@ The group splits. Whoever is at the back of the front half stops and waits.
 The front does not push on to protect the schedule. Getting there at 7:50
 together is a fine outcome.
 
-Somebody is late to the park. The captain leaves at 7:30. Latecomers ride with
-their own adult or join at Washington Square at 7:38.
+Somebody is late to the park. The captain leaves at 7:30. Latecomers ride on
+with their own adult. Griggs Park is the only place anyone joins.
 
 ## Police
 

@@ -155,8 +155,13 @@ homepage (D19). Two follow-ups, neither blocking:
   out of the website page rather than rebuilding it from Overpass. Two things
   about the flyer it sits in are still wrong and are a separate job: it's dated
   Wednesday, October 7 with a rain date, including on all eight tear-off tabs,
-  and it still carries "We ride with traffic, on the right side of the road",
-  which came off the website in October. Don't print it until both are fixed.
+  and it still carried "We ride with traffic, on the right side of the road",
+  which came off the website in October. **Both fixed Nov 9**, along with the
+  same dates in the poster kit, table tent, handlebar tag and tab refill. The
+  rain date became "cancelled if rain or ice" to match the site. The table tent
+  also still told people they could join at Washington Square (D22), now gone,
+  and so did one line in `crew-brief.md`. Print PDFs are in
+  `library/rides/2026-11-18/`; look at every page before printing.
   The map could also be cropped tighter now the hill is gone, but that means
   changing `.map img` in `flyer.html` as well, since the image and the box are
   both 2.2:1. · *Andrew*
