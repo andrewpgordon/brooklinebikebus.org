@@ -403,3 +403,12 @@ signed, but the website said something kinder and then took it back. If a family
 raises it, the answer is that the form is what they agreed to and they can opt
 out of everything today with one email.
 
+
+### D24 — "Every child rides with their own parent" stays in the release, off everything else
+
+Nov 9. Andrew said it isn't something to highlight, and that they'd agreed so.
+It comes off every flyer, poster, tag, table tent, announcement, the Driscoll FAQ
+and the crew brief. The release (`release-language.md`, the form, the Release
+block on `/driscoll/`) keeps it as written, so it's still said on the Driscoll
+site, just not pushed. Lincoln's page keeps its own wording, since it's Nathan's
+page. New print pieces and messages shouldn't bring it back.

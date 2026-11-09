@@ -133,8 +133,8 @@ and the poster decoded correctly from a 300 dpi render.
 
 - Say it's **organized by parents and not a school program**. Never use the
   school's logo. The dragon badge is our own (D14).
-- **Helmets are required.** Flyers no longer say each child rides with their
-  own parent or guardian (Andrew, Nov 9).
+- **Helmets are required.** Print pieces and announcements don't say each
+  child rides with their own parent or guardian. It stays in the release only (D24).
 - **Write like a parent, not like AI.** See the Tone section of `CLAUDE.md`
   for the specific things to avoid.
 - **Check the route against the site** before reusing old text. The walking
