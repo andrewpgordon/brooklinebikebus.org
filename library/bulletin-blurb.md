@@ -21,8 +21,7 @@ We leave at 7:30, ride along Griggs Terrace, Griggs Road and Washington Street,
 cross Beacon Street at Washington Square all together on one light, and get to
 school at 7:45. Griggs Park is the only meeting place.
 
-Every child rides with their own parent or guardian, and everyone wears a
-helmet, adults too. It's fine if your kid is still learning, and balance bikes
+Everyone wears a helmet, adults too. It's fine if your kid is still learning, and balance bikes
 and scooters can come too. If we have to cancel for weather we'll send word
 by 6:15 that morning.
 
@@ -40,8 +39,8 @@ Andrew Gordon (andrewpgordon@gmail.com) or Nicole McClelland
 
 **Driscoll Bike Bus on Wednesday, October 7.** Driscoll parents are running a
 bike bus to school. Meet at the northeast corner of Griggs Park between 7:15
-and 7:30 and we'll ride over together, getting to school by 7:45. Every child
-rides with their own parent or guardian, and everyone needs a helmet. Sign up
+and 7:30 and we'll ride over together, getting to school by 7:45. Everyone
+needs a helmet. Sign up
 at brooklinebikebus.org/driscoll. This is organized by parents and isn't a school
 program.
 

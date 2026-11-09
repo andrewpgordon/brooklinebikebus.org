@@ -5,9 +5,8 @@ the September slot.
 
 This one is longer than the family email and the WhatsApp message on purpose:
 it goes to people who have never heard of the bike bus, so it has to say what
-one is. Two lines can't be cut whatever the space, the one saying this is
-organized by parents and isn't a school program, and the one saying every child
-rides with their own parent or guardian. Both are from
+one is. One line can't be cut whatever the space, the one saying this is
+organized by parents and isn't a school program. It is from
 `docs/release-language.md`.
 
 No mention of photos, and that's still right for a 110-word blurb, but the
@@ -49,8 +48,7 @@ a group of kids and parents riding to school together on a set route, at the
 speed of the slowest rider. Fifteen kids came to the first one in October.
 
 Everyone meets at the northeast corner of Griggs Park between 7:15 and 7:30, and
-we're at the bike racks by 7:45, fifteen minutes before the bell. Every child
-rides with their own parent or guardian, and everyone wears a helmet, grown-ups
+we're at the bike racks by 7:45, fifteen minutes before the bell. Everyone wears a helmet, grown-ups
 too.
 
 Please sign up at brooklinebikebus.org/driscoll, where the route and the full

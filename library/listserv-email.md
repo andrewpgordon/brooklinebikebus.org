@@ -32,8 +32,7 @@ the crossing guards holding the traffic.
 7:45. We're at the bike racks at school, fifteen minutes before the bell.
 
 Any Driscoll family is welcome, whether or not your kid has biked to school
-before. Every child rides with their own parent or guardian, and everyone
-wears a helmet, adults too. Balance bikes, scooters and training wheels are
+before. Everyone wears a helmet, adults too. Balance bikes, scooters and training wheels are
 all fine, as long as your child can keep up with a group going at walking pace.
 We never ride along Beacon Street. We cross it once, all together.
 

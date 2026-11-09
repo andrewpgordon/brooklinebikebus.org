@@ -19,7 +19,7 @@ If you haven't seen one, it's a bunch of kids and parents riding to school toget
 
 We'll meet at the northeast corner of Griggs Park from 7:15 and head out at 7:30, and we'll be at school by 7:45. Griggs Park is the only meeting place, so come down to it however is easiest.
 
-Kids ride with their own parent, and everyone needs a helmet. If it rains we'll go Thursday the 8th instead.
+Everyone needs a helmet. If it rains we'll go Thursday the 8th instead.
 
 The map, times and sign-up form are here: https://brooklinebikebus.org/driscoll/
 
@@ -41,4 +41,4 @@ This is organized by parents and isn't a school program.
 
 ## WhatsApp or text
 
-Bike bus to Driscoll on Wednesday, Oct 7. Meet at the northeast corner of Griggs Park between 7:15 and 7:30, we ride at 7:30 and get to school by 7:45. Kids ride with their own grown-up, helmets for everyone. Rain date Thursday the 8th. Sign up here: https://brooklinebikebus.org/driscoll/
+Bike bus to Driscoll on Wednesday, Oct 7. Meet at the northeast corner of Griggs Park between 7:15 and 7:30, we ride at 7:30 and get to school by 7:45. Helmets for everyone. Rain date Thursday the 8th. Sign up here: https://brooklinebikebus.org/driscoll/
