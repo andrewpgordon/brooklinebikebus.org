@@ -29,13 +29,16 @@ leftover = re.findall(r"var\(--[a-z-]+\)", svg)
 if leftover:
     raise SystemExit(f"Unknown colours in the website map: {sorted(set(leftover))}")
 
-# Crop to the route.
+# Crop to the route. The box stays 880x400 because flyer.html pins the image to
+# 5.05in by 2.295in, which is the same 2.2:1. A tighter crop round the route
+# letterboxes inside that box, so tightening it means changing the flyer layout
+# too. Worth doing next time the flyer is redone, not on its own.
 svg = svg.replace('viewBox="0 0 940 473"', 'viewBox="60 20 880 400"', 1)
 svg = re.sub(r'<rect x="0" y="0" width="940" height="473"', '<rect x="60" y="20" width="880" height="400"', svg, count=1)
 svg = re.sub(r'\s(role|aria-label)="[^"]*"', "", svg)
 
 # Street names: drop the small ones, enlarge the rest.
-for drop in ("MARION ST", "COREY HILL PARK", "7:05 Mason Terr"):
+for drop in ("MARION ST", "COREY HILL PARK"):
     svg = re.sub(rf'\s*<text[^>]*>{drop}</text>', "", svg)
 svg = svg.replace('font-size="12" letter-spacing="0.12em"', 'font-size="17" letter-spacing="0.1em"')
 svg = svg.replace('font-size="11" letter-spacing="0.1em"', 'font-size="15" letter-spacing="0.08em"')
@@ -46,7 +49,6 @@ svg = svg.replace('font-size="14.5" font-weight="800"', 'font-size="22" font-wei
 svg = svg.replace('stroke-width="5.5"', 'stroke-width="7"')
 for old, new in {
     "7:15 Griggs Park, NE corner": "7:15 Griggs Park",
-    "7:38 Washington Sq (join here too)": "7:38 Washington Sq",
     "7:45 DRISCOLL": "7:45 Driscoll",
 }.items():
     svg = svg.replace(f">{old}<", f">{new}<")
