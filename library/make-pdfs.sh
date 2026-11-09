@@ -12,5 +12,6 @@ weasyprint poster-kit.html "$out/poster-kit.pdf" 2>/dev/null
 weasyprint handlebar-tag.html "$out/handlebar-tag.pdf" 2>/dev/null
 weasyprint tab-refill.html "$out/tab-refill.pdf" 2>/dev/null
 weasyprint table-tent.html "$out/table-tent.pdf" 2>/dev/null
-echo "Made the flyer, poster kit, handlebar tags, tab refills and table tents in $out"
+weasyprint pull-tags.html "$out/pull-tags.pdf" 2>/dev/null
+echo "Made the flyer, poster kit, handlebar tags, tab refills, table tents and pull tags in $out"
 echo "Look at every page before printing, and scan the QR code with your phone."

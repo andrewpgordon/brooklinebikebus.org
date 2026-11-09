@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Driscoll Bike Bus pull tags</title>
+<!--
+  Eight hand-out cards per Letter sheet, 3.75 x 2.5 in each, two across and
+  four down. Cut on the dashed lines. One goes to each kid to take home to a
+  parent, so it carries the date, the meeting place and the QR code.
+  For a new ride, change everything marked RIDE DETAILS. See library/README.md.
+  Colours are copied from public/assets/site.css (crimson #BB262A, gold #FFB101).
+-->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@500;600&family=Source+Serif+4:wght@400;600&display=swap">
+<style>
+  @page { size: Letter; margin: 0.25in; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
+  body { font-family: "Source Serif 4", Georgia, serif; color: #1E1516; }
+  .sheet { display: grid; grid-template-columns: 3.75in 3.75in; grid-template-rows: repeat(4, 2.5in); width: 7.5in; height: 10in; }
+  .tag { position: relative; width: 3.75in; height: 2.5in; border: 0.75pt dashed #9A8F86; margin: -0.375pt; padding: 0.12in 0.14in; overflow: hidden; }
+
+  .badge { position: absolute; left: 0.14in; top: 0.12in; width: 0.95in; height: 0.95in; }
+  .head { position: absolute; left: 1.2in; top: 0.14in; right: 0.14in; }
+  .head h1 { margin: 0; font-family: Archivo, sans-serif; font-weight: 800; font-size: 18pt; line-height: 0.98; letter-spacing: -0.02em;
+             text-transform: uppercase; color: #BB262A; }
+  .head .when { display: inline-block; margin-top: 5pt; background: #BB262A; color: #FFFFFF; border-radius: 3pt; padding: 2.5pt 6pt;
+                font-family: Archivo, sans-serif; font-weight: 800; font-size: 10.5pt; letter-spacing: -0.01em; text-transform: uppercase; white-space: nowrap; }
+
+  .details { position: absolute; left: 0.14in; top: 1.18in; width: 2.05in; font-family: Archivo, sans-serif; line-height: 1.22; }
+  .details div { margin-bottom: 3pt; font-size: 8.5pt; font-weight: 500; color: #4C3E3E; }
+  .details b { font-weight: 800; color: #1E1516; font-size: 9.5pt; }
+
+  .qrbox { position: absolute; right: 0.14in; top: 1in; width: 1.1in; text-align: center; }
+  .qrbox img { width: 1.1in; height: 1.1in; display: block; image-rendering: pixelated; }
+  .qrbox .url { margin-top: 1pt; font-family: "IBM Plex Mono", monospace; font-weight: 600; font-size: 6.5pt; white-space: nowrap; }
+
+  .fine { position: absolute; left: 0.14in; right: 0.14in; bottom: 0.07in; font-family: "IBM Plex Mono", monospace; font-size: 5.5pt; color: #7C6E6C; }
+</style>
+</head>
+<body>
+<div class="sheet">
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+  <div class="tag">
+    <img class="badge" src="assets/driscoll-badge-print.png" alt="">
+    <div class="head">
+      <h1>Driscoll<br>Bike Bus</h1>
+      <!-- RIDE DETAILS: date, times and the meeting place -->
+      <div class="when">Wed, November 18</div>
+    </div>
+    <div class="details">
+      <div><b>7:15</b> Meet at Griggs Park, northeast corner</div>
+      <div><b>7:30</b> We leave</div>
+      <div><b>7:45</b> At school</div>
+    </div>
+    <div class="qrbox">
+      <img src="assets/qr-brooklinebikebus.png" alt="">
+      <div class="url">brooklinebikebus.org</div>
+    </div>
+    <div class="fine">Organized by Driscoll parents. It isn't a school program.</div>
+  </div>
+</div>
+</body>
+</html>
